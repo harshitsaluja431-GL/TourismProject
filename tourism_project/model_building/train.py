@@ -17,9 +17,9 @@ from huggingface_hub.utils import RepositoryNotFoundError, HfHubHTTPError
 # for logging metrics using mlflow
 import mlflow
 
-mlflow.set_tracking_uri("http://localhost:5000")
+#mlflow.set_tracking_uri("http://localhost:5000")
 #MLflow will save metrics and params into the GitHub workspace folders.
-#mlflow.set_tracking_uri("file:./mlruns")
+mlflow.set_tracking_uri("file:./mlruns")
 mlflow.set_experiment("tourism-project-experiment")
 
 api = HfApi()
