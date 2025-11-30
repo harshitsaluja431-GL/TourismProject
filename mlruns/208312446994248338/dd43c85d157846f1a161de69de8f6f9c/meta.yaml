@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/dd43c85d157846f1a161de69de8f6f9c/artifacts
+end_time: 1764539274700
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: dd43c85d157846f1a161de69de8f6f9c
+run_name: judicious-dog-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539274657
+status: 3
+tags: []
+user_id: root

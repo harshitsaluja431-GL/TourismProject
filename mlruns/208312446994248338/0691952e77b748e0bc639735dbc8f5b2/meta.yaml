@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/0691952e77b748e0bc639735dbc8f5b2/artifacts
+end_time: 1764539277509
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 0691952e77b748e0bc639735dbc8f5b2
+run_name: youthful-bug-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539277445
+status: 3
+tags: []
+user_id: root

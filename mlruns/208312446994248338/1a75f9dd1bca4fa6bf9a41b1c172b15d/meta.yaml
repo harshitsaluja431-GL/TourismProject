@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/1a75f9dd1bca4fa6bf9a41b1c172b15d/artifacts
+end_time: 1764539275920
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 1a75f9dd1bca4fa6bf9a41b1c172b15d
+run_name: invincible-snipe-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539275811
+status: 3
+tags: []
+user_id: root

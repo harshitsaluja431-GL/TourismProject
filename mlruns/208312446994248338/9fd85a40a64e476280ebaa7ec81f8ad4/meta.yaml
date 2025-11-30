@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/9fd85a40a64e476280ebaa7ec81f8ad4/artifacts
+end_time: 1764539273886
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 9fd85a40a64e476280ebaa7ec81f8ad4
+run_name: puzzled-cod-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539273840
+status: 3
+tags: []
+user_id: root

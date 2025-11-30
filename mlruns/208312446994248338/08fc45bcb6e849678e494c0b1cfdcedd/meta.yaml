@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/08fc45bcb6e849678e494c0b1cfdcedd/artifacts
+end_time: 1764539272951
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 08fc45bcb6e849678e494c0b1cfdcedd
+run_name: traveling-sponge-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539272907
+status: 3
+tags: []
+user_id: root

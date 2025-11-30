@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/d343b73fc0be4493ab23519ae274a1d2/artifacts
+end_time: 1764539271972
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: d343b73fc0be4493ab23519ae274a1d2
+run_name: nervous-sow-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539271927
+status: 3
+tags: []
+user_id: root

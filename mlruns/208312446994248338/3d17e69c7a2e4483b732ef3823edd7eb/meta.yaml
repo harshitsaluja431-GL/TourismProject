@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/3d17e69c7a2e4483b732ef3823edd7eb/artifacts
+end_time: 1764539276915
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 3d17e69c7a2e4483b732ef3823edd7eb
+run_name: vaunted-fly-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539276870
+status: 3
+tags: []
+user_id: root

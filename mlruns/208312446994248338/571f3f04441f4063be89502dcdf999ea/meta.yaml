@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/571f3f04441f4063be89502dcdf999ea/artifacts
+end_time: 1764539276237
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 571f3f04441f4063be89502dcdf999ea
+run_name: shivering-gull-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539276190
+status: 3
+tags: []
+user_id: root

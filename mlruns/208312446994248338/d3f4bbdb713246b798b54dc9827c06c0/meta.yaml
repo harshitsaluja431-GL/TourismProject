@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/d3f4bbdb713246b798b54dc9827c06c0/artifacts
+end_time: 1764539272210
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: d3f4bbdb713246b798b54dc9827c06c0
+run_name: omniscient-asp-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539272163
+status: 3
+tags: []
+user_id: root

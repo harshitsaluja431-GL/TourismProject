@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/622220599ccb4efea64d1bc56386c99a/artifacts
+end_time: 1764539275743
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 622220599ccb4efea64d1bc56386c99a
+run_name: languid-shad-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539275698
+status: 3
+tags: []
+user_id: root

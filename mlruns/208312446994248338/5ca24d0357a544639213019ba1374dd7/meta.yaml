@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/5ca24d0357a544639213019ba1374dd7/artifacts
+end_time: 1764539277630
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 5ca24d0357a544639213019ba1374dd7
+run_name: gregarious-wren-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539277580
+status: 3
+tags: []
+user_id: root

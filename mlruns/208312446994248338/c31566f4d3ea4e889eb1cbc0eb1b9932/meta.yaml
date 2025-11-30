@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/c31566f4d3ea4e889eb1cbc0eb1b9932/artifacts
+end_time: 1764539276611
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: c31566f4d3ea4e889eb1cbc0eb1b9932
+run_name: peaceful-deer-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539276566
+status: 3
+tags: []
+user_id: root

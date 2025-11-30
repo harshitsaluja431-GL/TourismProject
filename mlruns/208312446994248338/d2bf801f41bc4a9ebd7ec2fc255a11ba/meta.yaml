@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/d2bf801f41bc4a9ebd7ec2fc255a11ba/artifacts
+end_time: 1764539275159
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: d2bf801f41bc4a9ebd7ec2fc255a11ba
+run_name: wise-finch-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539275115
+status: 3
+tags: []
+user_id: root

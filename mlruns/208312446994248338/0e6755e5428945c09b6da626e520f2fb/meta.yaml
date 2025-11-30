@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/0e6755e5428945c09b6da626e520f2fb/artifacts
+end_time: 1764539275992
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 0e6755e5428945c09b6da626e520f2fb
+run_name: skillful-mare-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539275932
+status: 3
+tags: []
+user_id: root

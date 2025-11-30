@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/869942d8d1a04e8891573db5efa9b483/artifacts
+end_time: 1764539275338
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 869942d8d1a04e8891573db5efa9b483
+run_name: angry-bug-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539275290
+status: 3
+tags: []
+user_id: root

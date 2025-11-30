@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/76966a75f3914a2eafb3eaefdf0511d7/artifacts
+end_time: 1764539276554
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 76966a75f3914a2eafb3eaefdf0511d7
+run_name: gregarious-whale-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539276506
+status: 3
+tags: []
+user_id: root

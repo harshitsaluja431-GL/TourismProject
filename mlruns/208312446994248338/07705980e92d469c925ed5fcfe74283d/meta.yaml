@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/07705980e92d469c925ed5fcfe74283d/artifacts
+end_time: 1764539276363
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 07705980e92d469c925ed5fcfe74283d
+run_name: worried-colt-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539276316
+status: 3
+tags: []
+user_id: root

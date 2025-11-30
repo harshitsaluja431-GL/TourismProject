@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/ac86db1981f34cd095955feb1d91c1e4/artifacts
+end_time: 1764539275463
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: ac86db1981f34cd095955feb1d91c1e4
+run_name: gaudy-gull-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539275417
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/2b3be63d512f44fc85887d2134eb4451/artifacts
+end_time: 1764539275632
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: 2b3be63d512f44fc85887d2134eb4451
+run_name: peaceful-newt-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539275588
+status: 3
+tags: []
+user_id: root

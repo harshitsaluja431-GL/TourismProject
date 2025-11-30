@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/aa7764d26d6e4d42ac6e32ce12c36b83/artifacts
+end_time: 1764539272093
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: aa7764d26d6e4d42ac6e32ce12c36b83
+run_name: flawless-skunk-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539272038
+status: 3
+tags: []
+user_id: root

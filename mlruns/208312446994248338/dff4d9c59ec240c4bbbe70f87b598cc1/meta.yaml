@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/dff4d9c59ec240c4bbbe70f87b598cc1/artifacts
+end_time: 1764539273944
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: dff4d9c59ec240c4bbbe70f87b598cc1
+run_name: masked-mare-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539273898
+status: 3
+tags: []
+user_id: root

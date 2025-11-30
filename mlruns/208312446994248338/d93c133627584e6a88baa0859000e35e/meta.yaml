@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208312446994248338/d93c133627584e6a88baa0859000e35e/artifacts
+end_time: 1764539271860
+entry_point_name: ''
+experiment_id: '208312446994248338'
+lifecycle_stage: active
+run_id: d93c133627584e6a88baa0859000e35e
+run_name: thoughtful-lark-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539271800
+status: 3
+tags: []
+user_id: root
