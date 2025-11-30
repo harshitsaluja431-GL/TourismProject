@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/dab79a06fbd946d19d4680377139e6dc/artifacts
+end_time: 1764539747730
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: dab79a06fbd946d19d4680377139e6dc
+run_name: exultant-ox-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539747713
+status: 3
+tags: []
+user_id: runner

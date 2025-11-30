@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/20c13eceb3a444ff955e8980fbf3f5c2/artifacts
+end_time: 1764539747748
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 20c13eceb3a444ff955e8980fbf3f5c2
+run_name: burly-trout-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539747732
+status: 3
+tags: []
+user_id: runner

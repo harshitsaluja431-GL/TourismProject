@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/16fa97b31d9b439c9b2c6ef451377035/artifacts
+end_time: 1764539744975
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 16fa97b31d9b439c9b2c6ef451377035
+run_name: serious-pig-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539744962
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/76f14875394d41c1965b891d8be0caa4/artifacts
+end_time: 1764539761446
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 76f14875394d41c1965b891d8be0caa4
+run_name: crawling-cub-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539761419
+status: 3
+tags: []
+user_id: runner

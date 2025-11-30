@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/3abb1fafc81f462a9d8855cf74f38dd2/artifacts
+end_time: 1764539762508
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 3abb1fafc81f462a9d8855cf74f38dd2
+run_name: selective-horse-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539762477
+status: 3
+tags: []
+user_id: runner

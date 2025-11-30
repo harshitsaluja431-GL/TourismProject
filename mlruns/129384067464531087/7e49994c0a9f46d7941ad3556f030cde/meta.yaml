@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/7e49994c0a9f46d7941ad3556f030cde/artifacts
+end_time: 1764539755439
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 7e49994c0a9f46d7941ad3556f030cde
+run_name: dapper-yak-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539755416
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/b15fa1ff19c043009e85013d44f6809b/artifacts
+end_time: 1764539770892
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: b15fa1ff19c043009e85013d44f6809b
+run_name: rogue-finch-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539770860
+status: 3
+tags: []
+user_id: runner

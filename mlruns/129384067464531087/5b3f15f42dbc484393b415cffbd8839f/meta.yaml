@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/5b3f15f42dbc484393b415cffbd8839f/artifacts
+end_time: 1764539771140
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 5b3f15f42dbc484393b415cffbd8839f
+run_name: dapper-sow-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539771108
+status: 3
+tags: []
+user_id: runner

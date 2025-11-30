@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/a441fe7238604b1daa06738fe1747cb3/artifacts
+end_time: 1764539760827
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: a441fe7238604b1daa06738fe1747cb3
+run_name: traveling-colt-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539760801
+status: 3
+tags: []
+user_id: runner

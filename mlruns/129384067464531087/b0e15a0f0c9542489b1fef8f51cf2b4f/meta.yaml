@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/b0e15a0f0c9542489b1fef8f51cf2b4f/artifacts
+end_time: 1764539768149
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: b0e15a0f0c9542489b1fef8f51cf2b4f
+run_name: abrasive-hound-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539768118
+status: 3
+tags: []
+user_id: runner

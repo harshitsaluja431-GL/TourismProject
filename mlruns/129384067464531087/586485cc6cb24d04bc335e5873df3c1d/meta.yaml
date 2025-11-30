@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/586485cc6cb24d04bc335e5873df3c1d/artifacts
+end_time: 1764539775209
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 586485cc6cb24d04bc335e5873df3c1d
+run_name: rogue-hawk-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539775175
+status: 3
+tags: []
+user_id: runner

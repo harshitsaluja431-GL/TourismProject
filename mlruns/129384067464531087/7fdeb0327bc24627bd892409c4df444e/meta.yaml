@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/7fdeb0327bc24627bd892409c4df444e/artifacts
+end_time: 1764539752172
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 7fdeb0327bc24627bd892409c4df444e
+run_name: indecisive-doe-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539752152
+status: 3
+tags: []
+user_id: runner

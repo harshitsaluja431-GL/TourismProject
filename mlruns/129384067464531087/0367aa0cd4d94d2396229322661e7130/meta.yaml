@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/0367aa0cd4d94d2396229322661e7130/artifacts
+end_time: 1764539757557
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 0367aa0cd4d94d2396229322661e7130
+run_name: likeable-shoat-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539757531
+status: 3
+tags: []
+user_id: runner

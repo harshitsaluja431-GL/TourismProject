@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/b2bc9bccf9ba4dadad9332b8dfe7183c/artifacts
+end_time: 1764539772518
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: b2bc9bccf9ba4dadad9332b8dfe7183c
+run_name: crawling-quail-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539772484
+status: 3
+tags: []
+user_id: runner

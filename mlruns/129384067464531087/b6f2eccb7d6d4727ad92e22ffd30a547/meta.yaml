@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/b6f2eccb7d6d4727ad92e22ffd30a547/artifacts
+end_time: 1764539762377
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: b6f2eccb7d6d4727ad92e22ffd30a547
+run_name: likeable-squid-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539762349
+status: 3
+tags: []
+user_id: runner

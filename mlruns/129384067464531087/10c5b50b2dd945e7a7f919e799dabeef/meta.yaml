@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/10c5b50b2dd945e7a7f919e799dabeef/artifacts
+end_time: 1764539744573
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 10c5b50b2dd945e7a7f919e799dabeef
+run_name: exultant-duck-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539744560
+status: 3
+tags: []
+user_id: runner

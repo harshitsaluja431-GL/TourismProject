@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/fc5dfa59cc504689ba7b50f1321dc250/artifacts
+end_time: 1764539753332
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: fc5dfa59cc504689ba7b50f1321dc250
+run_name: treasured-ox-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539753310
+status: 3
+tags: []
+user_id: runner

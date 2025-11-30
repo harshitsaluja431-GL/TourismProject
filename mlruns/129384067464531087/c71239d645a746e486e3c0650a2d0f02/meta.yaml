@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/c71239d645a746e486e3c0650a2d0f02/artifacts
+end_time: 1764539761985
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: c71239d645a746e486e3c0650a2d0f02
+run_name: rambunctious-swan-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539761958
+status: 3
+tags: []
+user_id: runner

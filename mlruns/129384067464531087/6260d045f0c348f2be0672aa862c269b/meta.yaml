@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/6260d045f0c348f2be0672aa862c269b/artifacts
+end_time: 1764539751637
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 6260d045f0c348f2be0672aa862c269b
+run_name: polite-steed-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539751617
+status: 3
+tags: []
+user_id: runner

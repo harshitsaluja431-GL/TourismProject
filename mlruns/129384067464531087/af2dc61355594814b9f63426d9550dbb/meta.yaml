@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/af2dc61355594814b9f63426d9550dbb/artifacts
+end_time: 1764539772886
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: af2dc61355594814b9f63426d9550dbb
+run_name: mercurial-skunk-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539772852
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/85bc71a28bd248d899df03745958cd3b/artifacts
+end_time: 1764539764255
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 85bc71a28bd248d899df03745958cd3b
+run_name: popular-perch-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539764226
+status: 3
+tags: []
+user_id: runner

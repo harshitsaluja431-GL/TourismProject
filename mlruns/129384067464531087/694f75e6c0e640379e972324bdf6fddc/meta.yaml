@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/694f75e6c0e640379e972324bdf6fddc/artifacts
+end_time: 1764539753668
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 694f75e6c0e640379e972324bdf6fddc
+run_name: puzzled-wren-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539753646
+status: 3
+tags: []
+user_id: runner

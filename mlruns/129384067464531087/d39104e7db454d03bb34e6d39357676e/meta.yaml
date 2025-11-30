@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/d39104e7db454d03bb34e6d39357676e/artifacts
+end_time: 1764539751483
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: d39104e7db454d03bb34e6d39357676e
+run_name: casual-roo-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539751463
+status: 3
+tags: []
+user_id: runner

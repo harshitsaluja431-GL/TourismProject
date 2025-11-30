@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/0d7628837a7f408cab1ddec31db9c8af/artifacts
+end_time: 1764539748138
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 0d7628837a7f408cab1ddec31db9c8af
+run_name: judicious-crab-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539748121
+status: 3
+tags: []
+user_id: runner

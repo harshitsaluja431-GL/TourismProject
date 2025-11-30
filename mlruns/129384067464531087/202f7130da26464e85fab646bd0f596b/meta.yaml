@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/202f7130da26464e85fab646bd0f596b/artifacts
+end_time: 1764539760769
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 202f7130da26464e85fab646bd0f596b
+run_name: capricious-stag-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539760742
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/a4ba62ba40234f2ab296aaefd643a5b5/artifacts
+end_time: 1764539773523
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: a4ba62ba40234f2ab296aaefd643a5b5
+run_name: skittish-crane-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539773490
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/0a2f61d949c740418405429ca8a4302e/artifacts
+end_time: 1764539744543
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 0a2f61d949c740418405429ca8a4302e
+run_name: abundant-kit-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539744530
+status: 3
+tags: []
+user_id: runner

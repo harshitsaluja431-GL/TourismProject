@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/c92ac6b321b54a6aafb85056da69bd23/artifacts
+end_time: 1764539749763
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: c92ac6b321b54a6aafb85056da69bd23
+run_name: respected-crane-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539749745
+status: 3
+tags: []
+user_id: runner

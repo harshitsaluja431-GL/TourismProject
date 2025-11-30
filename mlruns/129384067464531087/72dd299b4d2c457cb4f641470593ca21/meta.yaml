@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/72dd299b4d2c457cb4f641470593ca21/artifacts
+end_time: 1764539766123
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 72dd299b4d2c457cb4f641470593ca21
+run_name: merciful-deer-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539766094
+status: 3
+tags: []
+user_id: runner

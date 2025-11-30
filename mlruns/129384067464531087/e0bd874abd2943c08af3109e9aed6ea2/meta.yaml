@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/e0bd874abd2943c08af3109e9aed6ea2/artifacts
+end_time: 1764539744602
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: e0bd874abd2943c08af3109e9aed6ea2
+run_name: secretive-rook-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539744589
+status: 3
+tags: []
+user_id: runner

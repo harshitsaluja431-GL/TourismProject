@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/f9a664b0d2044329b9affc4f989644a9/artifacts
+end_time: 1764539746022
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: f9a664b0d2044329b9affc4f989644a9
+run_name: welcoming-wolf-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539746008
+status: 3
+tags: []
+user_id: runner

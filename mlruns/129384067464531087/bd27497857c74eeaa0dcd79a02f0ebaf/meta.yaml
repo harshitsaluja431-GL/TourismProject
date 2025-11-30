@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/bd27497857c74eeaa0dcd79a02f0ebaf/artifacts
+end_time: 1764539759468
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: bd27497857c74eeaa0dcd79a02f0ebaf
+run_name: orderly-pug-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539759443
+status: 3
+tags: []
+user_id: runner

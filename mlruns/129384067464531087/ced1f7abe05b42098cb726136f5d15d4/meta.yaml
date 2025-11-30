@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/ced1f7abe05b42098cb726136f5d15d4/artifacts
+end_time: 1764539751659
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: ced1f7abe05b42098cb726136f5d15d4
+run_name: serious-robin-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539751639
+status: 3
+tags: []
+user_id: runner

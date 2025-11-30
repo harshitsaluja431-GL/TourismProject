@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/f4b67f5d87774e95af63af5fe4de30f7/artifacts
+end_time: 1764539760798
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: f4b67f5d87774e95af63af5fe4de30f7
+run_name: amusing-asp-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539760772
+status: 3
+tags: []
+user_id: runner

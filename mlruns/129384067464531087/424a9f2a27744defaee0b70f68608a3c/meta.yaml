@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/424a9f2a27744defaee0b70f68608a3c/artifacts
+end_time: 1764539775020
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 424a9f2a27744defaee0b70f68608a3c
+run_name: gaudy-shrimp-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539774986
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/4fe8ebc3dc61403f8dd6521640953469/artifacts
+end_time: 1764539745020
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 4fe8ebc3dc61403f8dd6521640953469
+run_name: bemused-newt-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539745007
+status: 3
+tags: []
+user_id: runner

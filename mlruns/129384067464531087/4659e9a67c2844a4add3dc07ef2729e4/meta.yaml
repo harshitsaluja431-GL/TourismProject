@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/4659e9a67c2844a4add3dc07ef2729e4/artifacts
+end_time: 1764539759129
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 4659e9a67c2844a4add3dc07ef2729e4
+run_name: gentle-foal-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539759102
+status: 3
+tags: []
+user_id: runner

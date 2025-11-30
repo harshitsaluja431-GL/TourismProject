@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/a25a0fafed0e4f2ca501afdbac249481/artifacts
+end_time: 1764539756441
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: a25a0fafed0e4f2ca501afdbac249481
+run_name: vaunted-shad-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539756417
+status: 3
+tags: []
+user_id: runner

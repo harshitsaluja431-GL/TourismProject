@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/158a7ce3f4694ece960d14df1d82b9c8/artifacts
+end_time: 1764539744720
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 158a7ce3f4694ece960d14df1d82b9c8
+run_name: calm-hound-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539744707
+status: 3
+tags: []
+user_id: runner

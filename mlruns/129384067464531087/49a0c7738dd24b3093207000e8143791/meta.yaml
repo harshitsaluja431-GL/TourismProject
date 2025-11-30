@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/49a0c7738dd24b3093207000e8143791/artifacts
+end_time: 1764539761357
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 49a0c7738dd24b3093207000e8143791
+run_name: carefree-robin-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539761330
+status: 3
+tags: []
+user_id: runner

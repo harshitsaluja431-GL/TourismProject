@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/8e64243719c74224b0e48ae4178b1a34/artifacts
+end_time: 1764539747317
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 8e64243719c74224b0e48ae4178b1a34
+run_name: suave-midge-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539747301
+status: 3
+tags: []
+user_id: runner

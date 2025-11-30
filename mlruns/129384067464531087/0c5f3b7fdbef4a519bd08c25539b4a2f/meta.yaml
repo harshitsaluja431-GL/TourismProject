@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/0c5f3b7fdbef4a519bd08c25539b4a2f/artifacts
+end_time: 1764539765734
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 0c5f3b7fdbef4a519bd08c25539b4a2f
+run_name: enchanting-stag-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539765704
+status: 3
+tags: []
+user_id: runner

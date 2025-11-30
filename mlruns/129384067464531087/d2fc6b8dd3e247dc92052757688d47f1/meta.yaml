@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/d2fc6b8dd3e247dc92052757688d47f1/artifacts
+end_time: 1764539752150
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: d2fc6b8dd3e247dc92052757688d47f1
+run_name: bouncy-mole-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539752129
+status: 3
+tags: []
+user_id: runner

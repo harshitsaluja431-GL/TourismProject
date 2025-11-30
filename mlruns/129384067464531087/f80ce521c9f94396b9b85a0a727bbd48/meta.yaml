@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/f80ce521c9f94396b9b85a0a727bbd48/artifacts
+end_time: 1764539768386
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: f80ce521c9f94396b9b85a0a727bbd48
+run_name: fun-ray-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539768355
+status: 3
+tags: []
+user_id: runner

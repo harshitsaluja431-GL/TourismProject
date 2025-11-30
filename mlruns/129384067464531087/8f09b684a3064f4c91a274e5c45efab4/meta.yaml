@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/8f09b684a3064f4c91a274e5c45efab4/artifacts
+end_time: 1764539748617
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 8f09b684a3064f4c91a274e5c45efab4
+run_name: magnificent-bug-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539748599
+status: 3
+tags: []
+user_id: runner

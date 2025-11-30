@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/00c4b2ab0c8e4ccbb52da811a2409580/artifacts
+end_time: 1764539744396
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 00c4b2ab0c8e4ccbb52da811a2409580
+run_name: able-trout-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539744384
+status: 3
+tags: []
+user_id: runner

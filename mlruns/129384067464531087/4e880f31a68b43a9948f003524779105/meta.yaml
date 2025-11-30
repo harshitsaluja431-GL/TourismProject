@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/4e880f31a68b43a9948f003524779105/artifacts
+end_time: 1764539757935
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 4e880f31a68b43a9948f003524779105
+run_name: amusing-perch-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539757910
+status: 3
+tags: []
+user_id: runner

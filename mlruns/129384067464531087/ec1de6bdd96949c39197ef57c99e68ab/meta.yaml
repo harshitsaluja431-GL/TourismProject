@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/ec1de6bdd96949c39197ef57c99e68ab/artifacts
+end_time: 1764539761625
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: ec1de6bdd96949c39197ef57c99e68ab
+run_name: bald-dove-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539761598
+status: 3
+tags: []
+user_id: runner

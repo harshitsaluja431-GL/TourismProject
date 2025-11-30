@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/a4b4b72d870640fcb01819610bf3533d/artifacts
+end_time: 1764539762974
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: a4b4b72d870640fcb01819610bf3533d
+run_name: powerful-fox-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539762946
+status: 3
+tags: []
+user_id: runner

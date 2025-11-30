@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/63d760488fcf4ed696494b9688eacba9/artifacts
+end_time: 1764539746614
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 63d760488fcf4ed696494b9688eacba9
+run_name: crawling-mouse-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539746599
+status: 3
+tags: []
+user_id: runner

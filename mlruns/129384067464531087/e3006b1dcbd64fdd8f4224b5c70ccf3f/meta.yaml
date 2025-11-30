@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/e3006b1dcbd64fdd8f4224b5c70ccf3f/artifacts
+end_time: 1764539748831
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: e3006b1dcbd64fdd8f4224b5c70ccf3f
+run_name: legendary-foal-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539748814
+status: 3
+tags: []
+user_id: runner

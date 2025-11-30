@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/96b48f8fe1ff401e9a30858cfd899a77/artifacts
+end_time: 1764539756102
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 96b48f8fe1ff401e9a30858cfd899a77
+run_name: tasteful-wren-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539756079
+status: 3
+tags: []
+user_id: runner

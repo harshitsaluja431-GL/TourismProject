@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/06b9120b6cf843319b50aabf197e547d/artifacts
+end_time: 1764539746363
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 06b9120b6cf843319b50aabf197e547d
+run_name: loud-perch-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539746347
+status: 3
+tags: []
+user_id: runner

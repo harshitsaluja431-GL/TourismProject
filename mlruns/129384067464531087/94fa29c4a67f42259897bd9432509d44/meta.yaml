@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/94fa29c4a67f42259897bd9432509d44/artifacts
+end_time: 1764539773337
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 94fa29c4a67f42259897bd9432509d44
+run_name: luminous-squid-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539773303
+status: 3
+tags: []
+user_id: runner

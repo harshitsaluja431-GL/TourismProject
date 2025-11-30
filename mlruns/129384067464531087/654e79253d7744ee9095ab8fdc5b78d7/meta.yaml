@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/654e79253d7744ee9095ab8fdc5b78d7/artifacts
+end_time: 1764539755236
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 654e79253d7744ee9095ab8fdc5b78d7
+run_name: whimsical-worm-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539755213
+status: 3
+tags: []
+user_id: runner

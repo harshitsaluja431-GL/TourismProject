@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/5e3901153fb04b1688a8399e9286e620/artifacts
+end_time: 1764539767343
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 5e3901153fb04b1688a8399e9286e620
+run_name: efficient-goat-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539767312
+status: 3
+tags: []
+user_id: runner

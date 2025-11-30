@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/bced0c6769854054a5ab643ca5570108/artifacts
+end_time: 1764539756598
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: bced0c6769854054a5ab643ca5570108
+run_name: wise-stoat-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539756574
+status: 3
+tags: []
+user_id: runner

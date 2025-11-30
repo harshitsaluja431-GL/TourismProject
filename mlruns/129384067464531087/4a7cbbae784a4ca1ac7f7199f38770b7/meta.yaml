@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/4a7cbbae784a4ca1ac7f7199f38770b7/artifacts
+end_time: 1764539744705
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 4a7cbbae784a4ca1ac7f7199f38770b7
+run_name: exultant-crow-994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539744692
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/f245812dd45a452c9a6cdf0660f92866/artifacts
+end_time: 1764539771793
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: f245812dd45a452c9a6cdf0660f92866
+run_name: gaudy-elk-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539771760
+status: 3
+tags: []
+user_id: runner

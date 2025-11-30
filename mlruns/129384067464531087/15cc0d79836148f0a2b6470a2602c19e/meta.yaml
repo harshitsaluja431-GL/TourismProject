@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/15cc0d79836148f0a2b6470a2602c19e/artifacts
+end_time: 1764539748007
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 15cc0d79836148f0a2b6470a2602c19e
+run_name: abundant-snake-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539747990
+status: 3
+tags: []
+user_id: runner

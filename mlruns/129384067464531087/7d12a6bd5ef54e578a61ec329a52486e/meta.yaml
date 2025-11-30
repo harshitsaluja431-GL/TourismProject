@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/7d12a6bd5ef54e578a61ec329a52486e/artifacts
+end_time: 1764539746943
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 7d12a6bd5ef54e578a61ec329a52486e
+run_name: omniscient-sloth-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539746928
+status: 3
+tags: []
+user_id: runner

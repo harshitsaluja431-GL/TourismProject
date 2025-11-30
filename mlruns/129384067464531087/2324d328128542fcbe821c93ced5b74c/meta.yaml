@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/2324d328128542fcbe821c93ced5b74c/artifacts
+end_time: 1764539752654
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 2324d328128542fcbe821c93ced5b74c
+run_name: whimsical-lamb-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539752633
+status: 3
+tags: []
+user_id: runner

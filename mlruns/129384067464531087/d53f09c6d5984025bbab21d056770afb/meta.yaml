@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/d53f09c6d5984025bbab21d056770afb/artifacts
+end_time: 1764539755336
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: d53f09c6d5984025bbab21d056770afb
+run_name: spiffy-squid-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539755314
+status: 3
+tags: []
+user_id: runner

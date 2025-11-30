@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/eb40568496ac42bfbb12d6e6e8a7eb1a/artifacts
+end_time: 1764539758431
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: eb40568496ac42bfbb12d6e6e8a7eb1a
+run_name: bold-crow-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539758406
+status: 3
+tags: []
+user_id: runner

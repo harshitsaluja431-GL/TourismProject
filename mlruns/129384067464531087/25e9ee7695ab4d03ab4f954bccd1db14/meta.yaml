@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/25e9ee7695ab4d03ab4f954bccd1db14/artifacts
+end_time: 1764539744497
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 25e9ee7695ab4d03ab4f954bccd1db14
+run_name: amusing-toad-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539744484
+status: 3
+tags: []
+user_id: runner

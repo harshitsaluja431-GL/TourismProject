@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/9264f018fd6d4cc0a9224120c904613d/artifacts
+end_time: 1764539769804
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 9264f018fd6d4cc0a9224120c904613d
+run_name: suave-sheep-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539769772
+status: 3
+tags: []
+user_id: runner

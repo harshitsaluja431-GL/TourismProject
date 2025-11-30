@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/afcdd8ae5fac4201acc3aba92d3a50c8/artifacts
+end_time: 1764539751880
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: afcdd8ae5fac4201acc3aba92d3a50c8
+run_name: debonair-conch-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539751860
+status: 3
+tags: []
+user_id: runner

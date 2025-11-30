@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/fe9bbae824a14624ae8e5b181339925e/artifacts
+end_time: 1764539772776
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: fe9bbae824a14624ae8e5b181339925e
+run_name: monumental-wasp-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539772743
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/9bf2b0ee49fa4721aea9fb7d94b4305e/artifacts
+end_time: 1764539750682
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 9bf2b0ee49fa4721aea9fb7d94b4305e
+run_name: victorious-skink-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539750663
+status: 3
+tags: []
+user_id: runner

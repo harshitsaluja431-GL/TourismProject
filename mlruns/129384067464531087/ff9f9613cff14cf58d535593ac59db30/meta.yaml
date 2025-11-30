@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/ff9f9613cff14cf58d535593ac59db30/artifacts
+end_time: 1764539770328
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: ff9f9613cff14cf58d535593ac59db30
+run_name: stylish-squirrel-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539770296
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/81e653dcf02d42c28b2806c630a65e27/artifacts
+end_time: 1764539773413
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 81e653dcf02d42c28b2806c630a65e27
+run_name: handsome-chimp-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539773378
+status: 3
+tags: []
+user_id: runner

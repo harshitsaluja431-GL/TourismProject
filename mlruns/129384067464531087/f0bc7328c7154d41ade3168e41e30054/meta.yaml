@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/f0bc7328c7154d41ade3168e41e30054/artifacts
+end_time: 1764539768216
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: f0bc7328c7154d41ade3168e41e30054
+run_name: grandiose-ox-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539768186
+status: 3
+tags: []
+user_id: runner

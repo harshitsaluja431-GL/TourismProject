@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/4021899514bd47bdaa4669ad295a392e/artifacts
+end_time: 1764539745989
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 4021899514bd47bdaa4669ad295a392e
+run_name: nebulous-mouse-266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539745975
+status: 3
+tags: []
+user_id: runner

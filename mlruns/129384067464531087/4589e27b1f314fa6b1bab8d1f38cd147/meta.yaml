@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/4589e27b1f314fa6b1bab8d1f38cd147/artifacts
+end_time: 1764539753213
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 4589e27b1f314fa6b1bab8d1f38cd147
+run_name: kindly-gull-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539753192
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/83582a6e90bf4a2bae9ecfb9122cdf77/artifacts
+end_time: 1764539764318
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 83582a6e90bf4a2bae9ecfb9122cdf77
+run_name: whimsical-doe-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539764289
+status: 3
+tags: []
+user_id: runner

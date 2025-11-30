@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/3566bae64c784c39952c2c351cd393b2/artifacts
+end_time: 1764539774080
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 3566bae64c784c39952c2c351cd393b2
+run_name: unequaled-pug-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539774046
+status: 3
+tags: []
+user_id: runner

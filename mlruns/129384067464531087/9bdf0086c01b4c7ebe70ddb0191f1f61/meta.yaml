@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/9bdf0086c01b4c7ebe70ddb0191f1f61/artifacts
+end_time: 1764539754198
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 9bdf0086c01b4c7ebe70ddb0191f1f61
+run_name: trusting-finch-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539754176
+status: 3
+tags: []
+user_id: runner

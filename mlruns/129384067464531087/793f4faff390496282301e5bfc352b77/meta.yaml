@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/793f4faff390496282301e5bfc352b77/artifacts
+end_time: 1764539752331
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 793f4faff390496282301e5bfc352b77
+run_name: tasteful-penguin-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539752311
+status: 3
+tags: []
+user_id: runner

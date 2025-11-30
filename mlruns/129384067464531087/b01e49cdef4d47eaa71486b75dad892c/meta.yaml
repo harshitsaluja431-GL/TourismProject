@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/b01e49cdef4d47eaa71486b75dad892c/artifacts
+end_time: 1764539745598
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: b01e49cdef4d47eaa71486b75dad892c
+run_name: capricious-cod-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539745584
+status: 3
+tags: []
+user_id: runner

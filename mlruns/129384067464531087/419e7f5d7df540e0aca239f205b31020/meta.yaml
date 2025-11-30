@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/419e7f5d7df540e0aca239f205b31020/artifacts
+end_time: 1764539762196
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 419e7f5d7df540e0aca239f205b31020
+run_name: stylish-gull-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539762168
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/5f4fefe76691435d8d3e65f29f33f49c/artifacts
+end_time: 1764539774869
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 5f4fefe76691435d8d3e65f29f33f49c
+run_name: powerful-penguin-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539774835
+status: 3
+tags: []
+user_id: runner

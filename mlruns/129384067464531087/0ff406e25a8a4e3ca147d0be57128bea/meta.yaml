@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/0ff406e25a8a4e3ca147d0be57128bea/artifacts
+end_time: 1764539761595
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 0ff406e25a8a4e3ca147d0be57128bea
+run_name: handsome-vole-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539761568
+status: 3
+tags: []
+user_id: runner

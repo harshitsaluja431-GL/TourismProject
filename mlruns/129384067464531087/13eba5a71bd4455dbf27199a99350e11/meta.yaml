@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/13eba5a71bd4455dbf27199a99350e11/artifacts
+end_time: 1764539756493
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 13eba5a71bd4455dbf27199a99350e11
+run_name: bald-midge-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539756469
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/3920e0f55570442b8d048052223aad3b/artifacts
+end_time: 1764539752014
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 3920e0f55570442b8d048052223aad3b
+run_name: fun-rook-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539751994
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/54a016d4bfaa4bee8931023072104b81/artifacts
+end_time: 1764539750511
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 54a016d4bfaa4bee8931023072104b81
+run_name: delicate-turtle-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539750493
+status: 3
+tags: []
+user_id: runner

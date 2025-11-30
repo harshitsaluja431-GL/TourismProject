@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/25008ee3968e4dc58aec67af19f6b17a/artifacts
+end_time: 1764539744809
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 25008ee3968e4dc58aec67af19f6b17a
+run_name: capricious-boar-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539744796
+status: 3
+tags: []
+user_id: runner

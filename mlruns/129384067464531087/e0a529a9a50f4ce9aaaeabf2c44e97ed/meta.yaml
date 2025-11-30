@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/e0a529a9a50f4ce9aaaeabf2c44e97ed/artifacts
+end_time: 1764539756388
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: e0a529a9a50f4ce9aaaeabf2c44e97ed
+run_name: sincere-trout-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539756364
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/17e994c9e2234c388472a966b7728c4d/artifacts
+end_time: 1764539760506
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 17e994c9e2234c388472a966b7728c4d
+run_name: thoughtful-pug-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539760480
+status: 3
+tags: []
+user_id: runner

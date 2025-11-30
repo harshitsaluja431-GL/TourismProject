@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/418b2e2e892948e89231d530bffb1815/artifacts
+end_time: 1764539753525
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 418b2e2e892948e89231d530bffb1815
+run_name: capricious-doe-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539753503
+status: 3
+tags: []
+user_id: runner

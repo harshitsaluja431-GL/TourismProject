@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/115dbb2c8131423b9e3d21fc73dbd084/artifacts
+end_time: 1764539751992
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 115dbb2c8131423b9e3d21fc73dbd084
+run_name: rogue-squid-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539751972
+status: 3
+tags: []
+user_id: runner

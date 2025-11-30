@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/805e347d8ec14e3fb86d3293e0c14ff4/artifacts
+end_time: 1764539760974
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 805e347d8ec14e3fb86d3293e0c14ff4
+run_name: nimble-loon-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539760947
+status: 3
+tags: []
+user_id: runner

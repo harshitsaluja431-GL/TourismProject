@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/6fdcbfe197c44d4da15fd75574fc2b56/artifacts
+end_time: 1764539772009
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 6fdcbfe197c44d4da15fd75574fc2b56
+run_name: fearless-mole-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539771976
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/1022c311b21148ecb5f2e4324d99913e/artifacts
+end_time: 1764539748082
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 1022c311b21148ecb5f2e4324d99913e
+run_name: auspicious-finch-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539748065
+status: 3
+tags: []
+user_id: runner

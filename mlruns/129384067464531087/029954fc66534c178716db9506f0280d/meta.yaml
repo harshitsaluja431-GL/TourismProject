@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/129384067464531087/029954fc66534c178716db9506f0280d/artifacts
+end_time: 1764539771721
+entry_point_name: ''
+experiment_id: '129384067464531087'
+lifecycle_stage: active
+run_id: 029954fc66534c178716db9506f0280d
+run_name: delicate-ant-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764539771688
+status: 3
+tags: []
+user_id: runner
