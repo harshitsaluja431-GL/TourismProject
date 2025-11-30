@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/49f04e60797a4fe49647144ef7142065/artifacts
+end_time: 1764537563790
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: 49f04e60797a4fe49647144ef7142065
+run_name: amazing-fox-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537563700
+status: 3
+tags: []
+user_id: root

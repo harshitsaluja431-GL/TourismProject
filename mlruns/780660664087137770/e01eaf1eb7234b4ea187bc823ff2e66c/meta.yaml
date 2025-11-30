@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/e01eaf1eb7234b4ea187bc823ff2e66c/artifacts
+end_time: 1764537559914
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: e01eaf1eb7234b4ea187bc823ff2e66c
+run_name: dashing-stoat-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537559822
+status: 3
+tags: []
+user_id: root

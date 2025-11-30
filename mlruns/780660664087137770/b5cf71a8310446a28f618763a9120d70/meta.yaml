@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/b5cf71a8310446a28f618763a9120d70/artifacts
+end_time: 1764537555481
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: b5cf71a8310446a28f618763a9120d70
+run_name: persistent-swan-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537555380
+status: 3
+tags: []
+user_id: root

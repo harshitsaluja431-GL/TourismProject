@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/bd9ce1d066a44b9ab09403ec3806faa0/artifacts
+end_time: 1764537562847
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: bd9ce1d066a44b9ab09403ec3806faa0
+run_name: worried-hare-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537562754
+status: 3
+tags: []
+user_id: root

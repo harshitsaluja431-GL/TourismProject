@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/c4569da5770a427ca78b49a04f6a46cd/artifacts
+end_time: 1764537563559
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: c4569da5770a427ca78b49a04f6a46cd
+run_name: rogue-fowl-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537563470
+status: 3
+tags: []
+user_id: root

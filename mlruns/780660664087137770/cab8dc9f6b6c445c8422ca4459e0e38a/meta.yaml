@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/cab8dc9f6b6c445c8422ca4459e0e38a/artifacts
+end_time: 1764537558506
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: cab8dc9f6b6c445c8422ca4459e0e38a
+run_name: bemused-asp-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537558422
+status: 3
+tags: []
+user_id: root

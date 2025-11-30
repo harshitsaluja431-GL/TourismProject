@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/b799cb36c9b04e3aac9d93c5a26f6aaf/artifacts
+end_time: 1764537558401
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: b799cb36c9b04e3aac9d93c5a26f6aaf
+run_name: nosy-hare-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537558308
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/256d3c4045f348b486f1c9b2f1b40add/artifacts
+end_time: 1764537556308
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: 256d3c4045f348b486f1c9b2f1b40add
+run_name: gregarious-midge-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537556231
+status: 3
+tags: []
+user_id: root

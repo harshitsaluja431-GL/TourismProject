@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/26d774b6e4d9403a8932aba0c2dfce37/artifacts
+end_time: 1764537558959
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: 26d774b6e4d9403a8932aba0c2dfce37
+run_name: unique-boar-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537558869
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/24fabba5ffd14159ab9b621a9ec468a0/artifacts
+end_time: 1764537561942
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: 24fabba5ffd14159ab9b621a9ec468a0
+run_name: righteous-seal-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537561855
+status: 3
+tags: []
+user_id: root

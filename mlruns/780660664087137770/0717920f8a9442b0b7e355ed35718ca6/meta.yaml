@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/0717920f8a9442b0b7e355ed35718ca6/artifacts
+end_time: 1764537555579
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: 0717920f8a9442b0b7e355ed35718ca6
+run_name: sedate-lamb-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537555501
+status: 3
+tags: []
+user_id: root

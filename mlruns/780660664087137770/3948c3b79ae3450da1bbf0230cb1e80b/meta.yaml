@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/3948c3b79ae3450da1bbf0230cb1e80b/artifacts
+end_time: 1764537562058
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: 3948c3b79ae3450da1bbf0230cb1e80b
+run_name: delightful-rat-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537561965
+status: 3
+tags: []
+user_id: root

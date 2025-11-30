@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/b5c38e9c1cba44a998e3ca8a9778815e/artifacts
+end_time: 1764537556716
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: b5c38e9c1cba44a998e3ca8a9778815e
+run_name: righteous-wren-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537556636
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/71ca2abf5cb54072ae31815be434eaab/artifacts
+end_time: 1764537560371
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: 71ca2abf5cb54072ae31815be434eaab
+run_name: agreeable-foal-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537560275
+status: 3
+tags: []
+user_id: root

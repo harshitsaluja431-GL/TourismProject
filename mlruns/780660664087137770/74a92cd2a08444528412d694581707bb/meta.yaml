@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/74a92cd2a08444528412d694581707bb/artifacts
+end_time: 1764537559074
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: 74a92cd2a08444528412d694581707bb
+run_name: defiant-horse-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537558983
+status: 3
+tags: []
+user_id: root

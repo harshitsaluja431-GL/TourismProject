@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/75e3827858af4193ad7d9be74d8f31f1/artifacts
+end_time: 1764537559431
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: 75e3827858af4193ad7d9be74d8f31f1
+run_name: placid-wasp-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537559340
+status: 3
+tags: []
+user_id: root

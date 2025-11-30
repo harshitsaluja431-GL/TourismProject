@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/03b0fc60619145399b1acdbca6d417b6/artifacts
+end_time: 1764537556612
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: 03b0fc60619145399b1acdbca6d417b6
+run_name: casual-boar-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537556537
+status: 3
+tags: []
+user_id: root

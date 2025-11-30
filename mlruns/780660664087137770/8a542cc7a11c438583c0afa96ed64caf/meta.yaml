@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/780660664087137770/8a542cc7a11c438583c0afa96ed64caf/artifacts
+end_time: 1764537562732
+entry_point_name: ''
+experiment_id: '780660664087137770'
+lifecycle_stage: active
+run_id: 8a542cc7a11c438583c0afa96ed64caf
+run_name: omniscient-tern-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537562641
+status: 3
+tags: []
+user_id: root
