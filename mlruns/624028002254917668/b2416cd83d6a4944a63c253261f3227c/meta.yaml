@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/b2416cd83d6a4944a63c253261f3227c/artifacts
+end_time: 1764537927469
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: b2416cd83d6a4944a63c253261f3227c
+run_name: popular-lark-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537927440
+status: 3
+tags: []
+user_id: runner

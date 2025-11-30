@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/5fbed05ed1f14513b886931d0df0ef36/artifacts
+end_time: 1764537917999
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 5fbed05ed1f14513b886931d0df0ef36
+run_name: invincible-squid-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537917976
+status: 3
+tags: []
+user_id: runner

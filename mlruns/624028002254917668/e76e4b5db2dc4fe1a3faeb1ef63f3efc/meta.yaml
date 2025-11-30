@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/e76e4b5db2dc4fe1a3faeb1ef63f3efc/artifacts
+end_time: 1764537934775
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: e76e4b5db2dc4fe1a3faeb1ef63f3efc
+run_name: secretive-perch-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537934742
+status: 3
+tags: []
+user_id: runner

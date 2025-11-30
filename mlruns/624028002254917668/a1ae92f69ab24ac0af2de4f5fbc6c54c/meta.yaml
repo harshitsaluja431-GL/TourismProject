@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/a1ae92f69ab24ac0af2de4f5fbc6c54c/artifacts
+end_time: 1764537920744
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: a1ae92f69ab24ac0af2de4f5fbc6c54c
+run_name: legendary-mouse-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537920719
+status: 3
+tags: []
+user_id: runner

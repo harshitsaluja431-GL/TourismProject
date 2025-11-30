@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/6a87b1c60fee42ff94f0d6fcd9593cde/artifacts
+end_time: 1764537913254
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 6a87b1c60fee42ff94f0d6fcd9593cde
+run_name: unequaled-gnat-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537913235
+status: 3
+tags: []
+user_id: runner

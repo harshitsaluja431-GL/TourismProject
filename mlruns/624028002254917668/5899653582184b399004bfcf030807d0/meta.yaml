@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/5899653582184b399004bfcf030807d0/artifacts
+end_time: 1764537934883
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 5899653582184b399004bfcf030807d0
+run_name: amazing-fowl-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537934850
+status: 3
+tags: []
+user_id: runner

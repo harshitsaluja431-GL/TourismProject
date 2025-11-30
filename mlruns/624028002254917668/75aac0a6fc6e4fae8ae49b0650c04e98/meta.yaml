@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/75aac0a6fc6e4fae8ae49b0650c04e98/artifacts
+end_time: 1764537935284
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 75aac0a6fc6e4fae8ae49b0650c04e98
+run_name: casual-fox-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537935251
+status: 3
+tags: []
+user_id: runner

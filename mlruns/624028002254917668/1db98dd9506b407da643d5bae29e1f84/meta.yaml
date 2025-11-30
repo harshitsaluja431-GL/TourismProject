@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/1db98dd9506b407da643d5bae29e1f84/artifacts
+end_time: 1764537911091
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 1db98dd9506b407da643d5bae29e1f84
+run_name: grandiose-trout-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537911074
+status: 3
+tags: []
+user_id: runner

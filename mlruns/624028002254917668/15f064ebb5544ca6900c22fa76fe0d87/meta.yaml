@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/15f064ebb5544ca6900c22fa76fe0d87/artifacts
+end_time: 1764537908805
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 15f064ebb5544ca6900c22fa76fe0d87
+run_name: capable-stork-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537908791
+status: 3
+tags: []
+user_id: runner

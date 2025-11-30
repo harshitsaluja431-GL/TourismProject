@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/cd96db7de15e4ad9b5ac5e00ee44b5c0/artifacts
+end_time: 1764537913039
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: cd96db7de15e4ad9b5ac5e00ee44b5c0
+run_name: marvelous-vole-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537913019
+status: 3
+tags: []
+user_id: runner

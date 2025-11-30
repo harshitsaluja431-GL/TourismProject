@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/b6829fbbcd9646a8b24d9c62a2e545f0/artifacts
+end_time: 1764537911828
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: b6829fbbcd9646a8b24d9c62a2e545f0
+run_name: clean-moth-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537911810
+status: 3
+tags: []
+user_id: runner

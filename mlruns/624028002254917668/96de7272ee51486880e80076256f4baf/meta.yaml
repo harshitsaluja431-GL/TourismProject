@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/96de7272ee51486880e80076256f4baf/artifacts
+end_time: 1764537911327
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 96de7272ee51486880e80076256f4baf
+run_name: indecisive-stork-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537911309
+status: 3
+tags: []
+user_id: runner

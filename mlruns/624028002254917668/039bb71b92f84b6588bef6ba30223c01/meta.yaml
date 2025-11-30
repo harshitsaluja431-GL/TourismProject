@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/039bb71b92f84b6588bef6ba30223c01/artifacts
+end_time: 1764537930501
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 039bb71b92f84b6588bef6ba30223c01
+run_name: loud-eel-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537930471
+status: 3
+tags: []
+user_id: runner

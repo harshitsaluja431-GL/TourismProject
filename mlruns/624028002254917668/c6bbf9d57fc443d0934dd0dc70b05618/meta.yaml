@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/c6bbf9d57fc443d0934dd0dc70b05618/artifacts
+end_time: 1764537909717
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: c6bbf9d57fc443d0934dd0dc70b05618
+run_name: magnificent-hen-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537909701
+status: 3
+tags: []
+user_id: runner

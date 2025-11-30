@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/3e3c1b2f16ab46fe84cd70cd99056db0/artifacts
+end_time: 1764537908959
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 3e3c1b2f16ab46fe84cd70cd99056db0
+run_name: amusing-seal-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537908944
+status: 3
+tags: []
+user_id: runner

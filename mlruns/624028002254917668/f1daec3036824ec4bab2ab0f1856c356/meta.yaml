@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/f1daec3036824ec4bab2ab0f1856c356/artifacts
+end_time: 1764537914747
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: f1daec3036824ec4bab2ab0f1856c356
+run_name: bouncy-rook-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537914726
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/1622fb7fc75c4e07b5ad303bfb469d4e/artifacts
+end_time: 1764537910974
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 1622fb7fc75c4e07b5ad303bfb469d4e
+run_name: omniscient-sow-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537910957
+status: 3
+tags: []
+user_id: runner

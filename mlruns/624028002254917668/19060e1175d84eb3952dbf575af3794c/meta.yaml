@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/19060e1175d84eb3952dbf575af3794c/artifacts
+end_time: 1764537926359
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 19060e1175d84eb3952dbf575af3794c
+run_name: fortunate-snipe-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537926331
+status: 3
+tags: []
+user_id: runner

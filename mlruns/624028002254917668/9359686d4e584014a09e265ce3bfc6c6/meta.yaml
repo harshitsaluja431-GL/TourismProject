@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/9359686d4e584014a09e265ce3bfc6c6/artifacts
+end_time: 1764537940121
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 9359686d4e584014a09e265ce3bfc6c6
+run_name: abundant-sloth-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537940085
+status: 3
+tags: []
+user_id: runner

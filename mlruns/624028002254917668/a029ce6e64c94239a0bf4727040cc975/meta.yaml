@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/a029ce6e64c94239a0bf4727040cc975/artifacts
+end_time: 1764537919470
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: a029ce6e64c94239a0bf4727040cc975
+run_name: defiant-yak-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537919446
+status: 3
+tags: []
+user_id: runner

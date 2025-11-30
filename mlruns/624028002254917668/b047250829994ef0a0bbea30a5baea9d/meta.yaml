@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/b047250829994ef0a0bbea30a5baea9d/artifacts
+end_time: 1764537936982
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: b047250829994ef0a0bbea30a5baea9d
+run_name: lyrical-shad-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537936947
+status: 3
+tags: []
+user_id: runner

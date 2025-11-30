@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/905dbe5ecd8f41e79ebeec3f227dea7a/artifacts
+end_time: 1764537927053
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 905dbe5ecd8f41e79ebeec3f227dea7a
+run_name: polite-donkey-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537927024
+status: 3
+tags: []
+user_id: runner

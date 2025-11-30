@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/4df7e0341f6d41e3813c50585115c616/artifacts
+end_time: 1764537909167
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 4df7e0341f6d41e3813c50585115c616
+run_name: unleashed-worm-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537909152
+status: 3
+tags: []
+user_id: runner

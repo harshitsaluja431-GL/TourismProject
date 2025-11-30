@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/1620d99fe54246b2b7ac05a70805f9dc/artifacts
+end_time: 1764537935430
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 1620d99fe54246b2b7ac05a70805f9dc
+run_name: skittish-quail-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537935396
+status: 3
+tags: []
+user_id: runner

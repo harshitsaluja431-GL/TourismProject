@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/0181a6143feb48429ecc5b9f30464f45/artifacts
+end_time: 1764537930231
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 0181a6143feb48429ecc5b9f30464f45
+run_name: resilient-koi-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537930201
+status: 3
+tags: []
+user_id: runner

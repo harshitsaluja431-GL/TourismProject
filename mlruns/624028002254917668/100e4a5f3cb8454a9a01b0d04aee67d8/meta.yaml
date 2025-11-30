@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/100e4a5f3cb8454a9a01b0d04aee67d8/artifacts
+end_time: 1764537920088
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 100e4a5f3cb8454a9a01b0d04aee67d8
+run_name: gentle-perch-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537920063
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/32c9fac7983946c586bf4aa0bd6203a7/artifacts
+end_time: 1764537925759
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 32c9fac7983946c586bf4aa0bd6203a7
+run_name: traveling-snake-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537925731
+status: 3
+tags: []
+user_id: runner

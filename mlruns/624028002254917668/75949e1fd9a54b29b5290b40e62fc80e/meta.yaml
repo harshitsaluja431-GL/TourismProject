@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/75949e1fd9a54b29b5290b40e62fc80e/artifacts
+end_time: 1764537920360
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 75949e1fd9a54b29b5290b40e62fc80e
+run_name: sassy-stoat-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537920335
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/c7d6c2c72ec044a8b20b8451462c19a9/artifacts
+end_time: 1764537937169
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: c7d6c2c72ec044a8b20b8451462c19a9
+run_name: honorable-roo-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537937134
+status: 3
+tags: []
+user_id: runner

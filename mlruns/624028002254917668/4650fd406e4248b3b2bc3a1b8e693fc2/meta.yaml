@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/4650fd406e4248b3b2bc3a1b8e693fc2/artifacts
+end_time: 1764537925635
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 4650fd406e4248b3b2bc3a1b8e693fc2
+run_name: valuable-wasp-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537925607
+status: 3
+tags: []
+user_id: runner

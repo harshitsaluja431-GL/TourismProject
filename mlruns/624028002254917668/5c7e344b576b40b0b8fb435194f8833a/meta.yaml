@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/5c7e344b576b40b0b8fb435194f8833a/artifacts
+end_time: 1764537932324
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 5c7e344b576b40b0b8fb435194f8833a
+run_name: legendary-chimp-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537932292
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/77627333f09e4cc2aa9d9ee682eef1b9/artifacts
+end_time: 1764537939564
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 77627333f09e4cc2aa9d9ee682eef1b9
+run_name: fortunate-seal-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537939529
+status: 3
+tags: []
+user_id: runner

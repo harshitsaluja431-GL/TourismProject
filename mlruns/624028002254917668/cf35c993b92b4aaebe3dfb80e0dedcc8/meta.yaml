@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/cf35c993b92b4aaebe3dfb80e0dedcc8/artifacts
+end_time: 1764537920251
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: cf35c993b92b4aaebe3dfb80e0dedcc8
+run_name: polite-worm-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537920226
+status: 3
+tags: []
+user_id: runner

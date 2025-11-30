@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/0856269fb2584a979e35b6a1bf47b20a/artifacts
+end_time: 1764537926009
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 0856269fb2584a979e35b6a1bf47b20a
+run_name: zealous-lynx-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537925980
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/c9441d1cfa0641d791ad179f4e33694d/artifacts
+end_time: 1764537937991
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: c9441d1cfa0641d791ad179f4e33694d
+run_name: gaudy-penguin-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537937937
+status: 3
+tags: []
+user_id: runner

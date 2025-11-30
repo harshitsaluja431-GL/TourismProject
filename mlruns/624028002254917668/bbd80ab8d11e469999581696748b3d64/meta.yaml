@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/bbd80ab8d11e469999581696748b3d64/artifacts
+end_time: 1764537908469
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: bbd80ab8d11e469999581696748b3d64
+run_name: amazing-wren-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537908455
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/edf2321bf6494148b2312b7144bf2b99/artifacts
+end_time: 1764537919099
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: edf2321bf6494148b2312b7144bf2b99
+run_name: marvelous-skunk-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537919075
+status: 3
+tags: []
+user_id: runner

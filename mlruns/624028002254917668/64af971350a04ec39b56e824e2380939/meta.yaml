@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/64af971350a04ec39b56e824e2380939/artifacts
+end_time: 1764537940630
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 64af971350a04ec39b56e824e2380939
+run_name: stylish-trout-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537940594
+status: 3
+tags: []
+user_id: runner

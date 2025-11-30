@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/323931b13d3c4fd98ab749b3ae812bbc/artifacts
+end_time: 1764537916939
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 323931b13d3c4fd98ab749b3ae812bbc
+run_name: invincible-bug-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537916917
+status: 3
+tags: []
+user_id: runner

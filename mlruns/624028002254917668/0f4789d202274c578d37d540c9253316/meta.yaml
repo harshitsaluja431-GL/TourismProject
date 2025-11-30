@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/0f4789d202274c578d37d540c9253316/artifacts
+end_time: 1764537914724
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 0f4789d202274c578d37d540c9253316
+run_name: capable-hen-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537914704
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/223f448e14ef4161b45e01bb19fac2ad/artifacts
+end_time: 1764537917769
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 223f448e14ef4161b45e01bb19fac2ad
+run_name: amazing-shrew-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537917746
+status: 3
+tags: []
+user_id: runner

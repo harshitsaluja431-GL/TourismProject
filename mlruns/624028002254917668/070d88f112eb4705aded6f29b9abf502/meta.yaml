@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/070d88f112eb4705aded6f29b9abf502/artifacts
+end_time: 1764537921272
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 070d88f112eb4705aded6f29b9abf502
+run_name: serious-chimp-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537921247
+status: 3
+tags: []
+user_id: runner

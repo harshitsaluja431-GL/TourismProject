@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/43095d6f41e4419a8a251cb3c1dfac04/artifacts
+end_time: 1764537919417
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 43095d6f41e4419a8a251cb3c1dfac04
+run_name: gaudy-mare-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537919393
+status: 3
+tags: []
+user_id: runner

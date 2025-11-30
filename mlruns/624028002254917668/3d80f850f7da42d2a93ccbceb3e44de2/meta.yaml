@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/3d80f850f7da42d2a93ccbceb3e44de2/artifacts
+end_time: 1764537908671
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 3d80f850f7da42d2a93ccbceb3e44de2
+run_name: persistent-trout-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537908656
+status: 3
+tags: []
+user_id: runner

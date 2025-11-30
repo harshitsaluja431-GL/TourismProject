@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/1fda15574ca64d8a97be60d0a8f6a375/artifacts
+end_time: 1764537915870
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 1fda15574ca64d8a97be60d0a8f6a375
+run_name: abundant-ant-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537915848
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/e3ab3fe7329a426ca79c6fd16c483696/artifacts
+end_time: 1764537926831
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: e3ab3fe7329a426ca79c6fd16c483696
+run_name: languid-moth-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537926803
+status: 3
+tags: []
+user_id: runner

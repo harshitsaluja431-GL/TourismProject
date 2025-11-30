@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/522d9673ee9b4882a9a2fac023cb9d3d/artifacts
+end_time: 1764537924597
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 522d9673ee9b4882a9a2fac023cb9d3d
+run_name: gregarious-fox-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537924570
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/d75d76c660844648805896ebd4a11824/artifacts
+end_time: 1764537928145
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: d75d76c660844648805896ebd4a11824
+run_name: kindly-snail-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537928116
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/fe6a5968646644ab8e4c07088ec9b567/artifacts
+end_time: 1764537911545
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: fe6a5968646644ab8e4c07088ec9b567
+run_name: illustrious-rat-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537911528
+status: 3
+tags: []
+user_id: runner

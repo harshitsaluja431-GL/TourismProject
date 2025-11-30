@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/481c5d49a3b2468986968317fcbb272c/artifacts
+end_time: 1764537924114
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 481c5d49a3b2468986968317fcbb272c
+run_name: righteous-hen-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537924087
+status: 3
+tags: []
+user_id: runner

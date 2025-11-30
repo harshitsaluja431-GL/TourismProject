@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/fa79f8d201904d7bbdf8b915e4864e6a/artifacts
+end_time: 1764537910418
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: fa79f8d201904d7bbdf8b915e4864e6a
+run_name: redolent-lamb-391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537910402
+status: 3
+tags: []
+user_id: runner

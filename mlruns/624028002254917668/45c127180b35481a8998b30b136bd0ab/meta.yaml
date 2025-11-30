@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/45c127180b35481a8998b30b136bd0ab/artifacts
+end_time: 1764537907996
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 45c127180b35481a8998b30b136bd0ab
+run_name: big-bat-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537907982
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/9af90e5f0d404e32b6fe0a584f00038c/artifacts
+end_time: 1764537923077
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 9af90e5f0d404e32b6fe0a584f00038c
+run_name: suave-squid-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537923051
+status: 3
+tags: []
+user_id: runner

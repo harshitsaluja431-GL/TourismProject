@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/c2fa55e69a3e49afbee9c6f11ddf6e9c/artifacts
+end_time: 1764537939177
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: c2fa55e69a3e49afbee9c6f11ddf6e9c
+run_name: placid-stag-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537939142
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/7211f47c71f145b8b4a9ab2549eb782a/artifacts
+end_time: 1764537929963
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 7211f47c71f145b8b4a9ab2549eb782a
+run_name: popular-shoat-393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537929932
+status: 3
+tags: []
+user_id: runner

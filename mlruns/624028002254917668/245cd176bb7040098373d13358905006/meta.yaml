@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/245cd176bb7040098373d13358905006/artifacts
+end_time: 1764537924688
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 245cd176bb7040098373d13358905006
+run_name: unleashed-ant-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537924660
+status: 3
+tags: []
+user_id: runner

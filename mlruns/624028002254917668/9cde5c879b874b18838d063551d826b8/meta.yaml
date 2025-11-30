@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/9cde5c879b874b18838d063551d826b8/artifacts
+end_time: 1764537933591
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 9cde5c879b874b18838d063551d826b8
+run_name: hilarious-cub-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537933558
+status: 3
+tags: []
+user_id: runner

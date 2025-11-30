@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/22cd3b7597fb49a2a2e4de1d99ef018b/artifacts
+end_time: 1764537927983
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 22cd3b7597fb49a2a2e4de1d99ef018b
+run_name: carefree-dolphin-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537927954
+status: 3
+tags: []
+user_id: runner

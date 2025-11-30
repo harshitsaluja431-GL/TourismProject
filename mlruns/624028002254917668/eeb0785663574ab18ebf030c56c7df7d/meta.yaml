@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/eeb0785663574ab18ebf030c56c7df7d/artifacts
+end_time: 1764537920607
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: eeb0785663574ab18ebf030c56c7df7d
+run_name: serious-stoat-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537920581
+status: 3
+tags: []
+user_id: runner

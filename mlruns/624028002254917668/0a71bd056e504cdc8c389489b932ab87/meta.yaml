@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/0a71bd056e504cdc8c389489b932ab87/artifacts
+end_time: 1764537928998
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 0a71bd056e504cdc8c389489b932ab87
+run_name: agreeable-cow-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537928968
+status: 3
+tags: []
+user_id: runner

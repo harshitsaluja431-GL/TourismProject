@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/b397b6a2d2ce4096aee5415657c38c76/artifacts
+end_time: 1764537923195
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: b397b6a2d2ce4096aee5415657c38c76
+run_name: dapper-penguin-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537923168
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/6502457b092b41e8866207b5c48b911a/artifacts
+end_time: 1764537910176
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 6502457b092b41e8866207b5c48b911a
+run_name: valuable-colt-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537910159
+status: 3
+tags: []
+user_id: runner

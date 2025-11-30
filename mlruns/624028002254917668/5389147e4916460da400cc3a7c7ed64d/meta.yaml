@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/5389147e4916460da400cc3a7c7ed64d/artifacts
+end_time: 1764537939293
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 5389147e4916460da400cc3a7c7ed64d
+run_name: shivering-hound-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537939258
+status: 3
+tags: []
+user_id: runner

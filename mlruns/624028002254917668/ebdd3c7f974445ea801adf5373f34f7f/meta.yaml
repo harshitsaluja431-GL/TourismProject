@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/ebdd3c7f974445ea801adf5373f34f7f/artifacts
+end_time: 1764537927405
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: ebdd3c7f974445ea801adf5373f34f7f
+run_name: skittish-tern-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537927376
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/d415eefe923642f99222a7bc8d5f73b0/artifacts
+end_time: 1764537923312
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: d415eefe923642f99222a7bc8d5f73b0
+run_name: magnificent-ape-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537923285
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/98e42d9760084125ba3dd04d1d93bede/artifacts
+end_time: 1764537908206
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 98e42d9760084125ba3dd04d1d93bede
+run_name: gentle-roo-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537908192
+status: 3
+tags: []
+user_id: runner

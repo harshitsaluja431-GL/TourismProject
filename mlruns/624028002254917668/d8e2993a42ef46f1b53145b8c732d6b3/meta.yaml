@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/d8e2993a42ef46f1b53145b8c732d6b3/artifacts
+end_time: 1764537925946
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: d8e2993a42ef46f1b53145b8c732d6b3
+run_name: casual-hawk-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537925917
+status: 3
+tags: []
+user_id: runner

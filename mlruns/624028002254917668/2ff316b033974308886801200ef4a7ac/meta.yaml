@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/2ff316b033974308886801200ef4a7ac/artifacts
+end_time: 1764537925420
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 2ff316b033974308886801200ef4a7ac
+run_name: smiling-hawk-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537925391
+status: 3
+tags: []
+user_id: runner

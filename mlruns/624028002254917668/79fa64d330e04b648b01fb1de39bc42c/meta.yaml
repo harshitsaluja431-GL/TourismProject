@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/79fa64d330e04b648b01fb1de39bc42c/artifacts
+end_time: 1764537922815
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 79fa64d330e04b648b01fb1de39bc42c
+run_name: resilient-stag-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537922788
+status: 3
+tags: []
+user_id: runner

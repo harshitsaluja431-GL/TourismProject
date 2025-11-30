@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/e5c53c954d6348dda565a8a7a225bfa6/artifacts
+end_time: 1764537931802
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: e5c53c954d6348dda565a8a7a225bfa6
+run_name: silent-gnat-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537931770
+status: 3
+tags: []
+user_id: runner

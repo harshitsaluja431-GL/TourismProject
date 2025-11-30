@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/e234f249a19c413f84bcb42d98227719/artifacts
+end_time: 1764537940944
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: e234f249a19c413f84bcb42d98227719
+run_name: luminous-lynx-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537940908
+status: 3
+tags: []
+user_id: runner

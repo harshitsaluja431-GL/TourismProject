@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/ad967c14a773459f8c0e4640c4d0495a/artifacts
+end_time: 1764537915209
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: ad967c14a773459f8c0e4640c4d0495a
+run_name: grandiose-shad-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537915188
+status: 3
+tags: []
+user_id: runner

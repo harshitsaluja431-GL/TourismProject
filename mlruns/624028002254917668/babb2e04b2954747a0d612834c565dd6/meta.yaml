@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/babb2e04b2954747a0d612834c565dd6/artifacts
+end_time: 1764537907805
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: babb2e04b2954747a0d612834c565dd6
+run_name: smiling-skink-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537907791
+status: 3
+tags: []
+user_id: runner

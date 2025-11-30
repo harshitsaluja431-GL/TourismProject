@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/645a00cd374247e9a8ea70f01c5c8ca3/artifacts
+end_time: 1764537931319
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 645a00cd374247e9a8ea70f01c5c8ca3
+run_name: learned-bear-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537931288
+status: 3
+tags: []
+user_id: runner

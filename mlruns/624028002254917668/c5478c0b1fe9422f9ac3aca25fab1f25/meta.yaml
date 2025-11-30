@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/c5478c0b1fe9422f9ac3aca25fab1f25/artifacts
+end_time: 1764537939759
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: c5478c0b1fe9422f9ac3aca25fab1f25
+run_name: dazzling-sloth-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537939723
+status: 3
+tags: []
+user_id: runner

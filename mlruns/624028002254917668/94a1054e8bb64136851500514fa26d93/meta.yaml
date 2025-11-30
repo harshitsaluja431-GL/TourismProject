@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/94a1054e8bb64136851500514fa26d93/artifacts
+end_time: 1764537931251
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 94a1054e8bb64136851500514fa26d93
+run_name: skittish-swan-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537931220
+status: 3
+tags: []
+user_id: runner

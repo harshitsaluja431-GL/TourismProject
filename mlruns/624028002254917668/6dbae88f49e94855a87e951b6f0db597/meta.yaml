@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/6dbae88f49e94855a87e951b6f0db597/artifacts
+end_time: 1764537922873
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 6dbae88f49e94855a87e951b6f0db597
+run_name: blushing-lark-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537922846
+status: 3
+tags: []
+user_id: runner

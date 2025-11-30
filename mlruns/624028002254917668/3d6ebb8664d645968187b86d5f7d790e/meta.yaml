@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/3d6ebb8664d645968187b86d5f7d790e/artifacts
+end_time: 1764537910858
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 3d6ebb8664d645968187b86d5f7d790e
+run_name: intrigued-fox-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537910841
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/dd0bbd91f44a4656bda83449ae19a4fd/artifacts
+end_time: 1764537922209
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: dd0bbd91f44a4656bda83449ae19a4fd
+run_name: whimsical-rook-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537922183
+status: 3
+tags: []
+user_id: runner

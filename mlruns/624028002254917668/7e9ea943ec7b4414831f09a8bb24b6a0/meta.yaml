@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/7e9ea943ec7b4414831f09a8bb24b6a0/artifacts
+end_time: 1764537939023
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 7e9ea943ec7b4414831f09a8bb24b6a0
+run_name: fearless-bass-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537938987
+status: 3
+tags: []
+user_id: runner

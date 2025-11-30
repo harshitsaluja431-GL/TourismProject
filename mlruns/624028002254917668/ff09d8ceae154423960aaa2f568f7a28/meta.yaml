@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/ff09d8ceae154423960aaa2f568f7a28/artifacts
+end_time: 1764537911209
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: ff09d8ceae154423960aaa2f568f7a28
+run_name: respected-owl-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537911192
+status: 3
+tags: []
+user_id: runner

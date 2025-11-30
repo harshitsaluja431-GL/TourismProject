@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/ec6093e42091494dbde7d271a47ee7d2/artifacts
+end_time: 1764537924537
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: ec6093e42091494dbde7d271a47ee7d2
+run_name: bold-perch-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537924510
+status: 3
+tags: []
+user_id: runner

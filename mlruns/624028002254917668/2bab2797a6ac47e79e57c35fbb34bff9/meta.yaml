@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/2bab2797a6ac47e79e57c35fbb34bff9/artifacts
+end_time: 1764537908570
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 2bab2797a6ac47e79e57c35fbb34bff9
+run_name: awesome-chimp-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537908555
+status: 3
+tags: []
+user_id: runner

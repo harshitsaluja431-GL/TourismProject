@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/78f98e6201004272a208db73bb9a5a29/artifacts
+end_time: 1764537913449
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 78f98e6201004272a208db73bb9a5a29
+run_name: victorious-pig-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537913430
+status: 3
+tags: []
+user_id: runner

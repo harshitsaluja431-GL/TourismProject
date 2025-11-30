@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/f62ad9cb264841e1a0c6e243be50f250/artifacts
+end_time: 1764537924718
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: f62ad9cb264841e1a0c6e243be50f250
+run_name: selective-hawk-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537924690
+status: 3
+tags: []
+user_id: runner

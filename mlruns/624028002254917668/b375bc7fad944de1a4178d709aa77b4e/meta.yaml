@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/b375bc7fad944de1a4178d709aa77b4e/artifacts
+end_time: 1764537937283
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: b375bc7fad944de1a4178d709aa77b4e
+run_name: clumsy-foal-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537937249
+status: 3
+tags: []
+user_id: runner

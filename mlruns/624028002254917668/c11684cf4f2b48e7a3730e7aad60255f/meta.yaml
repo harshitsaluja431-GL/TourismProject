@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/c11684cf4f2b48e7a3730e7aad60255f/artifacts
+end_time: 1764537932184
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: c11684cf4f2b48e7a3730e7aad60255f
+run_name: bustling-steed-212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537932152
+status: 3
+tags: []
+user_id: runner

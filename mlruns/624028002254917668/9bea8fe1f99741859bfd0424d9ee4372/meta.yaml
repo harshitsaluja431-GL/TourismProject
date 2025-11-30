@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/9bea8fe1f99741859bfd0424d9ee4372/artifacts
+end_time: 1764537912196
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 9bea8fe1f99741859bfd0424d9ee4372
+run_name: inquisitive-ant-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537912178
+status: 3
+tags: []
+user_id: runner

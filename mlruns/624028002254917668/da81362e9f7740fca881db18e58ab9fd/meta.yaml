@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/da81362e9f7740fca881db18e58ab9fd/artifacts
+end_time: 1764537926105
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: da81362e9f7740fca881db18e58ab9fd
+run_name: rumbling-midge-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537926074
+status: 3
+tags: []
+user_id: runner

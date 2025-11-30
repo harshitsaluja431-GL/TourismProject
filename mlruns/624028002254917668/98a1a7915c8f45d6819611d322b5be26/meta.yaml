@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/98a1a7915c8f45d6819611d322b5be26/artifacts
+end_time: 1764537925358
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 98a1a7915c8f45d6819611d322b5be26
+run_name: ambitious-deer-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537925330
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/3369648727804e5c871b5d6ba8145393/artifacts
+end_time: 1764537917948
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 3369648727804e5c871b5d6ba8145393
+run_name: treasured-lamb-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537917925
+status: 3
+tags: []
+user_id: runner

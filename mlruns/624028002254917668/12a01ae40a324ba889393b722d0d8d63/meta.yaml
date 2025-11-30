@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/12a01ae40a324ba889393b722d0d8d63/artifacts
+end_time: 1764537929528
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 12a01ae40a324ba889393b722d0d8d63
+run_name: sincere-shrimp-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537929498
+status: 3
+tags: []
+user_id: runner

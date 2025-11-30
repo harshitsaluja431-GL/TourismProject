@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/da53a9da7c624aa5802fe4a23ef32bbe/artifacts
+end_time: 1764537929230
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: da53a9da7c624aa5802fe4a23ef32bbe
+run_name: masked-skunk-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537929200
+status: 3
+tags: []
+user_id: runner

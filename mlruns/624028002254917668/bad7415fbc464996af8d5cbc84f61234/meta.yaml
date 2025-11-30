@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/bad7415fbc464996af8d5cbc84f61234/artifacts
+end_time: 1764537923371
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: bad7415fbc464996af8d5cbc84f61234
+run_name: abrasive-quail-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537923344
+status: 3
+tags: []
+user_id: runner

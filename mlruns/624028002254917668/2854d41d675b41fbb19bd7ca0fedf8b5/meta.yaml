@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/2854d41d675b41fbb19bd7ca0fedf8b5/artifacts
+end_time: 1764537908789
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 2854d41d675b41fbb19bd7ca0fedf8b5
+run_name: calm-ape-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537908774
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/7f30c37ae3d14cf684628ece820c232c/artifacts
+end_time: 1764537917565
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 7f30c37ae3d14cf684628ece820c232c
+run_name: traveling-wolf-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537917542
+status: 3
+tags: []
+user_id: runner

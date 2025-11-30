@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/ec574c8ecec1409fa43769af8b19af4a/artifacts
+end_time: 1764537909663
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: ec574c8ecec1409fa43769af8b19af4a
+run_name: traveling-finch-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537909647
+status: 3
+tags: []
+user_id: runner

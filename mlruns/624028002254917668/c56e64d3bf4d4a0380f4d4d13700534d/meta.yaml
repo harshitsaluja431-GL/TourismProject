@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/c56e64d3bf4d4a0380f4d4d13700534d/artifacts
+end_time: 1764537919444
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: c56e64d3bf4d4a0380f4d4d13700534d
+run_name: fortunate-moose-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537919420
+status: 3
+tags: []
+user_id: runner

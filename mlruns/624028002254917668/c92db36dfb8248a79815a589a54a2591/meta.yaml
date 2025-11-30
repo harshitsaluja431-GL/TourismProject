@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/c92db36dfb8248a79815a589a54a2591/artifacts
+end_time: 1764537915751
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: c92db36dfb8248a79815a589a54a2591
+run_name: rare-grub-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537915730
+status: 3
+tags: []
+user_id: runner

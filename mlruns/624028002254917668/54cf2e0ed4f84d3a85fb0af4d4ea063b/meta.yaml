@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/54cf2e0ed4f84d3a85fb0af4d4ea063b/artifacts
+end_time: 1764537915703
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 54cf2e0ed4f84d3a85fb0af4d4ea063b
+run_name: rebellious-goat-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537915682
+status: 3
+tags: []
+user_id: runner

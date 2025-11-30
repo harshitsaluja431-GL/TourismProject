@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/d543ea39bf494efeb3d51c4981931244/artifacts
+end_time: 1764537929296
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: d543ea39bf494efeb3d51c4981931244
+run_name: amazing-fox-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537929266
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/f0ce8462e50e4f479db306a80d909579/artifacts
+end_time: 1764537936647
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: f0ce8462e50e4f479db306a80d909579
+run_name: rogue-elk-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537936613
+status: 3
+tags: []
+user_id: runner

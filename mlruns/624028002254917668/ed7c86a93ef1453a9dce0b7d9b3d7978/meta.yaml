@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/ed7c86a93ef1453a9dce0b7d9b3d7978/artifacts
+end_time: 1764537912529
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: ed7c86a93ef1453a9dce0b7d9b3d7978
+run_name: capricious-seal-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537912510
+status: 3
+tags: []
+user_id: runner

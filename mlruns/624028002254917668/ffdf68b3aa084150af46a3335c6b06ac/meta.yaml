@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/ffdf68b3aa084150af46a3335c6b06ac/artifacts
+end_time: 1764537921328
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: ffdf68b3aa084150af46a3335c6b06ac
+run_name: traveling-squid-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537921303
+status: 3
+tags: []
+user_id: runner

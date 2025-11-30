@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/5d735ccc59dc4a50bb17a0bbd43fb5e9/artifacts
+end_time: 1764537915255
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 5d735ccc59dc4a50bb17a0bbd43fb5e9
+run_name: charming-cat-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537915235
+status: 3
+tags: []
+user_id: runner

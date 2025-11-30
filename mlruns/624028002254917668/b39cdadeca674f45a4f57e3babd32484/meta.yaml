@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/b39cdadeca674f45a4f57e3babd32484/artifacts
+end_time: 1764537940082
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: b39cdadeca674f45a4f57e3babd32484
+run_name: powerful-tern-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537940035
+status: 3
+tags: []
+user_id: runner

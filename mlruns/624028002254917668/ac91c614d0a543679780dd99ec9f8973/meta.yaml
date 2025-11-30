@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/ac91c614d0a543679780dd99ec9f8973/artifacts
+end_time: 1764537912383
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: ac91c614d0a543679780dd99ec9f8973
+run_name: melodic-mule-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537912364
+status: 3
+tags: []
+user_id: runner

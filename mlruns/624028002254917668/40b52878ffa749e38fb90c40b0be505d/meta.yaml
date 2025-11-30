@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/40b52878ffa749e38fb90c40b0be505d/artifacts
+end_time: 1764537908386
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 40b52878ffa749e38fb90c40b0be505d
+run_name: wistful-colt-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537908372
+status: 3
+tags: []
+user_id: runner

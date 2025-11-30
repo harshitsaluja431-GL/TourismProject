@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/57ecd1f843ee4ffca5811695a0718887/artifacts
+end_time: 1764537909325
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 57ecd1f843ee4ffca5811695a0718887
+run_name: bustling-ox-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537909309
+status: 3
+tags: []
+user_id: runner

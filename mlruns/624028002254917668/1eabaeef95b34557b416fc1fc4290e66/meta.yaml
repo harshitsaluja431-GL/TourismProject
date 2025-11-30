@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/1eabaeef95b34557b416fc1fc4290e66/artifacts
+end_time: 1764537935466
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 1eabaeef95b34557b416fc1fc4290e66
+run_name: unleashed-fowl-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537935433
+status: 3
+tags: []
+user_id: runner

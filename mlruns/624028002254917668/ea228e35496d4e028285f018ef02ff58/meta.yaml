@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/ea228e35496d4e028285f018ef02ff58/artifacts
+end_time: 1764537922757
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: ea228e35496d4e028285f018ef02ff58
+run_name: youthful-conch-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537922730
+status: 3
+tags: []
+user_id: runner

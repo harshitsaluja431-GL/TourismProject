@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/754349fb2fff4fc1bc4e6ab2a80cb5d3/artifacts
+end_time: 1764537920910
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 754349fb2fff4fc1bc4e6ab2a80cb5d3
+run_name: selective-cow-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537920885
+status: 3
+tags: []
+user_id: runner

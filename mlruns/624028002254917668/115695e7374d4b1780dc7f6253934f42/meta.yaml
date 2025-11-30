@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/115695e7374d4b1780dc7f6253934f42/artifacts
+end_time: 1764537917540
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 115695e7374d4b1780dc7f6253934f42
+run_name: marvelous-slug-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537917517
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/222d99f683224f20b7c3f2372f956977/artifacts
+end_time: 1764537921021
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 222d99f683224f20b7c3f2372f956977
+run_name: gregarious-quail-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537920996
+status: 3
+tags: []
+user_id: runner

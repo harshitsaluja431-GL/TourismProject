@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/a0d658ccda90436f9fa7d4d1150c95d6/artifacts
+end_time: 1764537911848
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: a0d658ccda90436f9fa7d4d1150c95d6
+run_name: bald-shoat-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537911830
+status: 3
+tags: []
+user_id: runner

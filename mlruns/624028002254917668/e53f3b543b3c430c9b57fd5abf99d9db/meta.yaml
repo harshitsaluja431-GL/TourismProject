@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/e53f3b543b3c430c9b57fd5abf99d9db/artifacts
+end_time: 1764537930841
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: e53f3b543b3c430c9b57fd5abf99d9db
+run_name: marvelous-sow-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537930810
+status: 3
+tags: []
+user_id: runner

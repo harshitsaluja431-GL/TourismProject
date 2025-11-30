@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/e4657e19db7f47d5a077651dde731f9a/artifacts
+end_time: 1764537916109
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: e4657e19db7f47d5a077651dde731f9a
+run_name: respected-shrike-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537916087
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/650777152eff4b0baac20ab8b5d0049a/artifacts
+end_time: 1764537933520
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 650777152eff4b0baac20ab8b5d0049a
+run_name: sedate-duck-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537933487
+status: 3
+tags: []
+user_id: runner

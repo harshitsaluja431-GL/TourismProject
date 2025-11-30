@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/8e0f7f9aa55c40ff9ee3124bfb0e9b64/artifacts
+end_time: 1764537939525
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 8e0f7f9aa55c40ff9ee3124bfb0e9b64
+run_name: peaceful-lamb-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537939490
+status: 3
+tags: []
+user_id: runner

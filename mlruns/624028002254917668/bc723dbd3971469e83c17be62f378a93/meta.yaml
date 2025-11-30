@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/bc723dbd3971469e83c17be62f378a93/artifacts
+end_time: 1764537920224
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: bc723dbd3971469e83c17be62f378a93
+run_name: caring-flea-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537920199
+status: 3
+tags: []
+user_id: runner

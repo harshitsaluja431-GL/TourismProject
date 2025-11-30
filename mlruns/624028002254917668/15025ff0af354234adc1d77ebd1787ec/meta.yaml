@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/15025ff0af354234adc1d77ebd1787ec/artifacts
+end_time: 1764537915000
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 15025ff0af354234adc1d77ebd1787ec
+run_name: illustrious-wolf-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537914979
+status: 3
+tags: []
+user_id: runner

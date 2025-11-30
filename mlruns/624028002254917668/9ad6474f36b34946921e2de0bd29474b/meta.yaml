@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/9ad6474f36b34946921e2de0bd29474b/artifacts
+end_time: 1764537907663
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 9ad6474f36b34946921e2de0bd29474b
+run_name: able-penguin-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537907650
+status: 3
+tags: []
+user_id: runner

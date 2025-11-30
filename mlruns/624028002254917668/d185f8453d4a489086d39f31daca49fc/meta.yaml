@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/d185f8453d4a489086d39f31daca49fc/artifacts
+end_time: 1764537914247
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: d185f8453d4a489086d39f31daca49fc
+run_name: incongruous-kite-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537914227
+status: 3
+tags: []
+user_id: runner

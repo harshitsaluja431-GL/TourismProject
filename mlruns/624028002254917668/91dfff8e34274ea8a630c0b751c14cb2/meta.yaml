@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/91dfff8e34274ea8a630c0b751c14cb2/artifacts
+end_time: 1764537940552
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 91dfff8e34274ea8a630c0b751c14cb2
+run_name: sassy-worm-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537940516
+status: 3
+tags: []
+user_id: runner

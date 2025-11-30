@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/d817e555b0e64225bf73ea556e6cbc07/artifacts
+end_time: 1764537916013
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: d817e555b0e64225bf73ea556e6cbc07
+run_name: traveling-wasp-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537915991
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/4e47f528d7c54c03a96c637bd1ef7c72/artifacts
+end_time: 1764537919550
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 4e47f528d7c54c03a96c637bd1ef7c72
+run_name: sedate-fish-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537919526
+status: 3
+tags: []
+user_id: runner

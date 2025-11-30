@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/9590488bd76b4f2bb3f8f8c17230af66/artifacts
+end_time: 1764537937735
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 9590488bd76b4f2bb3f8f8c17230af66
+run_name: thundering-hawk-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537937700
+status: 3
+tags: []
+user_id: runner

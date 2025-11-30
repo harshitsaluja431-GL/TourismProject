@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/23e2012a68764c4ca72638bd3cf1e143/artifacts
+end_time: 1764537940395
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 23e2012a68764c4ca72638bd3cf1e143
+run_name: unruly-crow-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537940359
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/17abda5f857c4d5ea7d4796dc4a3af0c/artifacts
+end_time: 1764537933130
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 17abda5f857c4d5ea7d4796dc4a3af0c
+run_name: puzzled-sow-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537933098
+status: 3
+tags: []
+user_id: runner

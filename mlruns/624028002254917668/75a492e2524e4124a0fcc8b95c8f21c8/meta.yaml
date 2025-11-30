@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/75a492e2524e4124a0fcc8b95c8f21c8/artifacts
+end_time: 1764537923756
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 75a492e2524e4124a0fcc8b95c8f21c8
+run_name: crawling-croc-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537923729
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/1a249abe9ca0406396c7842f31c641ef/artifacts
+end_time: 1764537930434
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 1a249abe9ca0406396c7842f31c641ef
+run_name: overjoyed-finch-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537930403
+status: 3
+tags: []
+user_id: runner

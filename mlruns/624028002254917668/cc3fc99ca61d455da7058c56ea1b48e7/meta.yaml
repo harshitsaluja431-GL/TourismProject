@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/cc3fc99ca61d455da7058c56ea1b48e7/artifacts
+end_time: 1764537933912
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: cc3fc99ca61d455da7058c56ea1b48e7
+run_name: flawless-panda-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537933879
+status: 3
+tags: []
+user_id: runner

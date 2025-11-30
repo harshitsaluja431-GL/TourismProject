@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/9dc21f011ae94d648deff721b637cd4d/artifacts
+end_time: 1764537920993
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 9dc21f011ae94d648deff721b637cd4d
+run_name: trusting-rook-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537920968
+status: 3
+tags: []
+user_id: runner

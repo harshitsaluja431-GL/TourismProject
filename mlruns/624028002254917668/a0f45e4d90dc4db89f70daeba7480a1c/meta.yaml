@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/a0f45e4d90dc4db89f70daeba7480a1c/artifacts
+end_time: 1764537926548
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: a0f45e4d90dc4db89f70daeba7480a1c
+run_name: lyrical-goose-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537926519
+status: 3
+tags: []
+user_id: runner

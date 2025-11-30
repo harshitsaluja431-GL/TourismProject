@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/5de96072195e4dff99907f8f4e147123/artifacts
+end_time: 1764537915349
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 5de96072195e4dff99907f8f4e147123
+run_name: nebulous-moth-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537915328
+status: 3
+tags: []
+user_id: runner

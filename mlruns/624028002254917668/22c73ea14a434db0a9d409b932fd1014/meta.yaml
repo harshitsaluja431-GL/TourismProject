@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/22c73ea14a434db0a9d409b932fd1014/artifacts
+end_time: 1764537908738
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 22c73ea14a434db0a9d409b932fd1014
+run_name: rumbling-conch-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537908723
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/cf45d741105d477b80c2da47bbd9554e/artifacts
+end_time: 1764537914314
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: cf45d741105d477b80c2da47bbd9554e
+run_name: grandiose-eel-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537914294
+status: 3
+tags: []
+user_id: runner

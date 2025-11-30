@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/e8c5b4f0893d4f77bdf7ad2d0919bdf0/artifacts
+end_time: 1764537909502
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: e8c5b4f0893d4f77bdf7ad2d0919bdf0
+run_name: serious-ape-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537909486
+status: 3
+tags: []
+user_id: runner

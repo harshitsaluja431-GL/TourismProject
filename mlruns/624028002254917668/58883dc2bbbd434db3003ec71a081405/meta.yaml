@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/58883dc2bbbd434db3003ec71a081405/artifacts
+end_time: 1764537915232
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 58883dc2bbbd434db3003ec71a081405
+run_name: selective-donkey-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537915211
+status: 3
+tags: []
+user_id: runner

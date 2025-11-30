@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/4552956ccd594d9a96803628ec3c0139/artifacts
+end_time: 1764537933841
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 4552956ccd594d9a96803628ec3c0139
+run_name: amusing-sheep-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537933808
+status: 3
+tags: []
+user_id: runner

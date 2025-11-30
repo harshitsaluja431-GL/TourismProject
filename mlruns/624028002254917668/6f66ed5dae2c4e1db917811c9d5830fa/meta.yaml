@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/6f66ed5dae2c4e1db917811c9d5830fa/artifacts
+end_time: 1764537913276
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 6f66ed5dae2c4e1db917811c9d5830fa
+run_name: thoughtful-shrike-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537913256
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/d26763f1598b468d8af7f21eb422c4c6/artifacts
+end_time: 1764537936907
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: d26763f1598b468d8af7f21eb422c4c6
+run_name: unleashed-skunk-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537936873
+status: 3
+tags: []
+user_id: runner

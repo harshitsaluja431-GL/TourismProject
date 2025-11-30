@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/59d188281e7c4eec932819f63b52e94d/artifacts
+end_time: 1764537910157
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 59d188281e7c4eec932819f63b52e94d
+run_name: enchanting-finch-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537910140
+status: 3
+tags: []
+user_id: runner

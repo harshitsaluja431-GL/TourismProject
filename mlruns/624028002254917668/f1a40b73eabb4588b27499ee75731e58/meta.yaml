@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/f1a40b73eabb4588b27499ee75731e58/artifacts
+end_time: 1764537908994
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: f1a40b73eabb4588b27499ee75731e58
+run_name: bright-shark-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537908978
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/deb806d9228a448794cdba29a92dbb77/artifacts
+end_time: 1764537930672
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: deb806d9228a448794cdba29a92dbb77
+run_name: popular-quail-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537930641
+status: 3
+tags: []
+user_id: runner

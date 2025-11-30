@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/a7f5c18198204d8db2a1c292964bc048/artifacts
+end_time: 1764537920387
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: a7f5c18198204d8db2a1c292964bc048
+run_name: popular-fawn-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537920362
+status: 3
+tags: []
+user_id: runner

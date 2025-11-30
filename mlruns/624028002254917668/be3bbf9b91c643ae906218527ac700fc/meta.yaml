@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/be3bbf9b91c643ae906218527ac700fc/artifacts
+end_time: 1764537937131
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: be3bbf9b91c643ae906218527ac700fc
+run_name: mercurial-cod-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537937097
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/2b1f1915200f4b5c9d500967abec23a6/artifacts
+end_time: 1764537917313
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 2b1f1915200f4b5c9d500967abec23a6
+run_name: kindly-robin-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537917290
+status: 3
+tags: []
+user_id: runner

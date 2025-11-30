@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/bf6018e1229d49779b6c505f219bd063/artifacts
+end_time: 1764537911506
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: bf6018e1229d49779b6c505f219bd063
+run_name: welcoming-dove-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537911488
+status: 3
+tags: []
+user_id: runner

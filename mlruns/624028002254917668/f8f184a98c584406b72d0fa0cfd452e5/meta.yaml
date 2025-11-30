@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/f8f184a98c584406b72d0fa0cfd452e5/artifacts
+end_time: 1764537910306
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: f8f184a98c584406b72d0fa0cfd452e5
+run_name: abrasive-mare-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537910289
+status: 3
+tags: []
+user_id: runner

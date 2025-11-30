@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/ee8ba84e9827403a9a291a4d72e8a1f8/artifacts
+end_time: 1764537917089
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: ee8ba84e9827403a9a291a4d72e8a1f8
+run_name: spiffy-yak-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537917066
+status: 3
+tags: []
+user_id: runner

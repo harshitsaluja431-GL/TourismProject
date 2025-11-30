@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/a8833004e7b147929e6e318f5b2a1a68/artifacts
+end_time: 1764537923283
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: a8833004e7b147929e6e318f5b2a1a68
+run_name: merciful-seal-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537923256
+status: 3
+tags: []
+user_id: runner

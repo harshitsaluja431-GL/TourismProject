@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/9720c543ddf443bab259e1e15386eb5c/artifacts
+end_time: 1764537912508
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 9720c543ddf443bab259e1e15386eb5c
+run_name: peaceful-doe-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537912489
+status: 3
+tags: []
+user_id: runner

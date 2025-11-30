@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/2ad714ccb5b5435b9f56916c8d2711dd/artifacts
+end_time: 1764537931456
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 2ad714ccb5b5435b9f56916c8d2711dd
+run_name: rumbling-deer-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537931425
+status: 3
+tags: []
+user_id: runner

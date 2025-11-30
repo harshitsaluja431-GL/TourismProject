@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/a7d8f094e0114b5792942dea17bbaefa/artifacts
+end_time: 1764537930604
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: a7d8f094e0114b5792942dea17bbaefa
+run_name: agreeable-cod-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537930573
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/ead4c346950e4690bc9f29f1c91fef2b/artifacts
+end_time: 1764537924206
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: ead4c346950e4690bc9f29f1c91fef2b
+run_name: bedecked-stoat-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537924178
+status: 3
+tags: []
+user_id: runner

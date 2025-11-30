@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/af4f684fd9474e46942a0b833aed6176/artifacts
+end_time: 1764537911970
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: af4f684fd9474e46942a0b833aed6176
+run_name: welcoming-duck-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537911952
+status: 3
+tags: []
+user_id: runner

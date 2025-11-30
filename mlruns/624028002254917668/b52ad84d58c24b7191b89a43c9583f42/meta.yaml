@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/b52ad84d58c24b7191b89a43c9583f42/artifacts
+end_time: 1764537927726
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: b52ad84d58c24b7191b89a43c9583f42
+run_name: loud-goat-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537927696
+status: 3
+tags: []
+user_id: runner

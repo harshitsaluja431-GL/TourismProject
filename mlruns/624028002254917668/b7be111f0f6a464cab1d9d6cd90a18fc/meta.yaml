@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/b7be111f0f6a464cab1d9d6cd90a18fc/artifacts
+end_time: 1764537912093
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: b7be111f0f6a464cab1d9d6cd90a18fc
+run_name: fun-grouse-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537912075
+status: 3
+tags: []
+user_id: runner

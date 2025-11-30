@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/1373c845c3c6483f9fb2c3621aefa2ed/artifacts
+end_time: 1764537925113
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 1373c845c3c6483f9fb2c3621aefa2ed
+run_name: respected-shrew-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537925085
+status: 3
+tags: []
+user_id: runner

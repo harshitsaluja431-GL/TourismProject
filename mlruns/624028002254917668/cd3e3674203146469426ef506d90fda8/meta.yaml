@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/cd3e3674203146469426ef506d90fda8/artifacts
+end_time: 1764537917038
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: cd3e3674203146469426ef506d90fda8
+run_name: melodic-kite-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537917016
+status: 3
+tags: []
+user_id: runner

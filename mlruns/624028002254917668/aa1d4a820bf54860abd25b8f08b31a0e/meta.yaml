@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/aa1d4a820bf54860abd25b8f08b31a0e/artifacts
+end_time: 1764537927501
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: aa1d4a820bf54860abd25b8f08b31a0e
+run_name: delightful-cat-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537927472
+status: 3
+tags: []
+user_id: runner

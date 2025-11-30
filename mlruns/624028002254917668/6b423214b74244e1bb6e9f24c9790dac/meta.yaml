@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/6b423214b74244e1bb6e9f24c9790dac/artifacts
+end_time: 1764537933165
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 6b423214b74244e1bb6e9f24c9790dac
+run_name: peaceful-carp-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537933133
+status: 3
+tags: []
+user_id: runner

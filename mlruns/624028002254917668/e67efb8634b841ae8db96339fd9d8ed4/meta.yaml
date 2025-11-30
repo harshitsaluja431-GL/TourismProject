@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/e67efb8634b841ae8db96339fd9d8ed4/artifacts
+end_time: 1764537941181
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: e67efb8634b841ae8db96339fd9d8ed4
+run_name: mysterious-jay-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537941145
+status: 3
+tags: []
+user_id: runner

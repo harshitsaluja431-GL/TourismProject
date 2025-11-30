@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/9cdf8072c60646019f09e58cdac66e4b/artifacts
+end_time: 1764537910994
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 9cdf8072c60646019f09e58cdac66e4b
+run_name: spiffy-stag-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537910976
+status: 3
+tags: []
+user_id: runner

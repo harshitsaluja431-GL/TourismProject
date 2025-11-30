@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/eb173a9ab94348c08e18d5859b31a6c1/artifacts
+end_time: 1764537930029
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: eb173a9ab94348c08e18d5859b31a6c1
+run_name: vaunted-grub-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537929999
+status: 3
+tags: []
+user_id: runner

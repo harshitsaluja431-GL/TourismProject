@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/908a08c1498243aeb393ea669bf784c4/artifacts
+end_time: 1764537909063
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 908a08c1498243aeb393ea669bf784c4
+run_name: overjoyed-rat-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537909047
+status: 3
+tags: []
+user_id: runner

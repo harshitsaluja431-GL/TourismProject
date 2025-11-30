@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/dcb8578512164621b4f8cd81ce67909a/artifacts
+end_time: 1764537928604
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: dcb8578512164621b4f8cd81ce67909a
+run_name: powerful-donkey-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537928574
+status: 3
+tags: []
+user_id: runner

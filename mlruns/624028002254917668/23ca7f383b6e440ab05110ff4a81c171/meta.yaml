@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/23ca7f383b6e440ab05110ff4a81c171/artifacts
+end_time: 1764537914180
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 23ca7f383b6e440ab05110ff4a81c171
+run_name: bustling-cow-186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537914159
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/8e3f520b0a854713bd1ce76868139fff/artifacts
+end_time: 1764537927245
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 8e3f520b0a854713bd1ce76868139fff
+run_name: resilient-rook-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537927216
+status: 3
+tags: []
+user_id: runner

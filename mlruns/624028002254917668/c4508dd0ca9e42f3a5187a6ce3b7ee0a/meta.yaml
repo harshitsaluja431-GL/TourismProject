@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/c4508dd0ca9e42f3a5187a6ce3b7ee0a/artifacts
+end_time: 1764537932778
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: c4508dd0ca9e42f3a5187a6ce3b7ee0a
+run_name: tasteful-bass-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537932746
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/0e458f03a00b454390f06c07cef0ee5a/artifacts
+end_time: 1764537929929
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 0e458f03a00b454390f06c07cef0ee5a
+run_name: gifted-carp-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537929899
+status: 3
+tags: []
+user_id: runner

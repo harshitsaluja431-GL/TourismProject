@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/fb5590dc81c0415e9f9cea206510a8ba/artifacts
+end_time: 1764537934234
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: fb5590dc81c0415e9f9cea206510a8ba
+run_name: enthused-sheep-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537934201
+status: 3
+tags: []
+user_id: runner

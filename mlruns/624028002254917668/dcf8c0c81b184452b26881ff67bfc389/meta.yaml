@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/dcf8c0c81b184452b26881ff67bfc389/artifacts
+end_time: 1764537915396
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: dcf8c0c81b184452b26881ff67bfc389
+run_name: rumbling-zebra-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537915375
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/7f6d649e2d2545448c9c9ae9396fb525/artifacts
+end_time: 1764537910609
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 7f6d649e2d2545448c9c9ae9396fb525
+run_name: suave-loon-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537910592
+status: 3
+tags: []
+user_id: runner

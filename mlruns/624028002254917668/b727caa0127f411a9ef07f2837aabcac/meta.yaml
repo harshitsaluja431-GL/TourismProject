@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/b727caa0127f411a9ef07f2837aabcac/artifacts
+end_time: 1764537913955
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: b727caa0127f411a9ef07f2837aabcac
+run_name: selective-slug-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537913935
+status: 3
+tags: []
+user_id: runner

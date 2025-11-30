@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/3c66439cc9ff4e29aced666c0da1eade/artifacts
+end_time: 1764537930063
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 3c66439cc9ff4e29aced666c0da1eade
+run_name: marvelous-skink-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537930032
+status: 3
+tags: []
+user_id: runner

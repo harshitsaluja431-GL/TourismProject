@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/9c0cb5ef51674c0596901002f98e0931/artifacts
+end_time: 1764537911386
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 9c0cb5ef51674c0596901002f98e0931
+run_name: gifted-pig-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537911369
+status: 3
+tags: []
+user_id: runner

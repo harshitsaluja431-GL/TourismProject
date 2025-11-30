@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/04065a0e6cef43ddacb0f5f5521c8cb6/artifacts
+end_time: 1764537908942
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 04065a0e6cef43ddacb0f5f5521c8cb6
+run_name: abrasive-flea-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537908927
+status: 3
+tags: []
+user_id: runner

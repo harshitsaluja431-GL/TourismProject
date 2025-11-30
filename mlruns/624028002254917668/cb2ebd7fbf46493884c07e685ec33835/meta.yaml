@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/cb2ebd7fbf46493884c07e685ec33835/artifacts
+end_time: 1764537924416
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: cb2ebd7fbf46493884c07e685ec33835
+run_name: fearless-dolphin-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537924389
+status: 3
+tags: []
+user_id: runner

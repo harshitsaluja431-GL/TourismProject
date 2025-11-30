@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/effe20f767cf4e79a61e734967361b58/artifacts
+end_time: 1764537920496
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: effe20f767cf4e79a61e734967361b58
+run_name: sneaky-pig-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537920472
+status: 3
+tags: []
+user_id: runner

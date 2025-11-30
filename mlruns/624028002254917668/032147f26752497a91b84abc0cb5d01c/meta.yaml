@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/032147f26752497a91b84abc0cb5d01c/artifacts
+end_time: 1764537919577
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 032147f26752497a91b84abc0cb5d01c
+run_name: lyrical-wasp-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537919553
+status: 3
+tags: []
+user_id: runner

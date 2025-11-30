@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/1e5c925969ae49abb05e194e570d5741/artifacts
+end_time: 1764537931148
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 1e5c925969ae49abb05e194e570d5741
+run_name: likeable-hen-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537931117
+status: 3
+tags: []
+user_id: runner

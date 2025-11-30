@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/eec39de940f9417a945290d691543b3a/artifacts
+end_time: 1764537908044
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: eec39de940f9417a945290d691543b3a
+run_name: burly-bat-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537908029
+status: 3
+tags: []
+user_id: runner

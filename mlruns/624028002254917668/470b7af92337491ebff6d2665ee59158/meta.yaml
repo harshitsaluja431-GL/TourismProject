@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/470b7af92337491ebff6d2665ee59158/artifacts
+end_time: 1764537936832
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 470b7af92337491ebff6d2665ee59158
+run_name: hilarious-crane-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537936798
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/99b9c8239c3d49a5b5a6ff0b739bdaf4/artifacts
+end_time: 1764537920772
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 99b9c8239c3d49a5b5a6ff0b739bdaf4
+run_name: omniscient-skunk-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537920747
+status: 3
+tags: []
+user_id: runner

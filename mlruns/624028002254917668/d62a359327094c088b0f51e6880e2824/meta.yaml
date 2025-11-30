@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/d62a359327094c088b0f51e6880e2824/artifacts
+end_time: 1764537921809
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: d62a359327094c088b0f51e6880e2824
+run_name: placid-shrike-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537921783
+status: 3
+tags: []
+user_id: runner

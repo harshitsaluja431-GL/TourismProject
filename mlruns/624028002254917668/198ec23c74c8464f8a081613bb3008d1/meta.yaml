@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/198ec23c74c8464f8a081613bb3008d1/artifacts
+end_time: 1764537941062
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 198ec23c74c8464f8a081613bb3008d1
+run_name: upbeat-newt-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537941026
+status: 3
+tags: []
+user_id: runner

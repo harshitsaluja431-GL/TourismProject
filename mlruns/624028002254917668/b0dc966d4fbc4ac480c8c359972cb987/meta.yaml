@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/b0dc966d4fbc4ac480c8c359972cb987/artifacts
+end_time: 1764537934126
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: b0dc966d4fbc4ac480c8c359972cb987
+run_name: angry-smelt-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537934094
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/71eddf1b61904562955162fcf44950be/artifacts
+end_time: 1764537932568
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 71eddf1b61904562955162fcf44950be
+run_name: dazzling-cow-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537932536
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/a303acd2430d4f11bc1e709cf64c90f9/artifacts
+end_time: 1764537922931
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: a303acd2430d4f11bc1e709cf64c90f9
+run_name: melodic-rat-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537922905
+status: 3
+tags: []
+user_id: runner

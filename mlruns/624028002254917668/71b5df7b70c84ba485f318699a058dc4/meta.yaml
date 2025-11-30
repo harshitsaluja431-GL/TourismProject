@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/624028002254917668/71b5df7b70c84ba485f318699a058dc4/artifacts
+end_time: 1764537927822
+entry_point_name: ''
+experiment_id: '624028002254917668'
+lifecycle_stage: active
+run_id: 71b5df7b70c84ba485f318699a058dc4
+run_name: classy-shad-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764537927793
+status: 3
+tags: []
+user_id: runner
