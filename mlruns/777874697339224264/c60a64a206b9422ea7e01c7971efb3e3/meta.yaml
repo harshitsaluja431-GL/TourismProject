@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c60a64a206b9422ea7e01c7971efb3e3/artifacts
+end_time: 1764928618221
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c60a64a206b9422ea7e01c7971efb3e3
+run_name: wise-hawk-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618191
+status: 3
+tags: []
+user_id: runner

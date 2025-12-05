@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/dd498591d329431fa26717ab88dcde6a/artifacts
+end_time: 1764928596517
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: dd498591d329431fa26717ab88dcde6a
+run_name: bald-roo-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596503
+status: 3
+tags: []
+user_id: runner

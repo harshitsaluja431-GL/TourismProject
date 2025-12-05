@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/54144174f5a54f38bb0ea2c1756cec90/artifacts
+end_time: 1764928595527
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 54144174f5a54f38bb0ea2c1756cec90
+run_name: melodic-shrew-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595515
+status: 3
+tags: []
+user_id: runner

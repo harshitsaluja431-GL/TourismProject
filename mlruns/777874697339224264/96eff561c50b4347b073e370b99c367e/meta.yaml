@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/96eff561c50b4347b073e370b99c367e/artifacts
+end_time: 1764928605335
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 96eff561c50b4347b073e370b99c367e
+run_name: angry-bass-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928605313
+status: 3
+tags: []
+user_id: runner

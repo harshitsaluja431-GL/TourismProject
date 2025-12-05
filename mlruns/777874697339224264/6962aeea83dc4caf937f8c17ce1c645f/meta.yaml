@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6962aeea83dc4caf937f8c17ce1c645f/artifacts
+end_time: 1764928601603
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6962aeea83dc4caf937f8c17ce1c645f
+run_name: fearless-worm-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601584
+status: 3
+tags: []
+user_id: runner

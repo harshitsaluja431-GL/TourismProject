@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/22a4003ec20f4fd3be5bd70eaa546a8c/artifacts
+end_time: 1764928607624
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 22a4003ec20f4fd3be5bd70eaa546a8c
+run_name: bouncy-panda-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607600
+status: 3
+tags: []
+user_id: runner

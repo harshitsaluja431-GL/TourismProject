@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/dcf9fe5ae57a4acb983a5e5fec6ea4e3/artifacts
+end_time: 1764928611810
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: dcf9fe5ae57a4acb983a5e5fec6ea4e3
+run_name: salty-cow-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611784
+status: 3
+tags: []
+user_id: runner

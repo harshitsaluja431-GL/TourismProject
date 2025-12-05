@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/79955a663fcf4d09a480a175af439da8/artifacts
+end_time: 1764928618992
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 79955a663fcf4d09a480a175af439da8
+run_name: dapper-ape-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618961
+status: 3
+tags: []
+user_id: runner

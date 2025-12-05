@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/9f990d2920c1450cbe5eab303d3e00fe/artifacts
+end_time: 1764928600929
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 9f990d2920c1450cbe5eab303d3e00fe
+run_name: illustrious-dove-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600911
+status: 3
+tags: []
+user_id: runner

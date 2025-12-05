@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e74bc4bd58f146a9b78c2dafd572d6b5/artifacts
+end_time: 1764928603437
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e74bc4bd58f146a9b78c2dafd572d6b5
+run_name: gifted-cow-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603416
+status: 3
+tags: []
+user_id: runner

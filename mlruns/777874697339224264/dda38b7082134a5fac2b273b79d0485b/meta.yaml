@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/dda38b7082134a5fac2b273b79d0485b/artifacts
+end_time: 1764928596018
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: dda38b7082134a5fac2b273b79d0485b
+run_name: magnificent-seal-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596003
+status: 3
+tags: []
+user_id: runner

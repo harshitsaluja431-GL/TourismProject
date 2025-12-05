@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/1ae8698c7b9c4a9a95f57a3befd063ec/artifacts
+end_time: 1764928600909
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 1ae8698c7b9c4a9a95f57a3befd063ec
+run_name: youthful-bat-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600890
+status: 3
+tags: []
+user_id: runner

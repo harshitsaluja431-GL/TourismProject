@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/16033a0262fd4293af590fe5ca520031/artifacts
+end_time: 1764928605955
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 16033a0262fd4293af590fe5ca520031
+run_name: melodic-goose-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928605932
+status: 3
+tags: []
+user_id: runner

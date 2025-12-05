@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/bfacaba7ab7744c88f0728aced3fd65c/artifacts
+end_time: 1764928604679
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: bfacaba7ab7744c88f0728aced3fd65c
+run_name: useful-quail-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604657
+status: 3
+tags: []
+user_id: runner

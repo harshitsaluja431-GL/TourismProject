@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/963a1a7b6f6342419c49469734481daf/artifacts
+end_time: 1764928612075
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 963a1a7b6f6342419c49469734481daf
+run_name: unruly-panda-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928612048
+status: 3
+tags: []
+user_id: runner

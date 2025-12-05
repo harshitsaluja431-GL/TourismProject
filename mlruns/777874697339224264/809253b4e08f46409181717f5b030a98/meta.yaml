@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/809253b4e08f46409181717f5b030a98/artifacts
+end_time: 1764928620675
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 809253b4e08f46409181717f5b030a98
+run_name: aged-dog-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928620643
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2c8837affac94e4c8c2fa5e58012cda0/artifacts
+end_time: 1764928618188
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2c8837affac94e4c8c2fa5e58012cda0
+run_name: judicious-zebra-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618157
+status: 3
+tags: []
+user_id: runner

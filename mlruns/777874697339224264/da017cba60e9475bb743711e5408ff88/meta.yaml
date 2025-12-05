@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/da017cba60e9475bb743711e5408ff88/artifacts
+end_time: 1764928609443
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: da017cba60e9475bb743711e5408ff88
+run_name: sincere-calf-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609419
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a5744936c99b4c159aefcb0a5dfb10c3/artifacts
+end_time: 1764928598470
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a5744936c99b4c159aefcb0a5dfb10c3
+run_name: unequaled-goose-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598454
+status: 3
+tags: []
+user_id: runner

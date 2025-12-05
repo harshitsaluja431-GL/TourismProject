@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/1f871298570b4e68a15dcf1c94307ebd/artifacts
+end_time: 1764928609085
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 1f871298570b4e68a15dcf1c94307ebd
+run_name: enthused-boar-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609060
+status: 3
+tags: []
+user_id: runner

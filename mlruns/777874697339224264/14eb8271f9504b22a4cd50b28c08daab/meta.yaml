@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/14eb8271f9504b22a4cd50b28c08daab/artifacts
+end_time: 1764928595187
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 14eb8271f9504b22a4cd50b28c08daab
+run_name: adaptable-whale-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595175
+status: 3
+tags: []
+user_id: runner

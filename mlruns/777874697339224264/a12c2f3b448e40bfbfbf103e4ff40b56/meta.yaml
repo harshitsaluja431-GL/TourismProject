@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a12c2f3b448e40bfbfbf103e4ff40b56/artifacts
+end_time: 1764928597690
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a12c2f3b448e40bfbfbf103e4ff40b56
+run_name: bald-kit-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597675
+status: 3
+tags: []
+user_id: runner

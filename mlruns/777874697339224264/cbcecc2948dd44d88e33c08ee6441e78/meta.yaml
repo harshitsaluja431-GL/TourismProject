@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/cbcecc2948dd44d88e33c08ee6441e78/artifacts
+end_time: 1764928613576
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: cbcecc2948dd44d88e33c08ee6441e78
+run_name: amusing-sloth-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928613549
+status: 3
+tags: []
+user_id: runner

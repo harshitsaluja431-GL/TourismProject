@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6d0451d3795c47eab567e825b719377e/artifacts
+end_time: 1764928623958
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6d0451d3795c47eab567e825b719377e
+run_name: handsome-shoat-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928623925
+status: 3
+tags: []
+user_id: runner

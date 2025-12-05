@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/7bb303d61c6d438f95ea617ce6c733a3/artifacts
+end_time: 1764928598651
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 7bb303d61c6d438f95ea617ce6c733a3
+run_name: ambitious-rook-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598635
+status: 3
+tags: []
+user_id: runner

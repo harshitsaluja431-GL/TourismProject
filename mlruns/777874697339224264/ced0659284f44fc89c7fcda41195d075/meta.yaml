@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ced0659284f44fc89c7fcda41195d075/artifacts
+end_time: 1764928595939
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ced0659284f44fc89c7fcda41195d075
+run_name: melodic-finch-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595926
+status: 3
+tags: []
+user_id: runner

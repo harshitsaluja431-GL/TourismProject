@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f45749bbd0b4447c979f9d9124e55c79/artifacts
+end_time: 1764928621550
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f45749bbd0b4447c979f9d9124e55c79
+run_name: valuable-carp-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928621518
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6a2e7f25daa84058b6d674fc7dc1d54b/artifacts
+end_time: 1764928613240
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6a2e7f25daa84058b6d674fc7dc1d54b
+run_name: bemused-slug-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928613213
+status: 3
+tags: []
+user_id: runner

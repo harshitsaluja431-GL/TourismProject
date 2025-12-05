@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/87ef9e590ec149b2a44dcca12eb1245f/artifacts
+end_time: 1764928597417
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 87ef9e590ec149b2a44dcca12eb1245f
+run_name: nimble-panda-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597402
+status: 3
+tags: []
+user_id: runner

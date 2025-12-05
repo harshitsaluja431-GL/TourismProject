@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/255eb1e2f86941139ce78c2d74b7cfa0/artifacts
+end_time: 1764928622224
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 255eb1e2f86941139ce78c2d74b7cfa0
+run_name: clean-cow-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928622191
+status: 3
+tags: []
+user_id: runner

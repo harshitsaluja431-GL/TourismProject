@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/3ed3f2b13fc24c8c9f8ea3b051002dde/artifacts
+end_time: 1764928620293
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 3ed3f2b13fc24c8c9f8ea3b051002dde
+run_name: amazing-hare-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928620262
+status: 3
+tags: []
+user_id: runner

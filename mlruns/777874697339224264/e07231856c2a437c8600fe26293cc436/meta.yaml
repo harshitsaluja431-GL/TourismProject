@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e07231856c2a437c8600fe26293cc436/artifacts
+end_time: 1764928599668
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e07231856c2a437c8600fe26293cc436
+run_name: skillful-grub-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928599651
+status: 3
+tags: []
+user_id: runner

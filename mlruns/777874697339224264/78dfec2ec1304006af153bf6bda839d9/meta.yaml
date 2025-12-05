@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/78dfec2ec1304006af153bf6bda839d9/artifacts
+end_time: 1764928596221
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 78dfec2ec1304006af153bf6bda839d9
+run_name: caring-robin-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596208
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ba1e1cc144e84f35a28bf5f5acbca9b5/artifacts
+end_time: 1764928607101
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ba1e1cc144e84f35a28bf5f5acbca9b5
+run_name: valuable-cod-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607077
+status: 3
+tags: []
+user_id: runner

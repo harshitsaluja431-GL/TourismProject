@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/1de52850bdef45fcaf0a431a4ec4a33b/artifacts
+end_time: 1764928618388
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 1de52850bdef45fcaf0a431a4ec4a33b
+run_name: able-cub-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618357
+status: 3
+tags: []
+user_id: runner

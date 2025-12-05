@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/499f102edafb4c3faa486f7f980a71fa/artifacts
+end_time: 1764928617590
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 499f102edafb4c3faa486f7f980a71fa
+run_name: thundering-sheep-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928617560
+status: 3
+tags: []
+user_id: runner

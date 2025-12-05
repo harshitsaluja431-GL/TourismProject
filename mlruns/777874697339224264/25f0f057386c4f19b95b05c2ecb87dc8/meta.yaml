@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/25f0f057386c4f19b95b05c2ecb87dc8/artifacts
+end_time: 1764928614908
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 25f0f057386c4f19b95b05c2ecb87dc8
+run_name: skillful-ant-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614879
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8b2269a98ba14d1ca93a345084997f7a/artifacts
+end_time: 1764928596580
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8b2269a98ba14d1ca93a345084997f7a
+run_name: charming-mare-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596566
+status: 3
+tags: []
+user_id: runner

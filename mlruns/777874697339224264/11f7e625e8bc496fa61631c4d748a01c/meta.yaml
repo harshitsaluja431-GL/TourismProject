@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/11f7e625e8bc496fa61631c4d748a01c/artifacts
+end_time: 1764928603028
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 11f7e625e8bc496fa61631c4d748a01c
+run_name: able-goat-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603007
+status: 3
+tags: []
+user_id: runner

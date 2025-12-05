@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/303f9b4185c5451eb678c33f4dd3c35a/artifacts
+end_time: 1764928618488
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 303f9b4185c5451eb678c33f4dd3c35a
+run_name: melodic-frog-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618457
+status: 3
+tags: []
+user_id: runner

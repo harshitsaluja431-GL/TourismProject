@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/88729113e9b748eb9fa97ebd14a8fe36/artifacts
+end_time: 1764928607889
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 88729113e9b748eb9fa97ebd14a8fe36
+run_name: rogue-fish-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607865
+status: 3
+tags: []
+user_id: runner

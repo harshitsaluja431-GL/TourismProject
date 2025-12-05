@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2b5b5f90a86f4178aa92abd2fa862058/artifacts
+end_time: 1764928605237
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2b5b5f90a86f4178aa92abd2fa862058
+run_name: smiling-loon-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928605215
+status: 3
+tags: []
+user_id: runner

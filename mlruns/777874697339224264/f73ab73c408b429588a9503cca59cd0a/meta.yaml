@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f73ab73c408b429588a9503cca59cd0a/artifacts
+end_time: 1764928615697
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f73ab73c408b429588a9503cca59cd0a
+run_name: melodic-hawk-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615668
+status: 3
+tags: []
+user_id: runner

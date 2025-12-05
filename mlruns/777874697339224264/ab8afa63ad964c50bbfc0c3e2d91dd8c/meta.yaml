@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ab8afa63ad964c50bbfc0c3e2d91dd8c/artifacts
+end_time: 1764928596805
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ab8afa63ad964c50bbfc0c3e2d91dd8c
+run_name: efficient-ox-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596791
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d72dc21eaed946279b2a41d7394d1a27/artifacts
+end_time: 1764928609471
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d72dc21eaed946279b2a41d7394d1a27
+run_name: sedate-hawk-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609446
+status: 3
+tags: []
+user_id: runner

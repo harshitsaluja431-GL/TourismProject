@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/35b695bcbf04410a8ea88c35e66b1f6e/artifacts
+end_time: 1764928609305
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 35b695bcbf04410a8ea88c35e66b1f6e
+run_name: adventurous-turtle-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609280
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/008d53378f5c496781bec8b6221fc8f8/artifacts
+end_time: 1764928598199
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 008d53378f5c496781bec8b6221fc8f8
+run_name: rambunctious-hen-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598183
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/38ceb33de1684a93b10aaa110c716741/artifacts
+end_time: 1764928597400
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 38ceb33de1684a93b10aaa110c716741
+run_name: thundering-elk-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597385
+status: 3
+tags: []
+user_id: runner

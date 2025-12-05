@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/3b167f9e31b54d45bf2a4bd2bec64c14/artifacts
+end_time: 1764928614751
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 3b167f9e31b54d45bf2a4bd2bec64c14
+run_name: sneaky-sloth-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614723
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a1ce98d9d53345ba9ba9c30f818402a5/artifacts
+end_time: 1764928613332
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a1ce98d9d53345ba9ba9c30f818402a5
+run_name: resilient-robin-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928613304
+status: 3
+tags: []
+user_id: runner

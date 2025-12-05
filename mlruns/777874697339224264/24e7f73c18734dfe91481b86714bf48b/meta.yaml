@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/24e7f73c18734dfe91481b86714bf48b/artifacts
+end_time: 1764928597232
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 24e7f73c18734dfe91481b86714bf48b
+run_name: lyrical-cod-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597218
+status: 3
+tags: []
+user_id: runner

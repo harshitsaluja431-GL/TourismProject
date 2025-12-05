@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d9d02bbffe684266806421c13be80dcb/artifacts
+end_time: 1764928603853
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d9d02bbffe684266806421c13be80dcb
+run_name: thoughtful-midge-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603832
+status: 3
+tags: []
+user_id: runner

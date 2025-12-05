@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/07b05add72134fe68f6db0435636a265/artifacts
+end_time: 1764928598128
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 07b05add72134fe68f6db0435636a265
+run_name: burly-colt-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598112
+status: 3
+tags: []
+user_id: runner

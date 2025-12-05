@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/cb29f12c631640898d8f35ee928a49e4/artifacts
+end_time: 1764928626038
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: cb29f12c631640898d8f35ee928a49e4
+run_name: brawny-finch-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928626004
+status: 3
+tags: []
+user_id: runner

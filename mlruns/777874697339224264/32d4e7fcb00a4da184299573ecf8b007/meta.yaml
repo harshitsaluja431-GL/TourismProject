@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/32d4e7fcb00a4da184299573ecf8b007/artifacts
+end_time: 1764928597536
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 32d4e7fcb00a4da184299573ecf8b007
+run_name: bright-calf-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597521
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c8f0b2d21ed84423a84efd068619f670/artifacts
+end_time: 1764928614285
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c8f0b2d21ed84423a84efd068619f670
+run_name: amazing-shrike-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614256
+status: 3
+tags: []
+user_id: runner

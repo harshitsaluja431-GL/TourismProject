@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/85a1b6f86dce4a04b80a26982f51d828/artifacts
+end_time: 1764928605904
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 85a1b6f86dce4a04b80a26982f51d828
+run_name: peaceful-loon-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928605881
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8ed8ac2c321d4096bbf74f7ec7881f3b/artifacts
+end_time: 1764928613180
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8ed8ac2c321d4096bbf74f7ec7881f3b
+run_name: rumbling-skink-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928613152
+status: 3
+tags: []
+user_id: runner

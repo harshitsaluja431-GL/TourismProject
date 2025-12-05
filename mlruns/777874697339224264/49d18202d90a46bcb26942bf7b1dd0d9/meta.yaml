@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/49d18202d90a46bcb26942bf7b1dd0d9/artifacts
+end_time: 1764928606995
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 49d18202d90a46bcb26942bf7b1dd0d9
+run_name: luxuriant-bee-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928606972
+status: 3
+tags: []
+user_id: runner

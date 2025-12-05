@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a519c74e94794d559c58a0901eaf2aea/artifacts
+end_time: 1764928601795
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a519c74e94794d559c58a0901eaf2aea
+run_name: omniscient-moose-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601776
+status: 3
+tags: []
+user_id: runner

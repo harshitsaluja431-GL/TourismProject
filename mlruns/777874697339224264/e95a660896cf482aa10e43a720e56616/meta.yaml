@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e95a660896cf482aa10e43a720e56616/artifacts
+end_time: 1764928610000
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e95a660896cf482aa10e43a720e56616
+run_name: blushing-newt-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609975
+status: 3
+tags: []
+user_id: runner

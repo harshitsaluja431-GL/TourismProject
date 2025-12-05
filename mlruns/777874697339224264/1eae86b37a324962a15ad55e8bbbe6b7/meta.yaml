@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/1eae86b37a324962a15ad55e8bbbe6b7/artifacts
+end_time: 1764928610709
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 1eae86b37a324962a15ad55e8bbbe6b7
+run_name: tasteful-lynx-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928610683
+status: 3
+tags: []
+user_id: runner

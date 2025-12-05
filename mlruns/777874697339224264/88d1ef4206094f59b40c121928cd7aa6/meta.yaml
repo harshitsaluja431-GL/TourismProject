@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/88d1ef4206094f59b40c121928cd7aa6/artifacts
+end_time: 1764928607730
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 88d1ef4206094f59b40c121928cd7aa6
+run_name: silent-auk-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607706
+status: 3
+tags: []
+user_id: runner

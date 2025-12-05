@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/04d64029025c4e3a8a452ec83b81a16e/artifacts
+end_time: 1764928609333
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 04d64029025c4e3a8a452ec83b81a16e
+run_name: abrasive-croc-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609308
+status: 3
+tags: []
+user_id: runner

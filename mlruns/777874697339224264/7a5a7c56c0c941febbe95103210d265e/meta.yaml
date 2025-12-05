@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/7a5a7c56c0c941febbe95103210d265e/artifacts
+end_time: 1764928601624
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 7a5a7c56c0c941febbe95103210d265e
+run_name: treasured-seal-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601605
+status: 3
+tags: []
+user_id: runner

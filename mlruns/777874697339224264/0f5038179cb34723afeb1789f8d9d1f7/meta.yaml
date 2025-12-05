@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0f5038179cb34723afeb1789f8d9d1f7/artifacts
+end_time: 1764928598965
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0f5038179cb34723afeb1789f8d9d1f7
+run_name: resilient-ram-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598948
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/bfeed77516ee426abc7c6ea09967d327/artifacts
+end_time: 1764928625140
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: bfeed77516ee426abc7c6ea09967d327
+run_name: receptive-sow-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928625106
+status: 3
+tags: []
+user_id: runner

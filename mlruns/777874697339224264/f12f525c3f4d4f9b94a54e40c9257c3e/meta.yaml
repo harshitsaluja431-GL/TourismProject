@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f12f525c3f4d4f9b94a54e40c9257c3e/artifacts
+end_time: 1764928595613
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f12f525c3f4d4f9b94a54e40c9257c3e
+run_name: nosy-skunk-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595601
+status: 3
+tags: []
+user_id: runner

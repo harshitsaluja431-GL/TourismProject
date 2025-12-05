@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/7bc207e269704c899965f16fa342c26f/artifacts
+end_time: 1764928615129
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 7bc207e269704c899965f16fa342c26f
+run_name: abundant-dolphin-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615099
+status: 3
+tags: []
+user_id: runner

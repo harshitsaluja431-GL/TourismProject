@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f816a86307bc4922a5fc9aaab586547f/artifacts
+end_time: 1764928605359
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f816a86307bc4922a5fc9aaab586547f
+run_name: upset-croc-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928605338
+status: 3
+tags: []
+user_id: runner

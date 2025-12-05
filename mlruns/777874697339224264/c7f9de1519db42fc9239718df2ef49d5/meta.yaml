@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c7f9de1519db42fc9239718df2ef49d5/artifacts
+end_time: 1764928604369
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c7f9de1519db42fc9239718df2ef49d5
+run_name: efficient-lark-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604348
+status: 3
+tags: []
+user_id: runner

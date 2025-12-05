@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d06b5453645448a483369f9a0f40c190/artifacts
+end_time: 1764928619502
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d06b5453645448a483369f9a0f40c190
+run_name: judicious-cod-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928619471
+status: 3
+tags: []
+user_id: runner

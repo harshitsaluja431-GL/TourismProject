@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/52106f76fb084ac9b7ed80dc2699303c/artifacts
+end_time: 1764928624546
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 52106f76fb084ac9b7ed80dc2699303c
+run_name: clean-mink-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928624512
+status: 3
+tags: []
+user_id: runner

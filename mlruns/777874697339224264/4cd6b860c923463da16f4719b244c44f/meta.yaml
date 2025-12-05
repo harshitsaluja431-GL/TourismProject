@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/4cd6b860c923463da16f4719b244c44f/artifacts
+end_time: 1764928598217
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 4cd6b860c923463da16f4719b244c44f
+run_name: auspicious-foal-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598201
+status: 3
+tags: []
+user_id: runner

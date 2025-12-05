@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/48fd76b8b939425cb568a29f6cd28700/artifacts
+end_time: 1764928597811
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 48fd76b8b939425cb568a29f6cd28700
+run_name: ambitious-midge-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597796
+status: 3
+tags: []
+user_id: runner

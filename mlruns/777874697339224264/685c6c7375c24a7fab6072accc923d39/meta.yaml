@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/685c6c7375c24a7fab6072accc923d39/artifacts
+end_time: 1764928597216
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 685c6c7375c24a7fab6072accc923d39
+run_name: mysterious-shrew-143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597201
+status: 3
+tags: []
+user_id: runner

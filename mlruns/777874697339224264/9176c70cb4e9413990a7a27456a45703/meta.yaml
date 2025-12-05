@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/9176c70cb4e9413990a7a27456a45703/artifacts
+end_time: 1764928603598
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 9176c70cb4e9413990a7a27456a45703
+run_name: unruly-bat-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603577
+status: 3
+tags: []
+user_id: runner

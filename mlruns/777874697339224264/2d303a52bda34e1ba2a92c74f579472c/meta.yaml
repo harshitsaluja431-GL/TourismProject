@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2d303a52bda34e1ba2a92c74f579472c/artifacts
+end_time: 1764928602847
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2d303a52bda34e1ba2a92c74f579472c
+run_name: rumbling-koi-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928602827
+status: 3
+tags: []
+user_id: runner

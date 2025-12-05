@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/bafc831ebc0749448a10d8808832194d/artifacts
+end_time: 1764928611053
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: bafc831ebc0749448a10d8808832194d
+run_name: bold-goat-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611027
+status: 3
+tags: []
+user_id: runner

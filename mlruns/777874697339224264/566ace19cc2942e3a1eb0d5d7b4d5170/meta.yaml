@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/566ace19cc2942e3a1eb0d5d7b4d5170/artifacts
+end_time: 1764928623122
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 566ace19cc2942e3a1eb0d5d7b4d5170
+run_name: bedecked-rat-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928623088
+status: 3
+tags: []
+user_id: runner

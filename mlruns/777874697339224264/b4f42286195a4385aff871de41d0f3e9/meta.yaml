@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b4f42286195a4385aff871de41d0f3e9/artifacts
+end_time: 1764928597934
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b4f42286195a4385aff871de41d0f3e9
+run_name: tasteful-chimp-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597918
+status: 3
+tags: []
+user_id: runner

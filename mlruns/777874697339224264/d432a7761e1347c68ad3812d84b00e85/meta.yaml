@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d432a7761e1347c68ad3812d84b00e85/artifacts
+end_time: 1764928611460
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d432a7761e1347c68ad3812d84b00e85
+run_name: awesome-worm-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611434
+status: 3
+tags: []
+user_id: runner

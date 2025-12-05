@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/385c5756523446a6bc3922d9996ab02e/artifacts
+end_time: 1764928597519
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 385c5756523446a6bc3922d9996ab02e
+run_name: redolent-skunk-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597504
+status: 3
+tags: []
+user_id: runner

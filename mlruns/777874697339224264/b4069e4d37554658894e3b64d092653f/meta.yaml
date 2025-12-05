@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b4069e4d37554658894e3b64d092653f/artifacts
+end_time: 1764928622188
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b4069e4d37554658894e3b64d092653f
+run_name: amazing-midge-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928622155
+status: 3
+tags: []
+user_id: runner

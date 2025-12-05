@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/68ef5c9324f44a08b98acf9e0e0b27df/artifacts
+end_time: 1764928619810
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 68ef5c9324f44a08b98acf9e0e0b27df
+run_name: secretive-crane-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928619778
+status: 3
+tags: []
+user_id: runner

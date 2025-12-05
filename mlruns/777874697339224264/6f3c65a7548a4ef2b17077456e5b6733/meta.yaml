@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6f3c65a7548a4ef2b17077456e5b6733/artifacts
+end_time: 1764928626076
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6f3c65a7548a4ef2b17077456e5b6733
+run_name: peaceful-kit-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928626041
+status: 3
+tags: []
+user_id: runner

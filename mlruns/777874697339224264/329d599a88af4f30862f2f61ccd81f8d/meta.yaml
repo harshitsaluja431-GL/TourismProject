@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/329d599a88af4f30862f2f61ccd81f8d/artifacts
+end_time: 1764928598074
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 329d599a88af4f30862f2f61ccd81f8d
+run_name: redolent-frog-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598059
+status: 3
+tags: []
+user_id: runner

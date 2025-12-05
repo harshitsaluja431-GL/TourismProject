@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b6309b371a9a4a9690cfa49963a0800e/artifacts
+end_time: 1764928600198
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b6309b371a9a4a9690cfa49963a0800e
+run_name: whimsical-yak-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600180
+status: 3
+tags: []
+user_id: runner

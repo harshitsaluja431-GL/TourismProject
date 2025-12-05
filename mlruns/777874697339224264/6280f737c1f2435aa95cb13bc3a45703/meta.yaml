@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6280f737c1f2435aa95cb13bc3a45703/artifacts
+end_time: 1764928617131
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6280f737c1f2435aa95cb13bc3a45703
+run_name: orderly-carp-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928617101
+status: 3
+tags: []
+user_id: runner

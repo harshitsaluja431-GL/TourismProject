@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ab1b2932745949c29e3dc8c6d5b97f3b/artifacts
+end_time: 1764928621726
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ab1b2932745949c29e3dc8c6d5b97f3b
+run_name: upbeat-wolf-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928621694
+status: 3
+tags: []
+user_id: runner

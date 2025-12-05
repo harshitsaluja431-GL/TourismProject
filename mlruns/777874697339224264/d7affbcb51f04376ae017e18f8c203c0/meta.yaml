@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d7affbcb51f04376ae017e18f8c203c0/artifacts
+end_time: 1764928621585
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d7affbcb51f04376ae017e18f8c203c0
+run_name: enthused-foal-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928621553
+status: 3
+tags: []
+user_id: runner

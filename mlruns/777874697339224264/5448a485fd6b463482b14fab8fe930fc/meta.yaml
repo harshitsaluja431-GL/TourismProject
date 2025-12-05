@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5448a485fd6b463482b14fab8fe930fc/artifacts
+end_time: 1764928601137
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5448a485fd6b463482b14fab8fe930fc
+run_name: secretive-pug-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601119
+status: 3
+tags: []
+user_id: runner

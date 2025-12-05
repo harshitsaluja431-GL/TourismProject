@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/fb1ec315eca1440d84fc09692e398927/artifacts
+end_time: 1764928604321
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: fb1ec315eca1440d84fc09692e398927
+run_name: entertaining-fish-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604300
+status: 3
+tags: []
+user_id: runner

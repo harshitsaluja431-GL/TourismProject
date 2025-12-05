@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c1570d7856fb47bcb2f256dc1a7f064a/artifacts
+end_time: 1764928620536
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c1570d7856fb47bcb2f256dc1a7f064a
+run_name: unique-hog-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928620504
+status: 3
+tags: []
+user_id: runner

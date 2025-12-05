@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/423389ce1a794403837a60aad689d5bd/artifacts
+end_time: 1764928601348
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 423389ce1a794403837a60aad689d5bd
+run_name: skillful-mare-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601330
+status: 3
+tags: []
+user_id: runner

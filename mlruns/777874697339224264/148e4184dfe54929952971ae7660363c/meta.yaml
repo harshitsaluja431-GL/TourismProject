@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/148e4184dfe54929952971ae7660363c/artifacts
+end_time: 1764928608136
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 148e4184dfe54929952971ae7660363c
+run_name: overjoyed-koi-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608112
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/19707b0e5e524d8d8038c5ade2982191/artifacts
+end_time: 1764928608757
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 19707b0e5e524d8d8038c5ade2982191
+run_name: salty-lark-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608733
+status: 3
+tags: []
+user_id: runner

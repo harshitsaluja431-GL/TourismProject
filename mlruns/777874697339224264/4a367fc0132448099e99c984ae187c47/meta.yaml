@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/4a367fc0132448099e99c984ae187c47/artifacts
+end_time: 1764928597951
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 4a367fc0132448099e99c984ae187c47
+run_name: clumsy-worm-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597936
+status: 3
+tags: []
+user_id: runner

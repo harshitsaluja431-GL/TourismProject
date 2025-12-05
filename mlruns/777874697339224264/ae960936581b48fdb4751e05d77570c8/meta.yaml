@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ae960936581b48fdb4751e05d77570c8/artifacts
+end_time: 1764928607387
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ae960936581b48fdb4751e05d77570c8
+run_name: bald-zebra-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607364
+status: 3
+tags: []
+user_id: runner

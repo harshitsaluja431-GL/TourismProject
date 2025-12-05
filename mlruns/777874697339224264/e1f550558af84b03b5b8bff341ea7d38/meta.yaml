@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e1f550558af84b03b5b8bff341ea7d38/artifacts
+end_time: 1764928609140
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e1f550558af84b03b5b8bff341ea7d38
+run_name: nosy-lark-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609116
+status: 3
+tags: []
+user_id: runner

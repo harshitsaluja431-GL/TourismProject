@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/57cc39608d3f4a05a1e73f9ecc431a7f/artifacts
+end_time: 1764928610766
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 57cc39608d3f4a05a1e73f9ecc431a7f
+run_name: defiant-squid-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928610740
+status: 3
+tags: []
+user_id: runner

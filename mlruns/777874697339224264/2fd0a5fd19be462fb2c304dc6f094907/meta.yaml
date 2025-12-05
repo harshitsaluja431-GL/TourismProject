@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2fd0a5fd19be462fb2c304dc6f094907/artifacts
+end_time: 1764928613699
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2fd0a5fd19be462fb2c304dc6f094907
+run_name: bittersweet-ray-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928613671
+status: 3
+tags: []
+user_id: runner

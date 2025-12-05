@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/310d2c30d2884325b082ff4d9a8ea6f4/artifacts
+end_time: 1764928597033
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 310d2c30d2884325b082ff4d9a8ea6f4
+run_name: youthful-ant-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597019
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b56626631d4c4719b865862e4514bc41/artifacts
+end_time: 1764928614814
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b56626631d4c4719b865862e4514bc41
+run_name: gentle-cub-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614785
+status: 3
+tags: []
+user_id: runner

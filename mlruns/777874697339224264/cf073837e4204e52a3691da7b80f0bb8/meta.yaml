@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/cf073837e4204e52a3691da7b80f0bb8/artifacts
+end_time: 1764928614470
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: cf073837e4204e52a3691da7b80f0bb8
+run_name: whimsical-lark-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614442
+status: 3
+tags: []
+user_id: runner

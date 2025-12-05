@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0bdf0f4c718f4980a2c48a431ef76a65/artifacts
+end_time: 1764928608082
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0bdf0f4c718f4980a2c48a431ef76a65
+run_name: skittish-wolf-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608058
+status: 3
+tags: []
+user_id: runner

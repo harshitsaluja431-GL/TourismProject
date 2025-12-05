@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/427ba73f3b45428da0f2467d70aaf256/artifacts
+end_time: 1764928603737
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 427ba73f3b45428da0f2467d70aaf256
+run_name: stately-cub-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603716
+status: 3
+tags: []
+user_id: runner

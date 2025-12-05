@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/7afed7d0da0944b5a275488cd1d82342/artifacts
+end_time: 1764928609499
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 7afed7d0da0944b5a275488cd1d82342
+run_name: omniscient-wren-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609474
+status: 3
+tags: []
+user_id: runner

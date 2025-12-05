@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6a43804adadb4d78b9ec98e3ed3ee148/artifacts
+end_time: 1764928608297
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6a43804adadb4d78b9ec98e3ed3ee148
+run_name: amazing-dove-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608273
+status: 3
+tags: []
+user_id: runner

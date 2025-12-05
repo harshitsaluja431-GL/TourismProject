@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/41a02c33cd114661bbcf69b90e080651/artifacts
+end_time: 1764928600358
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 41a02c33cd114661bbcf69b90e080651
+run_name: bustling-kite-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600340
+status: 3
+tags: []
+user_id: runner

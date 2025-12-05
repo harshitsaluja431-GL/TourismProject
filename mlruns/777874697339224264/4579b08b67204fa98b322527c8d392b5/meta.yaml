@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/4579b08b67204fa98b322527c8d392b5/artifacts
+end_time: 1764928607075
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 4579b08b67204fa98b322527c8d392b5
+run_name: crawling-hawk-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607051
+status: 3
+tags: []
+user_id: runner

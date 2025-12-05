@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6e30112e0e034a209487de25757fccbc/artifacts
+end_time: 1764928600399
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6e30112e0e034a209487de25757fccbc
+run_name: upbeat-fox-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600380
+status: 3
+tags: []
+user_id: runner

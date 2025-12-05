@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b100648d744749c4b5e2b9a5adacf5d5/artifacts
+end_time: 1764928601054
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b100648d744749c4b5e2b9a5adacf5d5
+run_name: inquisitive-dog-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601035
+status: 3
+tags: []
+user_id: runner

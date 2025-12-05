@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/29d54189c5fb4ad4a3d1e5889ccb0c05/artifacts
+end_time: 1764928599940
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 29d54189c5fb4ad4a3d1e5889ccb0c05
+run_name: chill-hen-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928599923
+status: 3
+tags: []
+user_id: runner

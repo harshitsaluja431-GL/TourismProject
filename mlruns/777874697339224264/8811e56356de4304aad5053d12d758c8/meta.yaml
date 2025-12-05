@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8811e56356de4304aad5053d12d758c8/artifacts
+end_time: 1764928605556
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8811e56356de4304aad5053d12d758c8
+run_name: caring-asp-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928605533
+status: 3
+tags: []
+user_id: runner

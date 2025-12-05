@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0acaa927f18c41a1833b20fb8bc70ea0/artifacts
+end_time: 1764928622045
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0acaa927f18c41a1833b20fb8bc70ea0
+run_name: zealous-fawn-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928622013
+status: 3
+tags: []
+user_id: runner

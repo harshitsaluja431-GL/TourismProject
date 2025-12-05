@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d0d7afb3964449c7b57cff17654cd549/artifacts
+end_time: 1764928605704
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d0d7afb3964449c7b57cff17654cd549
+run_name: aged-grouse-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928605682
+status: 3
+tags: []
+user_id: runner

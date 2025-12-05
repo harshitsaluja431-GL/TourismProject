@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6bd32484b05049ca89d2a976f16528f3/artifacts
+end_time: 1764928603922
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6bd32484b05049ca89d2a976f16528f3
+run_name: puzzled-jay-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603902
+status: 3
+tags: []
+user_id: runner

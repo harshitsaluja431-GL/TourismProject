@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/13ebb939cb634c63b5b8b40bb8cbaf20/artifacts
+end_time: 1764928625662
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 13ebb939cb634c63b5b8b40bb8cbaf20
+run_name: dazzling-ray-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928625628
+status: 3
+tags: []
+user_id: runner

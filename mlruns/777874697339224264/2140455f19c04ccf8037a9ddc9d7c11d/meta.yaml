@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2140455f19c04ccf8037a9ddc9d7c11d/artifacts
+end_time: 1764928609832
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2140455f19c04ccf8037a9ddc9d7c11d
+run_name: overjoyed-calf-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609807
+status: 3
+tags: []
+user_id: runner

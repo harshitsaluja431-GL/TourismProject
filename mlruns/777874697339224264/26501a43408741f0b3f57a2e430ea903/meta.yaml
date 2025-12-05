@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/26501a43408741f0b3f57a2e430ea903/artifacts
+end_time: 1764928622152
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 26501a43408741f0b3f57a2e430ea903
+run_name: defiant-kite-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928622120
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b567bbd43f9d4c2bbac49cf050a4fd6d/artifacts
+end_time: 1764928622295
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b567bbd43f9d4c2bbac49cf050a4fd6d
+run_name: glamorous-wren-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928622262
+status: 3
+tags: []
+user_id: runner

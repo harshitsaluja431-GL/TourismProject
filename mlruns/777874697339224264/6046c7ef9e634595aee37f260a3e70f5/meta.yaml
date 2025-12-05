@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6046c7ef9e634595aee37f260a3e70f5/artifacts
+end_time: 1764928601222
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6046c7ef9e634595aee37f260a3e70f5
+run_name: bold-kite-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601203
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/18813163020b4091ba6bfa94e5a628d5/artifacts
+end_time: 1764928619128
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 18813163020b4091ba6bfa94e5a628d5
+run_name: delicate-stork-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928619097
+status: 3
+tags: []
+user_id: runner

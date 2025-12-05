@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6ab824a59d5d46c694db05e3c21119e7/artifacts
+end_time: 1764928608921
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6ab824a59d5d46c694db05e3c21119e7
+run_name: glamorous-kit-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608896
+status: 3
+tags: []
+user_id: runner

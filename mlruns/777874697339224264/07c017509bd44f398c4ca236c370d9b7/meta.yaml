@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/07c017509bd44f398c4ca236c370d9b7/artifacts
+end_time: 1764928615952
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 07c017509bd44f398c4ca236c370d9b7
+run_name: nosy-crow-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615923
+status: 3
+tags: []
+user_id: runner

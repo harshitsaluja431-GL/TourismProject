@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e9212789f42747c58a4da25136135d91/artifacts
+end_time: 1764928610452
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e9212789f42747c58a4da25136135d91
+run_name: sneaky-toad-673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928610427
+status: 3
+tags: []
+user_id: runner

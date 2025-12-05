@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ab9b9a8636964186b11abcd5b8099f1f/artifacts
+end_time: 1764928608459
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ab9b9a8636964186b11abcd5b8099f1f
+run_name: capricious-crow-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608434
+status: 3
+tags: []
+user_id: runner

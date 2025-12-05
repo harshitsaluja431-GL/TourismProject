@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5e3b0d2582ac472183c81c46dfd1c53f/artifacts
+end_time: 1764928606789
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5e3b0d2582ac472183c81c46dfd1c53f
+run_name: honorable-grouse-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928606766
+status: 3
+tags: []
+user_id: runner

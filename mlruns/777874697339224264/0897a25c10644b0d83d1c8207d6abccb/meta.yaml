@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0897a25c10644b0d83d1c8207d6abccb/artifacts
+end_time: 1764928608378
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0897a25c10644b0d83d1c8207d6abccb
+run_name: melodic-perch-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608354
+status: 3
+tags: []
+user_id: runner

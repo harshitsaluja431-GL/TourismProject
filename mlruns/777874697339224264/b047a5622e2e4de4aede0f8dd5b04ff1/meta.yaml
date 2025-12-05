@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b047a5622e2e4de4aede0f8dd5b04ff1/artifacts
+end_time: 1764928620363
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b047a5622e2e4de4aede0f8dd5b04ff1
+run_name: agreeable-fly-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928620331
+status: 3
+tags: []
+user_id: runner

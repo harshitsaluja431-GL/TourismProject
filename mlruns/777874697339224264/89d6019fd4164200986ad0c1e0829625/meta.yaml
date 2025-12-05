@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/89d6019fd4164200986ad0c1e0829625/artifacts
+end_time: 1764928608839
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 89d6019fd4164200986ad0c1e0829625
+run_name: bemused-moose-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608814
+status: 3
+tags: []
+user_id: runner

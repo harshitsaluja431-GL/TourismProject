@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/242d98101ace4ecabc86acfee1170dc8/artifacts
+end_time: 1764928595201
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 242d98101ace4ecabc86acfee1170dc8
+run_name: serious-cow-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595189
+status: 3
+tags: []
+user_id: runner

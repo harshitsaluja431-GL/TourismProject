@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2f577485887f4671ab62eb131f9dc656/artifacts
+end_time: 1764928597133
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2f577485887f4671ab62eb131f9dc656
+run_name: masked-trout-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597118
+status: 3
+tags: []
+user_id: runner

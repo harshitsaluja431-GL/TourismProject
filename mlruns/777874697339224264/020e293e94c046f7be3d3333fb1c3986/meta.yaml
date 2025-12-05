@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/020e293e94c046f7be3d3333fb1c3986/artifacts
+end_time: 1764928616772
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 020e293e94c046f7be3d3333fb1c3986
+run_name: rumbling-wolf-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928616743
+status: 3
+tags: []
+user_id: runner

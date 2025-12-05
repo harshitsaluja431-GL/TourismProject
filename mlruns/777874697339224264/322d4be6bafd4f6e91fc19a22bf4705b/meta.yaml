@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/322d4be6bafd4f6e91fc19a22bf4705b/artifacts
+end_time: 1764928598253
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 322d4be6bafd4f6e91fc19a22bf4705b
+run_name: painted-fly-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598237
+status: 3
+tags: []
+user_id: runner

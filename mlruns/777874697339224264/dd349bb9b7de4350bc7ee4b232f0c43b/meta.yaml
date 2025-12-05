@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/dd349bb9b7de4350bc7ee4b232f0c43b/artifacts
+end_time: 1764928611373
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: dd349bb9b7de4350bc7ee4b232f0c43b
+run_name: defiant-shrimp-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611347
+status: 3
+tags: []
+user_id: runner

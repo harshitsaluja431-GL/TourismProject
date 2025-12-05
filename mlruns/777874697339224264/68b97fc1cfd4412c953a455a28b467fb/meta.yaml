@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/68b97fc1cfd4412c953a455a28b467fb/artifacts
+end_time: 1764928624657
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 68b97fc1cfd4412c953a455a28b467fb
+run_name: honorable-fox-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928624623
+status: 3
+tags: []
+user_id: runner

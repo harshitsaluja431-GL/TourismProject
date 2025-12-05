@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/3e02875ddad049cd99afa2dc9ae21145/artifacts
+end_time: 1764928605066
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 3e02875ddad049cd99afa2dc9ae21145
+run_name: auspicious-newt-774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928605044
+status: 3
+tags: []
+user_id: runner

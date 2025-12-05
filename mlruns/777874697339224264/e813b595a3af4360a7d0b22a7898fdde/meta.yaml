@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e813b595a3af4360a7d0b22a7898fdde/artifacts
+end_time: 1764928607023
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e813b595a3af4360a7d0b22a7898fdde
+run_name: nervous-mole-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928606999
+status: 3
+tags: []
+user_id: runner

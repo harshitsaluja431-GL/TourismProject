@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/86a3afa8184e4b828fac0c41a6461226/artifacts
+end_time: 1764928604583
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 86a3afa8184e4b828fac0c41a6461226
+run_name: unequaled-donkey-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604562
+status: 3
+tags: []
+user_id: runner

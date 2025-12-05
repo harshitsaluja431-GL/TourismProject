@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/324fef2e09234c718af3bd2bcf323fad/artifacts
+end_time: 1764928608405
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 324fef2e09234c718af3bd2bcf323fad
+run_name: dapper-shrimp-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608380
+status: 3
+tags: []
+user_id: runner

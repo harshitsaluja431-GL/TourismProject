@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c99a10a7bd0f4750b8a71891ea4174d6/artifacts
+end_time: 1764928595285
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c99a10a7bd0f4750b8a71891ea4174d6
+run_name: stylish-fish-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595273
+status: 3
+tags: []
+user_id: runner

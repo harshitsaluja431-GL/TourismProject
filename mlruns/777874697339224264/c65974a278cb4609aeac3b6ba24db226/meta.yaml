@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c65974a278cb4609aeac3b6ba24db226/artifacts
+end_time: 1764928618588
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c65974a278cb4609aeac3b6ba24db226
+run_name: smiling-stork-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618558
+status: 3
+tags: []
+user_id: runner

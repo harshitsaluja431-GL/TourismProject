@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e722e5a658ad46029d41d0c91f743700/artifacts
+end_time: 1764928607969
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e722e5a658ad46029d41d0c91f743700
+run_name: salty-stork-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607945
+status: 3
+tags: []
+user_id: runner

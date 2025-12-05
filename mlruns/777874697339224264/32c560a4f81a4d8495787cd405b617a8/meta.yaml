@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/32c560a4f81a4d8495787cd405b617a8/artifacts
+end_time: 1764928596903
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 32c560a4f81a4d8495787cd405b617a8
+run_name: sincere-sponge-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596888
+status: 3
+tags: []
+user_id: runner

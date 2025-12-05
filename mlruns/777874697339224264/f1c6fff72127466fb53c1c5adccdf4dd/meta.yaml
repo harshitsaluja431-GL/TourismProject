@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f1c6fff72127466fb53c1c5adccdf4dd/artifacts
+end_time: 1764928606030
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f1c6fff72127466fb53c1c5adccdf4dd
+run_name: vaunted-sheep-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928606008
+status: 3
+tags: []
+user_id: runner

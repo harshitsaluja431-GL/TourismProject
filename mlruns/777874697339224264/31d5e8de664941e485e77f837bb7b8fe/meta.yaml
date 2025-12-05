@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/31d5e8de664941e485e77f837bb7b8fe/artifacts
+end_time: 1764928604204
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 31d5e8de664941e485e77f837bb7b8fe
+run_name: bouncy-swan-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604183
+status: 3
+tags: []
+user_id: runner

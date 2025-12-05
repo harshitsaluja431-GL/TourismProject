@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/4f59d44f772349479a9aae85445ace87/artifacts
+end_time: 1764928607283
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 4f59d44f772349479a9aae85445ace87
+run_name: adaptable-trout-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607259
+status: 3
+tags: []
+user_id: runner

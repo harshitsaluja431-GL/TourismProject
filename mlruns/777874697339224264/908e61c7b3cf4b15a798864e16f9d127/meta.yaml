@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/908e61c7b3cf4b15a798864e16f9d127/artifacts
+end_time: 1764928625215
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 908e61c7b3cf4b15a798864e16f9d127
+run_name: sedate-shrew-820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928625180
+status: 3
+tags: []
+user_id: runner

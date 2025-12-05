@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d203ce87e9264a17ae38494b53b1b453/artifacts
+end_time: 1764928598488
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d203ce87e9264a17ae38494b53b1b453
+run_name: bright-pig-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598472
+status: 3
+tags: []
+user_id: runner

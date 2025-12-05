@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e7ec537fef38436ea2154c1718acea1e/artifacts
+end_time: 1764928604440
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e7ec537fef38436ea2154c1718acea1e
+run_name: ambitious-mule-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604419
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f91b4fccf675470a869ad5f2b4c6c998/artifacts
+end_time: 1764928619332
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f91b4fccf675470a869ad5f2b4c6c998
+run_name: monumental-worm-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928619301
+status: 3
+tags: []
+user_id: runner

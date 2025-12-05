@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8437cfa1a7b04f74be4e4b01f687e130/artifacts
+end_time: 1764928610823
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8437cfa1a7b04f74be4e4b01f687e130
+run_name: smiling-dolphin-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928610797
+status: 3
+tags: []
+user_id: runner

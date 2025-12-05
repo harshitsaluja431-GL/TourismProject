@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/fb1b369bc0294e2183284a926f14a01e/artifacts
+end_time: 1764928598817
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: fb1b369bc0294e2183284a926f14a01e
+run_name: fortunate-auk-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598800
+status: 3
+tags: []
+user_id: runner

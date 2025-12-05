@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/044339a77870477c8c6debecb417f1d0/artifacts
+end_time: 1764928623630
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 044339a77870477c8c6debecb417f1d0
+run_name: beautiful-quail-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928623596
+status: 3
+tags: []
+user_id: runner

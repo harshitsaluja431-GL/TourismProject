@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6122dfcd411848ed84267621f07f2b62/artifacts
+end_time: 1764928615792
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6122dfcd411848ed84267621f07f2b62
+run_name: unequaled-shark-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615764
+status: 3
+tags: []
+user_id: runner

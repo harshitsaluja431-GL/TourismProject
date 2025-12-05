@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/4435ddfe770b4157ac56ee5b065ba207/artifacts
+end_time: 1764928611198
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 4435ddfe770b4157ac56ee5b065ba207
+run_name: thoughtful-rat-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611172
+status: 3
+tags: []
+user_id: runner

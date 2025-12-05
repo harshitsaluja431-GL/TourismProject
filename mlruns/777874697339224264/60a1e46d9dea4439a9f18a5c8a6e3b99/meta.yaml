@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/60a1e46d9dea4439a9f18a5c8a6e3b99/artifacts
+end_time: 1764928609665
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 60a1e46d9dea4439a9f18a5c8a6e3b99
+run_name: judicious-midge-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609640
+status: 3
+tags: []
+user_id: runner

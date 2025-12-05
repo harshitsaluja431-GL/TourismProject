@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a94203df28c543d68c226ea74565587e/artifacts
+end_time: 1764928597282
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a94203df28c543d68c226ea74565587e
+run_name: angry-swan-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597268
+status: 3
+tags: []
+user_id: runner

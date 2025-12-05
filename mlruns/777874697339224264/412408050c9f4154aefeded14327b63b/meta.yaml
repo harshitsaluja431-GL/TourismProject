@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/412408050c9f4154aefeded14327b63b/artifacts
+end_time: 1764928600950
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 412408050c9f4154aefeded14327b63b
+run_name: hilarious-moth-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600931
+status: 3
+tags: []
+user_id: runner

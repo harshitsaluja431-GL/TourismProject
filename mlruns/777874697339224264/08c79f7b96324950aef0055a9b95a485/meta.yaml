@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/08c79f7b96324950aef0055a9b95a485/artifacts
+end_time: 1764928615571
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 08c79f7b96324950aef0055a9b95a485
+run_name: stylish-perch-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615542
+status: 3
+tags: []
+user_id: runner

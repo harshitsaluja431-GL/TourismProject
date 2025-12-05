@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/7a2c4c69da4d44f595f0bc1b49af9d8c/artifacts
+end_time: 1764928603141
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 7a2c4c69da4d44f595f0bc1b49af9d8c
+run_name: caring-squid-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603121
+status: 3
+tags: []
+user_id: runner

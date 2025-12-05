@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e2c9c2d0912b45ccbc3184078f384b01/artifacts
+end_time: 1764928614564
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e2c9c2d0912b45ccbc3184078f384b01
+run_name: luxuriant-wren-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614536
+status: 3
+tags: []
+user_id: runner

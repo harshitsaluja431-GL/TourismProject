@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/096b49e77a114526b31f0069fd0a8e15/artifacts
+end_time: 1764928623412
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 096b49e77a114526b31f0069fd0a8e15
+run_name: adaptable-turtle-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928623378
+status: 3
+tags: []
+user_id: runner

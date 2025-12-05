@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/23c65427856c416caf0848a448a346e3/artifacts
+end_time: 1764928602492
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 23c65427856c416caf0848a448a346e3
+run_name: gaudy-koi-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928602472
+status: 3
+tags: []
+user_id: runner

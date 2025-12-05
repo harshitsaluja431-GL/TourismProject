@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/fba67d50e2274b80adb7197c62ba4c63/artifacts
+end_time: 1764928615666
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: fba67d50e2274b80adb7197c62ba4c63
+run_name: tasteful-fox-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615637
+status: 3
+tags: []
+user_id: runner

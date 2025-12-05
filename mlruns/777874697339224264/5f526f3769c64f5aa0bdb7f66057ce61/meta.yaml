@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5f526f3769c64f5aa0bdb7f66057ce61/artifacts
+end_time: 1764928604848
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5f526f3769c64f5aa0bdb7f66057ce61
+run_name: gifted-grub-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604826
+status: 3
+tags: []
+user_id: runner

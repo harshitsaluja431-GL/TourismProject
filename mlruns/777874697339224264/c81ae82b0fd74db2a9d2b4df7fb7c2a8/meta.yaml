@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c81ae82b0fd74db2a9d2b4df7fb7c2a8/artifacts
+end_time: 1764928625963
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c81ae82b0fd74db2a9d2b4df7fb7c2a8
+run_name: rumbling-eel-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928625929
+status: 3
+tags: []
+user_id: runner

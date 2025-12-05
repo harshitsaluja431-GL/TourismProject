@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/28a859b6958249e1b4072385cb7c9af3/artifacts
+end_time: 1764928618355
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 28a859b6958249e1b4072385cb7c9af3
+run_name: respected-sponge-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618324
+status: 3
+tags: []
+user_id: runner

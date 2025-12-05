@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b1702555f33148f4a66134806d5e626a/artifacts
+end_time: 1764928598761
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b1702555f33148f4a66134806d5e626a
+run_name: aged-cow-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598745
+status: 3
+tags: []
+user_id: runner

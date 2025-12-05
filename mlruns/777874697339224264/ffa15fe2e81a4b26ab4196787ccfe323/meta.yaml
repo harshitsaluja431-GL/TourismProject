@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ffa15fe2e81a4b26ab4196787ccfe323/artifacts
+end_time: 1764928615761
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ffa15fe2e81a4b26ab4196787ccfe323
+run_name: zealous-shark-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615732
+status: 3
+tags: []
+user_id: runner

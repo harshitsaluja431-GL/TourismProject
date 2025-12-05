@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2121fc07b9e646c4a6c9211f0fa2a97d/artifacts
+end_time: 1764928597794
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2121fc07b9e646c4a6c9211f0fa2a97d
+run_name: upset-fish-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597779
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c44c98de988c4f7195b96edc4adf39f3/artifacts
+end_time: 1764928623557
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c44c98de988c4f7195b96edc4adf39f3
+run_name: flawless-colt-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928623524
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/382462ea6ab54bdda06f266d99ca1141/artifacts
+end_time: 1764928598325
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 382462ea6ab54bdda06f266d99ca1141
+run_name: upbeat-whale-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598309
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8b569aa4bdca433c97b114823fc9627d/artifacts
+end_time: 1764928600500
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8b569aa4bdca433c97b114823fc9627d
+run_name: auspicious-flea-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600482
+status: 3
+tags: []
+user_id: runner

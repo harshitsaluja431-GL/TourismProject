@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/4440e319c148465c9e2d4041f3e9da00/artifacts
+end_time: 1764928597570
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 4440e319c148465c9e2d4041f3e9da00
+run_name: judicious-mole-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597555
+status: 3
+tags: []
+user_id: runner

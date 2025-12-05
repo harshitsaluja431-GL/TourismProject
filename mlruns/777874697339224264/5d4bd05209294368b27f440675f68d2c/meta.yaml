@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5d4bd05209294368b27f440675f68d2c/artifacts
+end_time: 1764928608513
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5d4bd05209294368b27f440675f68d2c
+run_name: sedate-hound-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608488
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a481b5d1551b4bc9bdd78a7de656e9d0/artifacts
+end_time: 1764928604920
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a481b5d1551b4bc9bdd78a7de656e9d0
+run_name: glamorous-vole-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604899
+status: 3
+tags: []
+user_id: runner

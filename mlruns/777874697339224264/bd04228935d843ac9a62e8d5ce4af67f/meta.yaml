@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/bd04228935d843ac9a62e8d5ce4af67f/artifacts
+end_time: 1764928599360
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: bd04228935d843ac9a62e8d5ce4af67f
+run_name: blushing-steed-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928599343
+status: 3
+tags: []
+user_id: runner

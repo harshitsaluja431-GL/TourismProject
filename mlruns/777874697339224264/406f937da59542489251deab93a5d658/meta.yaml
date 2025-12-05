@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/406f937da59542489251deab93a5d658/artifacts
+end_time: 1764928620953
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 406f937da59542489251deab93a5d658
+run_name: handsome-eel-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928620921
+status: 3
+tags: []
+user_id: runner

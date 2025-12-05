@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/10caa1863c6c4404bd1a68eebec72e47/artifacts
+end_time: 1764928619026
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 10caa1863c6c4404bd1a68eebec72e47
+run_name: rebellious-mole-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618995
+status: 3
+tags: []
+user_id: runner

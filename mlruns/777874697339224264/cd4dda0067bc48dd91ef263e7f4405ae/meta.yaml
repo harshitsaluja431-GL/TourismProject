@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/cd4dda0067bc48dd91ef263e7f4405ae/artifacts
+end_time: 1764928598039
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: cd4dda0067bc48dd91ef263e7f4405ae
+run_name: painted-crab-48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598024
+status: 3
+tags: []
+user_id: runner

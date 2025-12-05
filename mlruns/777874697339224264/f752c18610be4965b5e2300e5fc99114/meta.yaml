@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f752c18610be4965b5e2300e5fc99114/artifacts
+end_time: 1764928595384
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f752c18610be4965b5e2300e5fc99114
+run_name: luminous-yak-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595371
+status: 3
+tags: []
+user_id: runner

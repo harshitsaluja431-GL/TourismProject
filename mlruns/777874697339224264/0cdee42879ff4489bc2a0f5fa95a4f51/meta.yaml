@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0cdee42879ff4489bc2a0f5fa95a4f51/artifacts
+end_time: 1764928607335
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0cdee42879ff4489bc2a0f5fa95a4f51
+run_name: capricious-lark-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607311
+status: 3
+tags: []
+user_id: runner

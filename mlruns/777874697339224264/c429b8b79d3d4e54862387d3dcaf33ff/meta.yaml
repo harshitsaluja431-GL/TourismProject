@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c429b8b79d3d4e54862387d3dcaf33ff/artifacts
+end_time: 1764928599417
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c429b8b79d3d4e54862387d3dcaf33ff
+run_name: popular-ape-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928599400
+status: 3
+tags: []
+user_id: runner

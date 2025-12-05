@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c0aef16ba725402db236d4424ee18dc0/artifacts
+end_time: 1764928614130
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c0aef16ba725402db236d4424ee18dc0
+run_name: adventurous-auk-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614101
+status: 3
+tags: []
+user_id: runner

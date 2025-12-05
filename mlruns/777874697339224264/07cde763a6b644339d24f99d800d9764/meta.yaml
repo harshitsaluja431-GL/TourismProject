@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/07cde763a6b644339d24f99d800d9764/artifacts
+end_time: 1764928598984
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 07cde763a6b644339d24f99d800d9764
+run_name: thundering-flea-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598967
+status: 3
+tags: []
+user_id: runner

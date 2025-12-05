@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/3f52fa8444ce4f2bbf440d2d5a8f966a/artifacts
+end_time: 1764928611635
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 3f52fa8444ce4f2bbf440d2d5a8f966a
+run_name: bittersweet-koi-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611609
+status: 3
+tags: []
+user_id: runner

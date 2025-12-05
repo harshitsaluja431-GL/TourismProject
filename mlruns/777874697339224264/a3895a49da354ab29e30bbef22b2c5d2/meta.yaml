@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a3895a49da354ab29e30bbef22b2c5d2/artifacts
+end_time: 1764928607996
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a3895a49da354ab29e30bbef22b2c5d2
+run_name: silent-finch-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607972
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/3b10261120ab45c681f15d4655a728f7/artifacts
+end_time: 1764928624916
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 3b10261120ab45c681f15d4655a728f7
+run_name: righteous-squid-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928624882
+status: 3
+tags: []
+user_id: runner

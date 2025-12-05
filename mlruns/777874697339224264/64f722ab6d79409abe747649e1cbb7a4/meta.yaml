@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/64f722ab6d79409abe747649e1cbb7a4/artifacts
+end_time: 1764928600298
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 64f722ab6d79409abe747649e1cbb7a4
+run_name: spiffy-crane-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600280
+status: 3
+tags: []
+user_id: runner

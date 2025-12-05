@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a2c1a112ea1e4d8c9f2cbdd51d55ac8b/artifacts
+end_time: 1764928603255
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a2c1a112ea1e4d8c9f2cbdd51d55ac8b
+run_name: exultant-tern-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603234
+status: 3
+tags: []
+user_id: runner

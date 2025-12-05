@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8add4f158f9045168e7edf9d45d7efe4/artifacts
+end_time: 1764928603668
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8add4f158f9045168e7edf9d45d7efe4
+run_name: loud-sponge-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603647
+status: 3
+tags: []
+user_id: runner

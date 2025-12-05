@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0739d254fedd48959cb6c804fe17cfd4/artifacts
+end_time: 1764928624472
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0739d254fedd48959cb6c804fe17cfd4
+run_name: auspicious-robin-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928624438
+status: 3
+tags: []
+user_id: runner

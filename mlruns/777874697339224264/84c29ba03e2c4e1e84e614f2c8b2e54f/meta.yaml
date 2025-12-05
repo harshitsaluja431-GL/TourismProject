@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/84c29ba03e2c4e1e84e614f2c8b2e54f/artifacts
+end_time: 1764928599552
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 84c29ba03e2c4e1e84e614f2c8b2e54f
+run_name: classy-foal-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928599535
+status: 3
+tags: []
+user_id: runner

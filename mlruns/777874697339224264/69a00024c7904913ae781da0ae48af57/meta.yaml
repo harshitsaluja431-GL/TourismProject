@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/69a00024c7904913ae781da0ae48af57/artifacts
+end_time: 1764928620709
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 69a00024c7904913ae781da0ae48af57
+run_name: silent-frog-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928620678
+status: 3
+tags: []
+user_id: runner

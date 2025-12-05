@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/49b997c1a702407fa5d9798cfb2087f0/artifacts
+end_time: 1764928614037
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 49b997c1a702407fa5d9798cfb2087f0
+run_name: treasured-flea-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614009
+status: 3
+tags: []
+user_id: runner

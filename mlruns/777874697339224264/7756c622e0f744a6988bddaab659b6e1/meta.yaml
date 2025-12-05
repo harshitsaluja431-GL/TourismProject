@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/7756c622e0f744a6988bddaab659b6e1/artifacts
+end_time: 1764928595513
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 7756c622e0f744a6988bddaab659b6e1
+run_name: bald-cat-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595500
+status: 3
+tags: []
+user_id: runner

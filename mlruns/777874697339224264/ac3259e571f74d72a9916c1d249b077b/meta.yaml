@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ac3259e571f74d72a9916c1d249b077b/artifacts
+end_time: 1764928624067
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ac3259e571f74d72a9916c1d249b077b
+run_name: luxuriant-goat-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928624034
+status: 3
+tags: []
+user_id: runner

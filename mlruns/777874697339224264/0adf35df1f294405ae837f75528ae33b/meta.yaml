@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0adf35df1f294405ae837f75528ae33b/artifacts
+end_time: 1764928616676
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0adf35df1f294405ae837f75528ae33b
+run_name: vaunted-ant-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928616646
+status: 3
+tags: []
+user_id: runner

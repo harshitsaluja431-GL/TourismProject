@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/3ff7a487710747b3b2946344309ca769/artifacts
+end_time: 1764928601306
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 3ff7a487710747b3b2946344309ca769
+run_name: rebellious-lynx-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601287
+status: 3
+tags: []
+user_id: runner

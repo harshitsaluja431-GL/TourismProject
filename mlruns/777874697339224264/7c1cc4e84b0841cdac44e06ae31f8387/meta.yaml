@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/7c1cc4e84b0841cdac44e06ae31f8387/artifacts
+end_time: 1764928603323
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 7c1cc4e84b0841cdac44e06ae31f8387
+run_name: placid-lamb-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603303
+status: 3
+tags: []
+user_id: runner

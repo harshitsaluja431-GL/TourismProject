@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a3e3e8608de74884a22c15883c43c7a4/artifacts
+end_time: 1764928616902
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a3e3e8608de74884a22c15883c43c7a4
+run_name: shivering-owl-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928616873
+status: 3
+tags: []
+user_id: runner

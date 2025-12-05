@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d913e27b3be748438f09a59cdade0347/artifacts
+end_time: 1764928612430
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d913e27b3be748438f09a59cdade0347
+run_name: invincible-bass-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928612403
+status: 3
+tags: []
+user_id: runner

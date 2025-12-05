@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/85d7c30fcd354cb38ee2797ea44f3c17/artifacts
+end_time: 1764928606815
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 85d7c30fcd354cb38ee2797ea44f3c17
+run_name: enchanting-midge-285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928606791
+status: 3
+tags: []
+user_id: runner

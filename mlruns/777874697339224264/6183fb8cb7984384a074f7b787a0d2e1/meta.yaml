@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6183fb8cb7984384a074f7b787a0d2e1/artifacts
+end_time: 1764928619162
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6183fb8cb7984384a074f7b787a0d2e1
+run_name: salty-calf-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928619131
+status: 3
+tags: []
+user_id: runner

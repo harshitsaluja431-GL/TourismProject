@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ab25ea9e622a4fb8a7e191c50b5c8d45/artifacts
+end_time: 1764928612193
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ab25ea9e622a4fb8a7e191c50b5c8d45
+run_name: brawny-dove-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928612166
+status: 3
+tags: []
+user_id: runner

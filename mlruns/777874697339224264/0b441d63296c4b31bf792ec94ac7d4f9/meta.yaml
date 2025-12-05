@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0b441d63296c4b31bf792ec94ac7d4f9/artifacts
+end_time: 1764928611082
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0b441d63296c4b31bf792ec94ac7d4f9
+run_name: nervous-frog-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611056
+status: 3
+tags: []
+user_id: runner

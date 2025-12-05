@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/3ddd4db0bbd34e9789ad155208ef765c/artifacts
+end_time: 1764928606408
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 3ddd4db0bbd34e9789ad155208ef765c
+run_name: popular-finch-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928606385
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0fcf31209de34ecea75709982812c955/artifacts
+end_time: 1764928620015
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0fcf31209de34ecea75709982812c955
+run_name: redolent-bear-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928619983
+status: 3
+tags: []
+user_id: runner

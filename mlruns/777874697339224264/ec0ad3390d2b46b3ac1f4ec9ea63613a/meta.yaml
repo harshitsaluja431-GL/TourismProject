@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ec0ad3390d2b46b3ac1f4ec9ea63613a/artifacts
+end_time: 1764928613760
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ec0ad3390d2b46b3ac1f4ec9ea63613a
+run_name: unleashed-boar-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928613732
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/62b44c48cf4b472b9f81861cc7044068/artifacts
+end_time: 1764928615984
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 62b44c48cf4b472b9f81861cc7044068
+run_name: dapper-dog-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615955
+status: 3
+tags: []
+user_id: runner

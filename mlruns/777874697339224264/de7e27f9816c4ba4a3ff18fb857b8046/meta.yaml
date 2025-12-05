@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/de7e27f9816c4ba4a3ff18fb857b8046/artifacts
+end_time: 1764928621515
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: de7e27f9816c4ba4a3ff18fb857b8046
+run_name: bald-duck-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928621483
+status: 3
+tags: []
+user_id: runner

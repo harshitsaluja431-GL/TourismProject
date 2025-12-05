@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/3b0fb6c39459442b829219e0b265676e/artifacts
+end_time: 1764928596741
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 3b0fb6c39459442b829219e0b265676e
+run_name: dazzling-colt-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596727
+status: 3
+tags: []
+user_id: runner

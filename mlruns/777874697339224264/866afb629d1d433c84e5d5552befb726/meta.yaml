@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/866afb629d1d433c84e5d5552befb726/artifacts
+end_time: 1764928608649
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 866afb629d1d433c84e5d5552befb726
+run_name: thundering-whale-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608624
+status: 3
+tags: []
+user_id: runner

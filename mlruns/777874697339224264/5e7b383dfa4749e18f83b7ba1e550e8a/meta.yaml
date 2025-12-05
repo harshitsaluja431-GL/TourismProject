@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5e7b383dfa4749e18f83b7ba1e550e8a/artifacts
+end_time: 1764928595585
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5e7b383dfa4749e18f83b7ba1e550e8a
+run_name: salty-snake-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595572
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/44dadcab8249416c9d772f4c606a8336/artifacts
+end_time: 1764928614720
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 44dadcab8249416c9d772f4c606a8336
+run_name: selective-kit-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614691
+status: 3
+tags: []
+user_id: runner

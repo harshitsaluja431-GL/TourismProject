@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b6278f5f758b4994bbb3e3b2d23073db/artifacts
+end_time: 1764928597100
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b6278f5f758b4994bbb3e3b2d23073db
+run_name: salty-cub-206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597085
+status: 3
+tags: []
+user_id: runner

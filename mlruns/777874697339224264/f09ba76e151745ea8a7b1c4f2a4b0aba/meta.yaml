@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f09ba76e151745ea8a7b1c4f2a4b0aba/artifacts
+end_time: 1764928619434
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f09ba76e151745ea8a7b1c4f2a4b0aba
+run_name: hilarious-crab-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928619403
+status: 3
+tags: []
+user_id: runner

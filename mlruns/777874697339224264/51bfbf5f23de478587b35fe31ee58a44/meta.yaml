@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/51bfbf5f23de478587b35fe31ee58a44/artifacts
+end_time: 1764928601497
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 51bfbf5f23de478587b35fe31ee58a44
+run_name: gregarious-asp-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601478
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b986de92c98c476e8430b082cf4638ba/artifacts
+end_time: 1764928596854
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b986de92c98c476e8430b082cf4638ba
+run_name: rebellious-shoat-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596840
+status: 3
+tags: []
+user_id: runner

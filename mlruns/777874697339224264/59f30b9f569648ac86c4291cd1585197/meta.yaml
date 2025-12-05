@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/59f30b9f569648ac86c4291cd1585197/artifacts
+end_time: 1764928623049
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 59f30b9f569648ac86c4291cd1585197
+run_name: monumental-auk-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928623016
+status: 3
+tags: []
+user_id: runner

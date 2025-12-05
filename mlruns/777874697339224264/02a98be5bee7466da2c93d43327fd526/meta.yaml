@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/02a98be5bee7466da2c93d43327fd526/artifacts
+end_time: 1764928613058
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 02a98be5bee7466da2c93d43327fd526
+run_name: worried-stag-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928613031
+status: 3
+tags: []
+user_id: runner

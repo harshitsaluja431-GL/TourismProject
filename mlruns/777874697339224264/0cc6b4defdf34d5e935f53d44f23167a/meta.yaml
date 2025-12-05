@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0cc6b4defdf34d5e935f53d44f23167a/artifacts
+end_time: 1764928610623
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0cc6b4defdf34d5e935f53d44f23167a
+run_name: spiffy-shark-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928610597
+status: 3
+tags: []
+user_id: runner

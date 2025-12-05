@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/989f4d69c29347e3a00cedcb43f371c6/artifacts
+end_time: 1764928601074
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 989f4d69c29347e3a00cedcb43f371c6
+run_name: powerful-grub-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601056
+status: 3
+tags: []
+user_id: runner

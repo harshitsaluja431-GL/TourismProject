@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ad7bfa4781594fe6865efb70b6151ed5/artifacts
+end_time: 1764928611169
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ad7bfa4781594fe6865efb70b6151ed5
+run_name: gregarious-lynx-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611143
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e4cf320fc3ec4bc1af72fca1a8e19e57/artifacts
+end_time: 1764928595985
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e4cf320fc3ec4bc1af72fca1a8e19e57
+run_name: invincible-cod-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595971
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b59056c95ac04811822902f7eb336499/artifacts
+end_time: 1764928607916
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b59056c95ac04811822902f7eb336499
+run_name: casual-lark-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607892
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b97b8f5ed9db424fa796a76ef7865e55/artifacts
+end_time: 1764928621444
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b97b8f5ed9db424fa796a76ef7865e55
+run_name: selective-bass-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928621412
+status: 3
+tags: []
+user_id: runner

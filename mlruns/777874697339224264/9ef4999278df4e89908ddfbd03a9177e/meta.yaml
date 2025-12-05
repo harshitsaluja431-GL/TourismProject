@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/9ef4999278df4e89908ddfbd03a9177e/artifacts
+end_time: 1764928624731
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 9ef4999278df4e89908ddfbd03a9177e
+run_name: luxuriant-ape-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928624697
+status: 3
+tags: []
+user_id: runner

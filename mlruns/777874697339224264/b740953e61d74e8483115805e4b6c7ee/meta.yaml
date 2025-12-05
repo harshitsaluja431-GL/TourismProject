@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b740953e61d74e8483115805e4b6c7ee/artifacts
+end_time: 1764928621903
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b740953e61d74e8483115805e4b6c7ee
+run_name: sedate-carp-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928621871
+status: 3
+tags: []
+user_id: runner

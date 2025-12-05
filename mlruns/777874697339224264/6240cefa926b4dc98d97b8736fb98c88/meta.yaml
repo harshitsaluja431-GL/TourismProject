@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6240cefa926b4dc98d97b8736fb98c88/artifacts
+end_time: 1764928596470
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6240cefa926b4dc98d97b8736fb98c88
+run_name: fun-rook-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596456
+status: 3
+tags: []
+user_id: runner

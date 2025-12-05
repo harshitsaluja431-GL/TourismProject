@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/7482a58c9eb74875a7f16d6dbf1afd9e/artifacts
+end_time: 1764928624583
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 7482a58c9eb74875a7f16d6dbf1afd9e
+run_name: nervous-shark-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928624550
+status: 3
+tags: []
+user_id: runner

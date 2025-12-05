@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/60305252af5e4bb88d9c5e521b9cb404/artifacts
+end_time: 1764928618054
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 60305252af5e4bb88d9c5e521b9cb404
+run_name: brawny-duck-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618024
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/843a7671bd5a452faf5d7666becf18ac/artifacts
+end_time: 1764928600058
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 843a7671bd5a452faf5d7666becf18ac
+run_name: crawling-whale-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600041
+status: 3
+tags: []
+user_id: runner

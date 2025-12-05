@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/cfc99d282fce4050bb9fca2b36d53cf5/artifacts
+end_time: 1764928621234
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: cfc99d282fce4050bb9fca2b36d53cf5
+run_name: dapper-squirrel-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928621202
+status: 3
+tags: []
+user_id: runner

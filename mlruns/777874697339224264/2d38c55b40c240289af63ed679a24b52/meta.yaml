@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2d38c55b40c240289af63ed679a24b52/artifacts
+end_time: 1764928622653
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2d38c55b40c240289af63ed679a24b52
+run_name: efficient-dove-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928622620
+status: 3
+tags: []
+user_id: runner

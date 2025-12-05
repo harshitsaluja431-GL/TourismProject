@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b93afb733380414e8f8d606283b7bc47/artifacts
+end_time: 1764928612164
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b93afb733380414e8f8d606283b7bc47
+run_name: respected-quail-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928612137
+status: 3
+tags: []
+user_id: runner

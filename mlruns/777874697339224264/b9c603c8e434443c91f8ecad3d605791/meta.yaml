@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b9c603c8e434443c91f8ecad3d605791/artifacts
+end_time: 1764928596314
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b9c603c8e434443c91f8ecad3d605791
+run_name: gregarious-shrew-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596301
+status: 3
+tags: []
+user_id: runner

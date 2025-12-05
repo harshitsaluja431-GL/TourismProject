@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/adc2811fbffd468d845f69368c2aba71/artifacts
+end_time: 1764928620779
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: adc2811fbffd468d845f69368c2aba71
+run_name: treasured-grub-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928620747
+status: 3
+tags: []
+user_id: runner

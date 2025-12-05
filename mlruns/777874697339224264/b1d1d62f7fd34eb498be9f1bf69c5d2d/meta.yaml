@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b1d1d62f7fd34eb498be9f1bf69c5d2d/artifacts
+end_time: 1764928621761
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b1d1d62f7fd34eb498be9f1bf69c5d2d
+run_name: capricious-crane-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928621729
+status: 3
+tags: []
+user_id: runner

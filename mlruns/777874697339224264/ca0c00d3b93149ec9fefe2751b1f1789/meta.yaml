@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ca0c00d3b93149ec9fefe2751b1f1789/artifacts
+end_time: 1764928608270
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ca0c00d3b93149ec9fefe2751b1f1789
+run_name: nebulous-hound-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608245
+status: 3
+tags: []
+user_id: runner

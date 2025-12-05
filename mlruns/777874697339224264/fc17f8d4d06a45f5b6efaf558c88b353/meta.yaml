@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/fc17f8d4d06a45f5b6efaf558c88b353/artifacts
+end_time: 1764928611344
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: fc17f8d4d06a45f5b6efaf558c88b353
+run_name: efficient-shad-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611317
+status: 3
+tags: []
+user_id: runner

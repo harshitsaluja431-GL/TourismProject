@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2762794fc1524182951a66fecb90dabd/artifacts
+end_time: 1764928600971
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2762794fc1524182951a66fecb90dabd
+run_name: legendary-grouse-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600952
+status: 3
+tags: []
+user_id: runner

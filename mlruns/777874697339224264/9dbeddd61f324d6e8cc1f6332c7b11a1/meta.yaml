@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/9dbeddd61f324d6e8cc1f6332c7b11a1/artifacts
+end_time: 1764928595243
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 9dbeddd61f324d6e8cc1f6332c7b11a1
+run_name: wistful-squid-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595231
+status: 3
+tags: []
+user_id: runner

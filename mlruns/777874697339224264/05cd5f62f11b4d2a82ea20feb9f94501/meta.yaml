@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/05cd5f62f11b4d2a82ea20feb9f94501/artifacts
+end_time: 1764928600601
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 05cd5f62f11b4d2a82ea20feb9f94501
+run_name: secretive-foal-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600583
+status: 3
+tags: []
+user_id: runner

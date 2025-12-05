@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/58d31b22ff6e4c67bd017853604a3b2b/artifacts
+end_time: 1764928594953
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 58d31b22ff6e4c67bd017853604a3b2b
+run_name: industrious-moth-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928594940
+status: 3
+tags: []
+user_id: runner

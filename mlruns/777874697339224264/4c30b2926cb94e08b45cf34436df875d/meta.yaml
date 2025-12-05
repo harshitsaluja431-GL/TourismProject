@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/4c30b2926cb94e08b45cf34436df875d/artifacts
+end_time: 1764928609223
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 4c30b2926cb94e08b45cf34436df875d
+run_name: funny-smelt-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609198
+status: 3
+tags: []
+user_id: runner

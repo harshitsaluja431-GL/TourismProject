@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/bcf98feeb70746e19f148819997d4a78/artifacts
+end_time: 1764928612459
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: bcf98feeb70746e19f148819997d4a78
+run_name: powerful-foal-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928612432
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e6b3e1c40b1b480db14cc2a4e543af78/artifacts
+end_time: 1764928610938
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e6b3e1c40b1b480db14cc2a4e543af78
+run_name: auspicious-tern-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928610912
+status: 3
+tags: []
+user_id: runner

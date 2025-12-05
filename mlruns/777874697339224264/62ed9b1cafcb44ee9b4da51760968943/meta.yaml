@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/62ed9b1cafcb44ee9b4da51760968943/artifacts
+end_time: 1764928595215
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 62ed9b1cafcb44ee9b4da51760968943
+run_name: intelligent-crow-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595203
+status: 3
+tags: []
+user_id: runner

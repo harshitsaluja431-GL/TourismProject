@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b79d8d27bfdd43ea86398ea8efccd666/artifacts
+end_time: 1764928604464
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b79d8d27bfdd43ea86398ea8efccd666
+run_name: unique-tern-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604442
+status: 3
+tags: []
+user_id: runner

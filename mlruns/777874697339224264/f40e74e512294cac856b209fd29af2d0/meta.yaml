@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f40e74e512294cac856b209fd29af2d0/artifacts
+end_time: 1764928606231
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f40e74e512294cac856b209fd29af2d0
+run_name: burly-shoat-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928606208
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/178767bf2ec54a19bc240969c53d0f90/artifacts
+end_time: 1764928595628
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 178767bf2ec54a19bc240969c53d0f90
+run_name: persistent-sloth-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595615
+status: 3
+tags: []
+user_id: runner

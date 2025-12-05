@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/dd4c7e9272fb4c87b4c299b817c3d3b4/artifacts
+end_time: 1764928617196
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: dd4c7e9272fb4c87b4c299b817c3d3b4
+run_name: kindly-hare-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928617167
+status: 3
+tags: []
+user_id: runner

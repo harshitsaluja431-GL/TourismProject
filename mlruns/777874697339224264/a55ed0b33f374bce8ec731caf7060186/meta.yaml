@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a55ed0b33f374bce8ec731caf7060186/artifacts
+end_time: 1764928602536
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a55ed0b33f374bce8ec731caf7060186
+run_name: bouncy-rat-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928602516
+status: 3
+tags: []
+user_id: runner

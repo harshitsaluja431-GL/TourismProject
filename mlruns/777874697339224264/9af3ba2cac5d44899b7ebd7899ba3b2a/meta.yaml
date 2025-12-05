@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/9af3ba2cac5d44899b7ebd7899ba3b2a/artifacts
+end_time: 1764928607651
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 9af3ba2cac5d44899b7ebd7899ba3b2a
+run_name: flawless-steed-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607627
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5e0ac52cfd7045f38aa38459334d1440/artifacts
+end_time: 1764928620189
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5e0ac52cfd7045f38aa38459334d1440
+run_name: ambitious-fawn-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928620158
+status: 3
+tags: []
+user_id: runner

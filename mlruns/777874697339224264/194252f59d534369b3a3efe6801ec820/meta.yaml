@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/194252f59d534369b3a3efe6801ec820/artifacts
+end_time: 1764928600662
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 194252f59d534369b3a3efe6801ec820
+run_name: mercurial-asp-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600644
+status: 3
+tags: []
+user_id: runner

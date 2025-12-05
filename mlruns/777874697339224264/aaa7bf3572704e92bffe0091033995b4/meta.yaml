@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/aaa7bf3572704e92bffe0091033995b4/artifacts
+end_time: 1764928596968
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: aaa7bf3572704e92bffe0091033995b4
+run_name: brawny-zebra-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596953
+status: 3
+tags: []
+user_id: runner

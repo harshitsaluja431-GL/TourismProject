@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a9aac28e983c4fa791067f8636bda658/artifacts
+end_time: 1764928604702
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a9aac28e983c4fa791067f8636bda658
+run_name: grandiose-lark-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604681
+status: 3
+tags: []
+user_id: runner

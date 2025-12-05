@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/dfa47c3f3f3b4f7289dd72a78174129b/artifacts
+end_time: 1764928599322
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: dfa47c3f3f3b4f7289dd72a78174129b
+run_name: nosy-carp-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928599305
+status: 3
+tags: []
+user_id: runner

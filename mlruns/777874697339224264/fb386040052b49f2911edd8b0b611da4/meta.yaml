@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/fb386040052b49f2911edd8b0b611da4/artifacts
+end_time: 1764928609721
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: fb386040052b49f2911edd8b0b611da4
+run_name: selective-shrimp-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609695
+status: 3
+tags: []
+user_id: runner

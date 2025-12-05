@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/fe43f10797634221be869519ace817f6/artifacts
+end_time: 1764928608812
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: fe43f10797634221be869519ace817f6
+run_name: trusting-elk-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608787
+status: 3
+tags: []
+user_id: runner

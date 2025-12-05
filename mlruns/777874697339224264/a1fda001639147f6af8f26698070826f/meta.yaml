@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a1fda001639147f6af8f26698070826f/artifacts
+end_time: 1764928613944
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a1fda001639147f6af8f26698070826f
+run_name: adventurous-asp-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928613916
+status: 3
+tags: []
+user_id: runner

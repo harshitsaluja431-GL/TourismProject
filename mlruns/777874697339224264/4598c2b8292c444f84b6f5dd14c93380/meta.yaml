@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/4598c2b8292c444f84b6f5dd14c93380/artifacts
+end_time: 1764928596128
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 4598c2b8292c444f84b6f5dd14c93380
+run_name: rebellious-tern-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596114
+status: 3
+tags: []
+user_id: runner

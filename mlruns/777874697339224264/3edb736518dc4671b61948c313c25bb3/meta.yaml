@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/3edb736518dc4671b61948c313c25bb3/artifacts
+end_time: 1764928618790
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 3edb736518dc4671b61948c313c25bb3
+run_name: judicious-perch-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618759
+status: 3
+tags: []
+user_id: runner

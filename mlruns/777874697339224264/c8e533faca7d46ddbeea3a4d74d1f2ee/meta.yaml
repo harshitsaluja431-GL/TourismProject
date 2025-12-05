@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c8e533faca7d46ddbeea3a4d74d1f2ee/artifacts
+end_time: 1764928610909
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c8e533faca7d46ddbeea3a4d74d1f2ee
+run_name: amazing-bat-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928610883
+status: 3
+tags: []
+user_id: runner

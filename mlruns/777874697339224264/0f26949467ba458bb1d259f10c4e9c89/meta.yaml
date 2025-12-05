@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0f26949467ba458bb1d259f10c4e9c89/artifacts
+end_time: 1764928596661
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0f26949467ba458bb1d259f10c4e9c89
+run_name: stately-ant-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596647
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/70e55ebfdf7443769f559aa9267d820a/artifacts
+end_time: 1764928602338
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 70e55ebfdf7443769f559aa9267d820a
+run_name: defiant-crab-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928602318
+status: 3
+tags: []
+user_id: runner

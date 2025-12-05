@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/46fb7fd8334e4e28b98a4cfd43ee1afa/artifacts
+end_time: 1764928599960
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 46fb7fd8334e4e28b98a4cfd43ee1afa
+run_name: crawling-sow-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928599943
+status: 3
+tags: []
+user_id: runner

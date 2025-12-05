@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/305741b7504f4be0805ceb2f57715528/artifacts
+end_time: 1764928602272
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 305741b7504f4be0805ceb2f57715528
+run_name: marvelous-dog-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928602252
+status: 3
+tags: []
+user_id: runner

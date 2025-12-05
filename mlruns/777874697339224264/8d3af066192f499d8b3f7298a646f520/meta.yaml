@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8d3af066192f499d8b3f7298a646f520/artifacts
+end_time: 1764928604896
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8d3af066192f499d8b3f7298a646f520
+run_name: upbeat-steed-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604875
+status: 3
+tags: []
+user_id: runner

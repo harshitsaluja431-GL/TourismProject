@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/3c28b70d123746eb93fd8f203a9d09dd/artifacts
+end_time: 1764928595895
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 3c28b70d123746eb93fd8f203a9d09dd
+run_name: enthused-skink-231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595882
+status: 3
+tags: []
+user_id: runner

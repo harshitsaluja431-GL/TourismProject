@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c88316e4bbb347e2b477647a2ed29cdb/artifacts
+end_time: 1764928608703
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c88316e4bbb347e2b477647a2ed29cdb
+run_name: abrasive-snipe-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608678
+status: 3
+tags: []
+user_id: runner

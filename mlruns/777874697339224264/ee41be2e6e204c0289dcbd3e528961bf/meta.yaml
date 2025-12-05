@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ee41be2e6e204c0289dcbd3e528961bf/artifacts
+end_time: 1764928614253
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ee41be2e6e204c0289dcbd3e528961bf
+run_name: dashing-midge-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614225
+status: 3
+tags: []
+user_id: runner

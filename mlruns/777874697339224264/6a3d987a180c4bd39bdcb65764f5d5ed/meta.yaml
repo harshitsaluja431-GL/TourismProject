@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6a3d987a180c4bd39bdcb65764f5d5ed/artifacts
+end_time: 1764928608676
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6a3d987a180c4bd39bdcb65764f5d5ed
+run_name: rebellious-stork-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608651
+status: 3
+tags: []
+user_id: runner

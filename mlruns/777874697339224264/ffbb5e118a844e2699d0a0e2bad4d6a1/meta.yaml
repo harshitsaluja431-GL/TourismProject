@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ffbb5e118a844e2699d0a0e2bad4d6a1/artifacts
+end_time: 1764928594980
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ffbb5e118a844e2699d0a0e2bad4d6a1
+run_name: likeable-lynx-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928594969
+status: 3
+tags: []
+user_id: runner

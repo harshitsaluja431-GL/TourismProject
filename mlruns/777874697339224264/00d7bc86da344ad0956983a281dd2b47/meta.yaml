@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/00d7bc86da344ad0956983a281dd2b47/artifacts
+end_time: 1764928596253
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 00d7bc86da344ad0956983a281dd2b47
+run_name: sedate-penguin-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596239
+status: 3
+tags: []
+user_id: runner

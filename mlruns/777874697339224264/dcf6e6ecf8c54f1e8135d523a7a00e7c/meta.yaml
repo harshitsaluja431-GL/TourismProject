@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/dcf6e6ecf8c54f1e8135d523a7a00e7c/artifacts
+end_time: 1764928602558
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: dcf6e6ecf8c54f1e8135d523a7a00e7c
+run_name: magnificent-fish-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928602538
+status: 3
+tags: []
+user_id: runner

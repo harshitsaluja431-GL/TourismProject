@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/9b601d34b4e740b0b8683241a77cc441/artifacts
+end_time: 1764928596549
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 9b601d34b4e740b0b8683241a77cc441
+run_name: bold-lamb-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596535
+status: 3
+tags: []
+user_id: runner

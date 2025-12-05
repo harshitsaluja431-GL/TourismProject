@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/9b97dc07a12e4edf83dde5968b8ef61d/artifacts
+end_time: 1764928616450
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 9b97dc07a12e4edf83dde5968b8ef61d
+run_name: bedecked-cow-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928616416
+status: 3
+tags: []
+user_id: runner

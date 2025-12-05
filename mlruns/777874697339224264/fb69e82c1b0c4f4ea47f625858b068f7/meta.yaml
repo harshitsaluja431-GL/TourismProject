@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/fb69e82c1b0c4f4ea47f625858b068f7/artifacts
+end_time: 1764928597899
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: fb69e82c1b0c4f4ea47f625858b068f7
+run_name: victorious-moth-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597883
+status: 3
+tags: []
+user_id: runner

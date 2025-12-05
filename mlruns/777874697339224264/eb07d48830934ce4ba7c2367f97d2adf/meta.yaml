@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/eb07d48830934ce4ba7c2367f97d2adf/artifacts
+end_time: 1764928622869
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: eb07d48830934ce4ba7c2367f97d2adf
+run_name: tasteful-mare-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928622836
+status: 3
+tags: []
+user_id: runner

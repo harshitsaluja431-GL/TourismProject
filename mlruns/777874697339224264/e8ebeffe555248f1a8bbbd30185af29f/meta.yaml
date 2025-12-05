@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e8ebeffe555248f1a8bbbd30185af29f/artifacts
+end_time: 1764928612968
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e8ebeffe555248f1a8bbbd30185af29f
+run_name: rumbling-slug-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928612940
+status: 3
+tags: []
+user_id: runner

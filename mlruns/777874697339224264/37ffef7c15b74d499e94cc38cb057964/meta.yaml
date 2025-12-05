@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/37ffef7c15b74d499e94cc38cb057964/artifacts
+end_time: 1764928607127
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 37ffef7c15b74d499e94cc38cb057964
+run_name: kindly-shark-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607104
+status: 3
+tags: []
+user_id: runner

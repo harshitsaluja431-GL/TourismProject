@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d1154433325a458b96bdbe5182decb50/artifacts
+end_time: 1764928595556
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d1154433325a458b96bdbe5182decb50
+run_name: spiffy-wasp-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595543
+status: 3
+tags: []
+user_id: runner

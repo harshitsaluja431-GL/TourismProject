@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f44869fc5d144a828a18d7baa9cbca0b/artifacts
+end_time: 1764928623230
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f44869fc5d144a828a18d7baa9cbca0b
+run_name: entertaining-eel-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928623197
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8c31328e5d6643c79989b8e77615e07e/artifacts
+end_time: 1764928615444
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8c31328e5d6643c79989b8e77615e07e
+run_name: sincere-finch-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615415
+status: 3
+tags: []
+user_id: runner

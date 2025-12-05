@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d843855a5ec546829a7d8a0a6145f3e5/artifacts
+end_time: 1764928617426
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d843855a5ec546829a7d8a0a6145f3e5
+run_name: rebellious-rook-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928617396
+status: 3
+tags: []
+user_id: runner

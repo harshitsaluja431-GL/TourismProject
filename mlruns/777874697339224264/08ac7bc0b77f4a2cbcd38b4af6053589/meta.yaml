@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/08ac7bc0b77f4a2cbcd38b4af6053589/artifacts
+end_time: 1764928602316
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 08ac7bc0b77f4a2cbcd38b4af6053589
+run_name: exultant-rook-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928602296
+status: 3
+tags: []
+user_id: runner

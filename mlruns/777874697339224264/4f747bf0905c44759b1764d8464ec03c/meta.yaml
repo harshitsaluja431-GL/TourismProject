@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/4f747bf0905c44759b1764d8464ec03c/artifacts
+end_time: 1764928617954
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 4f747bf0905c44759b1764d8464ec03c
+run_name: peaceful-mouse-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928617924
+status: 3
+tags: []
+user_id: runner

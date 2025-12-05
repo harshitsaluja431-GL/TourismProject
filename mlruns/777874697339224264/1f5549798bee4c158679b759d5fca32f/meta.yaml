@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/1f5549798bee4c158679b759d5fca32f/artifacts
+end_time: 1764928606738
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 1f5549798bee4c158679b759d5fca32f
+run_name: casual-hen-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928606715
+status: 3
+tags: []
+user_id: runner

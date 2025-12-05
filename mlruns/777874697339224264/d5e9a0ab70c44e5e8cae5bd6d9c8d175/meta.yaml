@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d5e9a0ab70c44e5e8cae5bd6d9c8d175/artifacts
+end_time: 1764928623158
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d5e9a0ab70c44e5e8cae5bd6d9c8d175
+run_name: big-moth-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928623125
+status: 3
+tags: []
+user_id: runner

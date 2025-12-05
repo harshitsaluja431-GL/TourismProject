@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d86622db2e2c4071b873e8dee82a1b1b/artifacts
+end_time: 1764928600642
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d86622db2e2c4071b873e8dee82a1b1b
+run_name: puzzled-bird-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600624
+status: 3
+tags: []
+user_id: runner

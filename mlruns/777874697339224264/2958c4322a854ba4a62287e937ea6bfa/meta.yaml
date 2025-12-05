@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2958c4322a854ba4a62287e937ea6bfa/artifacts
+end_time: 1764928615255
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2958c4322a854ba4a62287e937ea6bfa
+run_name: clumsy-crow-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615226
+status: 3
+tags: []
+user_id: runner

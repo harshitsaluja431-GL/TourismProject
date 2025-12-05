@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/cde6d707fef74e87837d89269e75c05d/artifacts
+end_time: 1764928597434
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: cde6d707fef74e87837d89269e75c05d
+run_name: zealous-frog-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597419
+status: 3
+tags: []
+user_id: runner

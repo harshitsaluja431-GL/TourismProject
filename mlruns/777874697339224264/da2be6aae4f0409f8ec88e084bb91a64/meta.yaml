@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/da2be6aae4f0409f8ec88e084bb91a64/artifacts
+end_time: 1764928624288
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: da2be6aae4f0409f8ec88e084bb91a64
+run_name: bemused-steed-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928624255
+status: 3
+tags: []
+user_id: runner

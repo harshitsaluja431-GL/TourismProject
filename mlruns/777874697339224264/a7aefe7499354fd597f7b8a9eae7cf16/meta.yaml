@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a7aefe7499354fd597f7b8a9eae7cf16/artifacts
+end_time: 1764928610311
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a7aefe7499354fd597f7b8a9eae7cf16
+run_name: fearless-eel-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928610285
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/96c4a9b275044bf093e54e1fa8235cde/artifacts
+end_time: 1764928611723
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 96c4a9b275044bf093e54e1fa8235cde
+run_name: gaudy-quail-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611696
+status: 3
+tags: []
+user_id: runner

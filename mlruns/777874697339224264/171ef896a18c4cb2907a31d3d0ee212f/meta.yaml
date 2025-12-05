@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/171ef896a18c4cb2907a31d3d0ee212f/artifacts
+end_time: 1764928616708
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 171ef896a18c4cb2907a31d3d0ee212f
+run_name: bald-squid-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928616678
+status: 3
+tags: []
+user_id: runner

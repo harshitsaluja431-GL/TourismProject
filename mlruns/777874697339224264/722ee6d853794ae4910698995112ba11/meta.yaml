@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/722ee6d853794ae4910698995112ba11/artifacts
+end_time: 1764928608948
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 722ee6d853794ae4910698995112ba11
+run_name: trusting-snipe-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608923
+status: 3
+tags: []
+user_id: runner

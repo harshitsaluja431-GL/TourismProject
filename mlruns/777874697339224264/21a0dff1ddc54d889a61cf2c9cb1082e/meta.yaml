@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/21a0dff1ddc54d889a61cf2c9cb1082e/artifacts
+end_time: 1764928601369
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 21a0dff1ddc54d889a61cf2c9cb1082e
+run_name: casual-rook-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601351
+status: 3
+tags: []
+user_id: runner

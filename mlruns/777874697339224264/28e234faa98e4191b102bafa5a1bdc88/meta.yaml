@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/28e234faa98e4191b102bafa5a1bdc88/artifacts
+end_time: 1764928617888
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 28e234faa98e4191b102bafa5a1bdc88
+run_name: bald-smelt-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928617857
+status: 3
+tags: []
+user_id: runner

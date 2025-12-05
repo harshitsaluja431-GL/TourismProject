@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/491b944dbb8d4222a86bfc64a6baded5/artifacts
+end_time: 1764928617098
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 491b944dbb8d4222a86bfc64a6baded5
+run_name: rare-carp-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928617068
+status: 3
+tags: []
+user_id: runner

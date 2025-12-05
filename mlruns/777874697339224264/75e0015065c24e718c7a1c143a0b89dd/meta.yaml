@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/75e0015065c24e718c7a1c143a0b89dd/artifacts
+end_time: 1764928601817
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 75e0015065c24e718c7a1c143a0b89dd
+run_name: colorful-goat-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601797
+status: 3
+tags: []
+user_id: runner

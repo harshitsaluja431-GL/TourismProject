@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e7afbe291cf74d9e80d5dace8d9a68af/artifacts
+end_time: 1764928606560
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e7afbe291cf74d9e80d5dace8d9a68af
+run_name: amazing-foal-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928606537
+status: 3
+tags: []
+user_id: runner

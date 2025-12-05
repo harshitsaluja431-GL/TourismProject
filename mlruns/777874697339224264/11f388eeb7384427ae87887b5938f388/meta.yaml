@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/11f388eeb7384427ae87887b5938f388/artifacts
+end_time: 1764928598909
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 11f388eeb7384427ae87887b5938f388
+run_name: gentle-ray-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598893
+status: 3
+tags: []
+user_id: runner

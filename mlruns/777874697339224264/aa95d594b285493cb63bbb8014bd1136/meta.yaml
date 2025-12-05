@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/aa95d594b285493cb63bbb8014bd1136/artifacts
+end_time: 1764928595570
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: aa95d594b285493cb63bbb8014bd1136
+run_name: rogue-owl-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595558
+status: 3
+tags: []
+user_id: runner

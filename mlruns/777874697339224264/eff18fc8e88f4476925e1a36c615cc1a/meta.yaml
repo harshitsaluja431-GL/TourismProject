@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/eff18fc8e88f4476925e1a36c615cc1a/artifacts
+end_time: 1764928614098
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: eff18fc8e88f4476925e1a36c615cc1a
+run_name: puzzled-perch-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614070
+status: 3
+tags: []
+user_id: runner

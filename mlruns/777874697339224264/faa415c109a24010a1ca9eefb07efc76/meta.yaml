@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/faa415c109a24010a1ca9eefb07efc76/artifacts
+end_time: 1764928621974
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: faa415c109a24010a1ca9eefb07efc76
+run_name: able-squirrel-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928621941
+status: 3
+tags: []
+user_id: runner

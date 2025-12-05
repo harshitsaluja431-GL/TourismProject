@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d6a8207afde74aba8d83d7505f0c2fa1/artifacts
+end_time: 1764928600540
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d6a8207afde74aba8d83d7505f0c2fa1
+run_name: resilient-fowl-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600522
+status: 3
+tags: []
+user_id: runner

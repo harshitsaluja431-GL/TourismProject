@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b806479d708443328198f317eb5282d4/artifacts
+end_time: 1764928604559
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b806479d708443328198f317eb5282d4
+run_name: beautiful-bass-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604538
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b24eddfa003943dba0bb5a77a73f5ba7/artifacts
+end_time: 1764928619775
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b24eddfa003943dba0bb5a77a73f5ba7
+run_name: sincere-croc-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928619744
+status: 3
+tags: []
+user_id: runner

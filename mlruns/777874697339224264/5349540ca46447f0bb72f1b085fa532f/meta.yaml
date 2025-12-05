@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5349540ca46447f0bb72f1b085fa532f/artifacts
+end_time: 1764928598506
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5349540ca46447f0bb72f1b085fa532f
+run_name: rare-finch-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598490
+status: 3
+tags: []
+user_id: runner

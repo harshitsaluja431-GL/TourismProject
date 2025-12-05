@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/85422d484a32479ca51c7ec4c05eaa30/artifacts
+end_time: 1764928598415
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 85422d484a32479ca51c7ec4c05eaa30
+run_name: handsome-sloth-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598399
+status: 3
+tags: []
+user_id: runner

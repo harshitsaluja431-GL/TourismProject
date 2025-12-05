@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/bf27b6b248564f369c4e0f6c55484d80/artifacts
+end_time: 1764928601158
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: bf27b6b248564f369c4e0f6c55484d80
+run_name: vaunted-trout-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601139
+status: 3
+tags: []
+user_id: runner

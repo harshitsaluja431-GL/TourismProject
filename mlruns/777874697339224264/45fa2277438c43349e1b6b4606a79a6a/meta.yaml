@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/45fa2277438c43349e1b6b4606a79a6a/artifacts
+end_time: 1764928599823
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 45fa2277438c43349e1b6b4606a79a6a
+run_name: inquisitive-duck-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928599806
+status: 3
+tags: []
+user_id: runner

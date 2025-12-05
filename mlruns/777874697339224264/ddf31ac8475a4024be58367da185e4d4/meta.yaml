@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ddf31ac8475a4024be58367da185e4d4/artifacts
+end_time: 1764928624768
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ddf31ac8475a4024be58367da185e4d4
+run_name: adorable-stork-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928624734
+status: 3
+tags: []
+user_id: runner

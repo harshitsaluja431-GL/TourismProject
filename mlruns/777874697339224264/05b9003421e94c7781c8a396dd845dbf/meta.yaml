@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/05b9003421e94c7781c8a396dd845dbf/artifacts
+end_time: 1764928625289
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 05b9003421e94c7781c8a396dd845dbf
+run_name: funny-doe-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928625255
+status: 3
+tags: []
+user_id: runner

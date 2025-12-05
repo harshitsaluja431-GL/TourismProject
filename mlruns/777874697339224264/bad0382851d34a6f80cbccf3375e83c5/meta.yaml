@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/bad0382851d34a6f80cbccf3375e83c5/artifacts
+end_time: 1764928596423
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: bad0382851d34a6f80cbccf3375e83c5
+run_name: gentle-kite-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596409
+status: 3
+tags: []
+user_id: runner

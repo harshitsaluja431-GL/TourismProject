@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/9eaedeb493d44648b4e467854120cda0/artifacts
+end_time: 1764928610594
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 9eaedeb493d44648b4e467854120cda0
+run_name: resilient-sloth-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928610569
+status: 3
+tags: []
+user_id: runner

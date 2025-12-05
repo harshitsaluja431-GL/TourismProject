@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6ca6f9568d154326ad9efd22a931e68b/artifacts
+end_time: 1764928607810
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6ca6f9568d154326ad9efd22a931e68b
+run_name: trusting-gull-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607786
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/86f52590900d41c4b6ad0948c63429ee/artifacts
+end_time: 1764928625252
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 86f52590900d41c4b6ad0948c63429ee
+run_name: charming-ape-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928625218
+status: 3
+tags: []
+user_id: runner

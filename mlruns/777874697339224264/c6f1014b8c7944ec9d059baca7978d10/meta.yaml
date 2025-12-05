@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c6f1014b8c7944ec9d059baca7978d10/artifacts
+end_time: 1764928612998
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c6f1014b8c7944ec9d059baca7978d10
+run_name: thundering-mouse-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928612970
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/dfa00ec5f8c34974952d3ee98097b8f3/artifacts
+end_time: 1764928608784
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: dfa00ec5f8c34974952d3ee98097b8f3
+run_name: flawless-bird-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608760
+status: 3
+tags: []
+user_id: runner

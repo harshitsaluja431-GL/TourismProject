@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0020e22532384764a65638c31a2c104a/artifacts
+end_time: 1764928611431
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0020e22532384764a65638c31a2c104a
+run_name: delightful-cow-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611405
+status: 3
+tags: []
+user_id: runner

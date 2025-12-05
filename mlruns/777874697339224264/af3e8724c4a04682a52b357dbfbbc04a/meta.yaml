@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/af3e8724c4a04682a52b357dbfbbc04a/artifacts
+end_time: 1764928596984
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: af3e8724c4a04682a52b357dbfbbc04a
+run_name: exultant-perch-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596970
+status: 3
+tags: []
+user_id: runner

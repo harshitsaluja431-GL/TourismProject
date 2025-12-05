@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/3ab6ff8e996644ceace269a45e2855cf/artifacts
+end_time: 1764928615888
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 3ab6ff8e996644ceace269a45e2855cf
+run_name: fearless-hog-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615859
+status: 3
+tags: []
+user_id: runner

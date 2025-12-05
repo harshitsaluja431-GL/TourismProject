@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b5f774353373486ba1915e97d7c9d5ce/artifacts
+end_time: 1764928598615
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b5f774353373486ba1915e97d7c9d5ce
+run_name: defiant-bear-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598599
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/1518052c49b249e1858212a7b1b304cc/artifacts
+end_time: 1764928613271
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 1518052c49b249e1858212a7b1b304cc
+run_name: upbeat-colt-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928613243
+status: 3
+tags: []
+user_id: runner

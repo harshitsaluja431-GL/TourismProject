@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b71c524a642949d1b68747eb769a9a4e/artifacts
+end_time: 1764928613393
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b71c524a642949d1b68747eb769a9a4e
+run_name: legendary-carp-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928613365
+status: 3
+tags: []
+user_id: runner

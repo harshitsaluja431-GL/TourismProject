@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0dcbf3f7eaeb48ac975a37e0c74fdc39/artifacts
+end_time: 1764928604993
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0dcbf3f7eaeb48ac975a37e0c74fdc39
+run_name: mysterious-lamb-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604971
+status: 3
+tags: []
+user_id: runner

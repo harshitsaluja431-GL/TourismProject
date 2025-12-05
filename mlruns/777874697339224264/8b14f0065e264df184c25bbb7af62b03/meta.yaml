@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8b14f0065e264df184c25bbb7af62b03/artifacts
+end_time: 1764928612519
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8b14f0065e264df184c25bbb7af62b03
+run_name: skittish-mule-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928612492
+status: 3
+tags: []
+user_id: runner

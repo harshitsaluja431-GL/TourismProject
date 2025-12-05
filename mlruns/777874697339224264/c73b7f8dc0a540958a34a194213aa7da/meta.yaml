@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c73b7f8dc0a540958a34a194213aa7da/artifacts
+end_time: 1764928599190
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c73b7f8dc0a540958a34a194213aa7da
+run_name: overjoyed-bird-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928599173
+status: 3
+tags: []
+user_id: runner

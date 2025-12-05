@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/1433eb1d07c04685a4e19dd1c9329a50/artifacts
+end_time: 1764928604726
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 1433eb1d07c04685a4e19dd1c9329a50
+run_name: upbeat-midge-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604705
+status: 3
+tags: []
+user_id: runner

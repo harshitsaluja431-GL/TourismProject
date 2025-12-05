@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c3ef9e0ae30d400c840b93dfc5924c43/artifacts
+end_time: 1764928602206
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c3ef9e0ae30d400c840b93dfc5924c43
+run_name: flawless-horse-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928602187
+status: 3
+tags: []
+user_id: runner

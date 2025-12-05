@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e0e66a44a4264db9b84151054a7b3e28/artifacts
+end_time: 1764928617000
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e0e66a44a4264db9b84151054a7b3e28
+run_name: fearless-cub-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928616970
+status: 3
+tags: []
+user_id: runner

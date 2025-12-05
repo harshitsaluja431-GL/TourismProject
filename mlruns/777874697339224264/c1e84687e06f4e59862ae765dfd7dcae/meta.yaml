@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c1e84687e06f4e59862ae765dfd7dcae/artifacts
+end_time: 1764928614533
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c1e84687e06f4e59862ae765dfd7dcae
+run_name: unique-skink-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614505
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/206d25c3cc9841efa2add3e549b17478/artifacts
+end_time: 1764928601946
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 206d25c3cc9841efa2add3e549b17478
+run_name: colorful-goose-348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601927
+status: 3
+tags: []
+user_id: runner

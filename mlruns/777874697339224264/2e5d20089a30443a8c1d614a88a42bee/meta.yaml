@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2e5d20089a30443a8c1d614a88a42bee/artifacts
+end_time: 1764928604607
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2e5d20089a30443a8c1d614a88a42bee
+run_name: carefree-kit-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604586
+status: 3
+tags: []
+user_id: runner

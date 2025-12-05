@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/99673c4e2e5b4d1eace84fd829a47f96/artifacts
+end_time: 1764928604800
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 99673c4e2e5b4d1eace84fd829a47f96
+run_name: funny-fawn-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604778
+status: 3
+tags: []
+user_id: runner

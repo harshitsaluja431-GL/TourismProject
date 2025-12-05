@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2f62defaf4934dacb7384a3cd3d94525/artifacts
+end_time: 1764928600683
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2f62defaf4934dacb7384a3cd3d94525
+run_name: overjoyed-fly-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600664
+status: 3
+tags: []
+user_id: runner

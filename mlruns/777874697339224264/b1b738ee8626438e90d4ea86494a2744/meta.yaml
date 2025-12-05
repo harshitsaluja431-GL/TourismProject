@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b1b738ee8626438e90d4ea86494a2744/artifacts
+end_time: 1764928594967
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b1b738ee8626438e90d4ea86494a2744
+run_name: trusting-rat-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928594955
+status: 3
+tags: []
+user_id: runner

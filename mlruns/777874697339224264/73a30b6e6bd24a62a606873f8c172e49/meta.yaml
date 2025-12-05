@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/73a30b6e6bd24a62a606873f8c172e49/artifacts
+end_time: 1764928600019
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 73a30b6e6bd24a62a606873f8c172e49
+run_name: receptive-fish-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600001
+status: 3
+tags: []
+user_id: runner

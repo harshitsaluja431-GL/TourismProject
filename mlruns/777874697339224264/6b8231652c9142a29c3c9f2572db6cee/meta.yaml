@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6b8231652c9142a29c3c9f2572db6cee/artifacts
+end_time: 1764928611957
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6b8231652c9142a29c3c9f2572db6cee
+run_name: lyrical-vole-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611930
+status: 3
+tags: []
+user_id: runner

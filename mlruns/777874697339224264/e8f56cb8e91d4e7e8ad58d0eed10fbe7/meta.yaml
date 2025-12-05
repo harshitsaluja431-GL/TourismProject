@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e8f56cb8e91d4e7e8ad58d0eed10fbe7/artifacts
+end_time: 1764928610880
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e8f56cb8e91d4e7e8ad58d0eed10fbe7
+run_name: receptive-whale-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928610854
+status: 3
+tags: []
+user_id: runner

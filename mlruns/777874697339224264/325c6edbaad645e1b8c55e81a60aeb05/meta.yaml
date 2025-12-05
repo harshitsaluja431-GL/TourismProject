@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/325c6edbaad645e1b8c55e81a60aeb05/artifacts
+end_time: 1764928596501
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 325c6edbaad645e1b8c55e81a60aeb05
+run_name: luminous-mule-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596487
+status: 3
+tags: []
+user_id: runner

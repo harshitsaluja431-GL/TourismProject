@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/35847038c69a4d6faaa363f49130c675/artifacts
+end_time: 1764928595021
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 35847038c69a4d6faaa363f49130c675
+run_name: powerful-smelt-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595009
+status: 3
+tags: []
+user_id: runner

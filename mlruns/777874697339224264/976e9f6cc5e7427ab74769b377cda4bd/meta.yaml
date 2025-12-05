@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/976e9f6cc5e7427ab74769b377cda4bd/artifacts
+end_time: 1764928614068
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 976e9f6cc5e7427ab74769b377cda4bd
+run_name: whimsical-koi-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614040
+status: 3
+tags: []
+user_id: runner

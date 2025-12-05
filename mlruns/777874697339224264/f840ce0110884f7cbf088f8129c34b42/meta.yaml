@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f840ce0110884f7cbf088f8129c34b42/artifacts
+end_time: 1764928595229
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f840ce0110884f7cbf088f8129c34b42
+run_name: able-cod-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595217
+status: 3
+tags: []
+user_id: runner

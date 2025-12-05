@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/10c6f27ae9554462b82f8ee07ae4edc3/artifacts
+end_time: 1764928600621
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 10c6f27ae9554462b82f8ee07ae4edc3
+run_name: shivering-loon-877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600603
+status: 3
+tags: []
+user_id: runner

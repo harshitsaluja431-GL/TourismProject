@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f4ad94a9a7de41bb8b9f93b5f42e6b29/artifacts
+end_time: 1764928614440
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f4ad94a9a7de41bb8b9f93b5f42e6b29
+run_name: kindly-shoat-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928614411
+status: 3
+tags: []
+user_id: runner

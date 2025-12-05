@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/1e038980d5cd4934b150c2280d1ce071/artifacts
+end_time: 1764928607309
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 1e038980d5cd4934b150c2280d1ce071
+run_name: mercurial-mare-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607285
+status: 3
+tags: []
+user_id: runner

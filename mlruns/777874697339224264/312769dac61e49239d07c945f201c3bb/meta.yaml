@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/312769dac61e49239d07c945f201c3bb/artifacts
+end_time: 1764928622941
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 312769dac61e49239d07c945f201c3bb
+run_name: learned-owl-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928622908
+status: 3
+tags: []
+user_id: runner

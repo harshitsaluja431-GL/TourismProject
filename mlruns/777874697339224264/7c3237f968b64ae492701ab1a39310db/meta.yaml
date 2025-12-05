@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/7c3237f968b64ae492701ab1a39310db/artifacts
+end_time: 1764928600039
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 7c3237f968b64ae492701ab1a39310db
+run_name: shivering-rat-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600021
+status: 3
+tags: []
+user_id: runner

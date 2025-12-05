@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/045798e9e7204a32a08af3d62acdaa5a/artifacts
+end_time: 1764928596485
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 045798e9e7204a32a08af3d62acdaa5a
+run_name: delicate-frog-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596472
+status: 3
+tags: []
+user_id: runner

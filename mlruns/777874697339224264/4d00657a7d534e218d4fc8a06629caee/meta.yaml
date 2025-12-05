@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/4d00657a7d534e218d4fc8a06629caee/artifacts
+end_time: 1764928597639
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 4d00657a7d534e218d4fc8a06629caee
+run_name: trusting-zebra-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597624
+status: 3
+tags: []
+user_id: runner

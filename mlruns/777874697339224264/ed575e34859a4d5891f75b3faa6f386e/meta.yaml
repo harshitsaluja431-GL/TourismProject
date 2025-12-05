@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ed575e34859a4d5891f75b3faa6f386e/artifacts
+end_time: 1764928600785
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ed575e34859a4d5891f75b3faa6f386e
+run_name: delicate-shad-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600767
+status: 3
+tags: []
+user_id: runner

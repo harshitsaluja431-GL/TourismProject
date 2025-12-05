@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/98b39cfd8837419b9c8b069272200a86/artifacts
+end_time: 1764928606206
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 98b39cfd8837419b9c8b069272200a86
+run_name: abundant-shrew-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928606183
+status: 3
+tags: []
+user_id: runner

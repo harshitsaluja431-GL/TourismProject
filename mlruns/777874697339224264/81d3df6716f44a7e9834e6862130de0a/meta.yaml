@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/81d3df6716f44a7e9834e6862130de0a/artifacts
+end_time: 1764928598289
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 81d3df6716f44a7e9834e6862130de0a
+run_name: mysterious-cow-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598273
+status: 3
+tags: []
+user_id: runner

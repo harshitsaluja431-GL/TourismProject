@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5c6342c990df40c7b359c76811bae53b/artifacts
+end_time: 1764928612638
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5c6342c990df40c7b359c76811bae53b
+run_name: incongruous-gnat-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928612611
+status: 3
+tags: []
+user_id: runner

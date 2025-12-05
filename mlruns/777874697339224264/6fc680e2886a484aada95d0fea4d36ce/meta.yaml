@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6fc680e2886a484aada95d0fea4d36ce/artifacts
+end_time: 1764928619196
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6fc680e2886a484aada95d0fea4d36ce
+run_name: charming-quail-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928619165
+status: 3
+tags: []
+user_id: runner

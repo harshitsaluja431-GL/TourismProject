@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/673e3f0cfc35425d8e4f9ac68495ba35/artifacts
+end_time: 1764928612578
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 673e3f0cfc35425d8e4f9ac68495ba35
+run_name: able-stork-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928612551
+status: 3
+tags: []
+user_id: runner

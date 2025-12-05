@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6a2c83e1fed44c77a0a5ebe2f4f8351a/artifacts
+end_time: 1764928598397
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6a2c83e1fed44c77a0a5ebe2f4f8351a
+run_name: stylish-sheep-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598381
+status: 3
+tags: []
+user_id: runner

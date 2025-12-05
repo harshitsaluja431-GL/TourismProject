@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/aefe3fc14511418ea3750e53a02416d1/artifacts
+end_time: 1764928597182
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: aefe3fc14511418ea3750e53a02416d1
+run_name: auspicious-ape-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597168
+status: 3
+tags: []
+user_id: runner

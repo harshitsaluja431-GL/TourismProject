@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a80f164e749a40088f41de0687b85423/artifacts
+end_time: 1764928596757
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a80f164e749a40088f41de0687b85423
+run_name: abrasive-conch-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596743
+status: 3
+tags: []
+user_id: runner

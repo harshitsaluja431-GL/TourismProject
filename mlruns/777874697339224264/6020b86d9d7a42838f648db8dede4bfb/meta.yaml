@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6020b86d9d7a42838f648db8dede4bfb/artifacts
+end_time: 1764928600805
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6020b86d9d7a42838f648db8dede4bfb
+run_name: agreeable-wolf-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600787
+status: 3
+tags: []
+user_id: runner

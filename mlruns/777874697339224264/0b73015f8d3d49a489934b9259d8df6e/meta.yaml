@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0b73015f8d3d49a489934b9259d8df6e/artifacts
+end_time: 1764928613637
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0b73015f8d3d49a489934b9259d8df6e
+run_name: smiling-finch-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928613610
+status: 3
+tags: []
+user_id: runner

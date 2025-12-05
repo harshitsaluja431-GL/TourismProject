@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/360c264a2114468d86f0c2092ccc0d58/artifacts
+end_time: 1764928623593
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 360c264a2114468d86f0c2092ccc0d58
+run_name: clean-snake-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928623560
+status: 3
+tags: []
+user_id: runner

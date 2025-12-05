@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/999ae9c993e6422ca9b66391b1965562/artifacts
+end_time: 1764928609527
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 999ae9c993e6422ca9b66391b1965562
+run_name: bright-asp-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609502
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/001e1e77c34944aeb53a610ba4e9aaa0/artifacts
+end_time: 1764928612134
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 001e1e77c34944aeb53a610ba4e9aaa0
+run_name: carefree-rook-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928612107
+status: 3
+tags: []
+user_id: runner

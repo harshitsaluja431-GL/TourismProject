@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/97ba226fa1354558a649440297761d0c/artifacts
+end_time: 1764928620501
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 97ba226fa1354558a649440297761d0c
+run_name: persistent-shad-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928620469
+status: 3
+tags: []
+user_id: runner

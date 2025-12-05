@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/99155da8ea714349892318b632ff98c0/artifacts
+end_time: 1764928608567
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 99155da8ea714349892318b632ff98c0
+run_name: mysterious-cub-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608543
+status: 3
+tags: []
+user_id: runner

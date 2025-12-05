@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5fd69cd0da8249fb9ef9ffecb18372e8/artifacts
+end_time: 1764928598854
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5fd69cd0da8249fb9ef9ffecb18372e8
+run_name: unleashed-quail-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598837
+status: 3
+tags: []
+user_id: runner

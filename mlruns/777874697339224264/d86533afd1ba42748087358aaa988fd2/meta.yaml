@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d86533afd1ba42748087358aaa988fd2/artifacts
+end_time: 1764928620397
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d86533afd1ba42748087358aaa988fd2
+run_name: monumental-trout-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928620366
+status: 3
+tags: []
+user_id: runner

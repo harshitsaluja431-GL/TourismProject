@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/4ad7f9b210644036ac12d6c50aacad38/artifacts
+end_time: 1764928607757
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 4ad7f9b210644036ac12d6c50aacad38
+run_name: industrious-frog-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607733
+status: 3
+tags: []
+user_id: runner

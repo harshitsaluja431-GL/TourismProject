@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ad3bdc50af7f4d779b41887a7aba6cf2/artifacts
+end_time: 1764928603783
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ad3bdc50af7f4d779b41887a7aba6cf2
+run_name: grandiose-dove-939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603763
+status: 3
+tags: []
+user_id: runner

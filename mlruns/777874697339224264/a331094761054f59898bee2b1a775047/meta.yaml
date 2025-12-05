@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a331094761054f59898bee2b1a775047/artifacts
+end_time: 1764928610651
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a331094761054f59898bee2b1a775047
+run_name: flawless-sheep-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928610625
+status: 3
+tags: []
+user_id: runner

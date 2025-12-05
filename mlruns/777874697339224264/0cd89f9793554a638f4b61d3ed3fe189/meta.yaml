@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0cd89f9793554a638f4b61d3ed3fe189/artifacts
+end_time: 1764928609388
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0cd89f9793554a638f4b61d3ed3fe189
+run_name: fun-squid-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609363
+status: 3
+tags: []
+user_id: runner

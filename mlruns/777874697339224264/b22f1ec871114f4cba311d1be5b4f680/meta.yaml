@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b22f1ec871114f4cba311d1be5b4f680/artifacts
+end_time: 1764928602119
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b22f1ec871114f4cba311d1be5b4f680
+run_name: inquisitive-rat-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928602100
+status: 3
+tags: []
+user_id: runner

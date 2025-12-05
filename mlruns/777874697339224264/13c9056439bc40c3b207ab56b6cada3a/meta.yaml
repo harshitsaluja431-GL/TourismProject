@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/13c9056439bc40c3b207ab56b6cada3a/artifacts
+end_time: 1764928599882
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 13c9056439bc40c3b207ab56b6cada3a
+run_name: debonair-fawn-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928599864
+status: 3
+tags: []
+user_id: runner

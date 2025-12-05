@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e18f831bbc9b4426be20da1a303c1e3e/artifacts
+end_time: 1764928621128
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e18f831bbc9b4426be20da1a303c1e3e
+run_name: charming-ant-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928621095
+status: 3
+tags: []
+user_id: runner

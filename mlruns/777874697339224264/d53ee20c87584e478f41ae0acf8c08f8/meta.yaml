@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d53ee20c87584e478f41ae0acf8c08f8/artifacts
+end_time: 1764928601860
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d53ee20c87584e478f41ae0acf8c08f8
+run_name: intelligent-hog-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601840
+status: 3
+tags: []
+user_id: runner

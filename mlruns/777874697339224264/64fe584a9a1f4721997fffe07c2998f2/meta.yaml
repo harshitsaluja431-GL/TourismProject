@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/64fe584a9a1f4721997fffe07c2998f2/artifacts
+end_time: 1764928604133
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 64fe584a9a1f4721997fffe07c2998f2
+run_name: nosy-mouse-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604112
+status: 3
+tags: []
+user_id: runner

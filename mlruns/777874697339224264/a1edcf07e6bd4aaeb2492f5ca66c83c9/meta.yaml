@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a1edcf07e6bd4aaeb2492f5ca66c83c9/artifacts
+end_time: 1764928620988
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a1edcf07e6bd4aaeb2492f5ca66c83c9
+run_name: nosy-cub-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928620956
+status: 3
+tags: []
+user_id: runner

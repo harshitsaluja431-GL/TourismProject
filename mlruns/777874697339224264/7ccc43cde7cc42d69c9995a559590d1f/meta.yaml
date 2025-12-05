@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/7ccc43cde7cc42d69c9995a559590d1f/artifacts
+end_time: 1764928602758
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 7ccc43cde7cc42d69c9995a559590d1f
+run_name: peaceful-swan-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928602738
+status: 3
+tags: []
+user_id: runner

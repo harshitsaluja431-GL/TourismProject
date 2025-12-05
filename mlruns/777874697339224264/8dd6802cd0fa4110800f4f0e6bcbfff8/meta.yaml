@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8dd6802cd0fa4110800f4f0e6bcbfff8/artifacts
+end_time: 1764928624252
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8dd6802cd0fa4110800f4f0e6bcbfff8
+run_name: rumbling-shrimp-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928624218
+status: 3
+tags: []
+user_id: runner

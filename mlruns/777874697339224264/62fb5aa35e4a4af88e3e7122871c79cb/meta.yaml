@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/62fb5aa35e4a4af88e3e7122871c79cb/artifacts
+end_time: 1764928600079
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 62fb5aa35e4a4af88e3e7122871c79cb
+run_name: burly-roo-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600060
+status: 3
+tags: []
+user_id: runner

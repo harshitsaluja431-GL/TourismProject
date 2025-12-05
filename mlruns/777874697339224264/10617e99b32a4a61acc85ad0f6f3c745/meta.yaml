@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/10617e99b32a4a61acc85ad0f6f3c745/artifacts
+end_time: 1764928609637
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 10617e99b32a4a61acc85ad0f6f3c745
+run_name: unequaled-whale-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609612
+status: 3
+tags: []
+user_id: runner

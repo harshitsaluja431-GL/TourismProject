@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/79e646fc84e241e58e57e5087769f089/artifacts
+end_time: 1764928619264
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 79e646fc84e241e58e57e5087769f089
+run_name: omniscient-bear-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928619233
+status: 3
+tags: []
+user_id: runner

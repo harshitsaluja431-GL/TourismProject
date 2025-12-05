@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/10e4369483c542df92e2b78a06784243/artifacts
+end_time: 1764928595271
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 10e4369483c542df92e2b78a06784243
+run_name: flawless-ray-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595259
+status: 3
+tags: []
+user_id: runner

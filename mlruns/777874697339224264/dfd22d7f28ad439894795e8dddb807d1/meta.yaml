@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/dfd22d7f28ad439894795e8dddb807d1/artifacts
+end_time: 1764928604180
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: dfd22d7f28ad439894795e8dddb807d1
+run_name: welcoming-kite-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604159
+status: 3
+tags: []
+user_id: runner

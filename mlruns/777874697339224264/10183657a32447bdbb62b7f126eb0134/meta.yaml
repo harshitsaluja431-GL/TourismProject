@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/10183657a32447bdbb62b7f126eb0134/artifacts
+end_time: 1764928604251
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 10183657a32447bdbb62b7f126eb0134
+run_name: enthused-mouse-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928604229
+status: 3
+tags: []
+user_id: runner

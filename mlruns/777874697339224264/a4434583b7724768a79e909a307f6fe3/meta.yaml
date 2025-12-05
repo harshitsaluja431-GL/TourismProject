@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a4434583b7724768a79e909a307f6fe3/artifacts
+end_time: 1764928623303
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a4434583b7724768a79e909a307f6fe3
+run_name: puzzled-pig-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928623270
+status: 3
+tags: []
+user_id: runner

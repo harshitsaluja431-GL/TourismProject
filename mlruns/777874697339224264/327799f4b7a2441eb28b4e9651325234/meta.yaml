@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/327799f4b7a2441eb28b4e9651325234/artifacts
+end_time: 1764928626114
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 327799f4b7a2441eb28b4e9651325234
+run_name: blushing-goose-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928626079
+status: 3
+tags: []
+user_id: runner

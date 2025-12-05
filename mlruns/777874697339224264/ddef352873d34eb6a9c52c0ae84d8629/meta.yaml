@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ddef352873d34eb6a9c52c0ae84d8629/artifacts
+end_time: 1764928607361
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ddef352873d34eb6a9c52c0ae84d8629
+run_name: peaceful-crane-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928607338
+status: 3
+tags: []
+user_id: runner

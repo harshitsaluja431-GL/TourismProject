@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5db1801d410e4d41b46446a12f23de91/artifacts
+end_time: 1764928599901
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5db1801d410e4d41b46446a12f23de91
+run_name: judicious-flea-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928599884
+status: 3
+tags: []
+user_id: runner

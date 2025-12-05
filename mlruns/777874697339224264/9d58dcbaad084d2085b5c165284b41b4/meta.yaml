@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/9d58dcbaad084d2085b5c165284b41b4/artifacts
+end_time: 1764928605408
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 9d58dcbaad084d2085b5c165284b41b4
+run_name: auspicious-lark-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928605386
+status: 3
+tags: []
+user_id: runner

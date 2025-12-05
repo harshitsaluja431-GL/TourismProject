@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/4309290470da4972bf841aa74945d6de/artifacts
+end_time: 1764928599058
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 4309290470da4972bf841aa74945d6de
+run_name: efficient-bat-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928599042
+status: 3
+tags: []
+user_id: runner

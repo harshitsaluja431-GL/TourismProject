@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/95d30c9652814ae1ab559785d385ddca/artifacts
+end_time: 1764928622546
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 95d30c9652814ae1ab559785d385ddca
+run_name: fortunate-steed-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928622513
+status: 3
+tags: []
+user_id: runner

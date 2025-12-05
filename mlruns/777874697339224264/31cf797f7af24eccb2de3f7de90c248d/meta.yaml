@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/31cf797f7af24eccb2de3f7de90c248d/artifacts
+end_time: 1764928600338
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 31cf797f7af24eccb2de3f7de90c248d
+run_name: legendary-steed-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600320
+status: 3
+tags: []
+user_id: runner

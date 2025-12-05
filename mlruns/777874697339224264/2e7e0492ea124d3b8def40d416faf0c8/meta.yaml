@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2e7e0492ea124d3b8def40d416faf0c8/artifacts
+end_time: 1764928615856
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2e7e0492ea124d3b8def40d416faf0c8
+run_name: fortunate-chimp-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615827
+status: 3
+tags: []
+user_id: runner

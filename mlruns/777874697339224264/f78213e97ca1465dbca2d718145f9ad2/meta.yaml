@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f78213e97ca1465dbca2d718145f9ad2/artifacts
+end_time: 1764928600826
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f78213e97ca1465dbca2d718145f9ad2
+run_name: polite-snipe-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928600807
+status: 3
+tags: []
+user_id: runner

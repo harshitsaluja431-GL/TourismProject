@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/7558ac90348f4dd298bd86f2d1b9829a/artifacts
+end_time: 1764928612016
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 7558ac90348f4dd298bd86f2d1b9829a
+run_name: hilarious-elk-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928611989
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/99bee0d1b6364ac495e2951b357c0e40/artifacts
+end_time: 1764928625888
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 99bee0d1b6364ac495e2951b357c0e40
+run_name: respected-cow-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928625853
+status: 3
+tags: []
+user_id: runner

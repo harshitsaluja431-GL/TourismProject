@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5f0d3e94504b4cccad986592a3504132/artifacts
+end_time: 1764928608216
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5f0d3e94504b4cccad986592a3504132
+run_name: luxuriant-eel-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928608192
+status: 3
+tags: []
+user_id: runner

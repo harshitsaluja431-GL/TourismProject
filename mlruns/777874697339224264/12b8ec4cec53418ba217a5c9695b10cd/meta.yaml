@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/12b8ec4cec53418ba217a5c9695b10cd/artifacts
+end_time: 1764928605115
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 12b8ec4cec53418ba217a5c9695b10cd
+run_name: treasured-auk-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928605093
+status: 3
+tags: []
+user_id: runner

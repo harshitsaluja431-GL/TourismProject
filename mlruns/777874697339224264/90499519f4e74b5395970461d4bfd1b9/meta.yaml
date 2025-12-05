@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/90499519f4e74b5395970461d4bfd1b9/artifacts
+end_time: 1764928595910
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 90499519f4e74b5395970461d4bfd1b9
+run_name: unleashed-cod-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595897
+status: 3
+tags: []
+user_id: runner

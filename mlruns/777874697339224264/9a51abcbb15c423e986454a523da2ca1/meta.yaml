@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/9a51abcbb15c423e986454a523da2ca1/artifacts
+end_time: 1764928601838
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 9a51abcbb15c423e986454a523da2ca1
+run_name: gentle-worm-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601819
+status: 3
+tags: []
+user_id: runner

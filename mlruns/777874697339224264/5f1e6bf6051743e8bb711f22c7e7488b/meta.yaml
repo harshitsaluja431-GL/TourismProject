@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5f1e6bf6051743e8bb711f22c7e7488b/artifacts
+end_time: 1764928603119
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5f1e6bf6051743e8bb711f22c7e7488b
+run_name: dashing-snipe-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603098
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e670a3216a644d1ba0664683c5904711/artifacts
+end_time: 1764928618891
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e670a3216a644d1ba0664683c5904711
+run_name: luxuriant-mare-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618860
+status: 3
+tags: []
+user_id: runner

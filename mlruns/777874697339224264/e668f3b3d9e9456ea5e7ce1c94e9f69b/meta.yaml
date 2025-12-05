@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e668f3b3d9e9456ea5e7ce1c94e9f69b/artifacts
+end_time: 1764928609610
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e668f3b3d9e9456ea5e7ce1c94e9f69b
+run_name: nebulous-goose-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609585
+status: 3
+tags: []
+user_id: runner

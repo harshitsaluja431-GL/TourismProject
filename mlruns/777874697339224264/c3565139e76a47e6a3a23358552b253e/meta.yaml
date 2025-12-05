@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c3565139e76a47e6a3a23358552b253e/artifacts
+end_time: 1764928602054
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c3565139e76a47e6a3a23358552b253e
+run_name: enchanting-rook-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928602034
+status: 3
+tags: []
+user_id: runner

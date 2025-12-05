@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8ceeb060d38640eca1c19f694f6d0a30/artifacts
+end_time: 1764928610085
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8ceeb060d38640eca1c19f694f6d0a30
+run_name: caring-sloth-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928610059
+status: 3
+tags: []
+user_id: runner

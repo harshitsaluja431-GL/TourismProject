@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8b4dade262a542bfaa2fe61920647ecb/artifacts
+end_time: 1764928625065
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8b4dade262a542bfaa2fe61920647ecb
+run_name: sedate-hog-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928625031
+status: 3
+tags: []
+user_id: runner

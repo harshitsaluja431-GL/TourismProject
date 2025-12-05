@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d021323b5c8645cea90527f8a401f3db/artifacts
+end_time: 1764928622689
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d021323b5c8645cea90527f8a401f3db
+run_name: ambitious-boar-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928622656
+status: 3
+tags: []
+user_id: runner

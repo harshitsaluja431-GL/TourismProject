@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/d4ea8d54501444289fb26b06a64f1480/artifacts
+end_time: 1764928618689
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: d4ea8d54501444289fb26b06a64f1480
+run_name: defiant-hawk-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618659
+status: 3
+tags: []
+user_id: runner

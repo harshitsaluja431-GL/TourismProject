@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/84a6afd70ef843cea617917331a6923d/artifacts
+end_time: 1764928621832
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 84a6afd70ef843cea617917331a6923d
+run_name: dazzling-stork-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928621800
+status: 3
+tags: []
+user_id: runner

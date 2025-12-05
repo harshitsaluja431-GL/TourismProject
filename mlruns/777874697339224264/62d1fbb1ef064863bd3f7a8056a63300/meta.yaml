@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/62d1fbb1ef064863bd3f7a8056a63300/artifacts
+end_time: 1764928609195
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 62d1fbb1ef064863bd3f7a8056a63300
+run_name: respected-crab-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928609170
+status: 3
+tags: []
+user_id: runner

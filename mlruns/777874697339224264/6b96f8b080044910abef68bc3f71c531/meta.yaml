@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6b96f8b080044910abef68bc3f71c531/artifacts
+end_time: 1764928602250
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6b96f8b080044910abef68bc3f71c531
+run_name: sedate-skink-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928602230
+status: 3
+tags: []
+user_id: runner

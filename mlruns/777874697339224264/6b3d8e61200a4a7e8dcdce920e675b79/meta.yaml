@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/6b3d8e61200a4a7e8dcdce920e675b79/artifacts
+end_time: 1764928606332
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 6b3d8e61200a4a7e8dcdce920e675b79
+run_name: charming-steed-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928606309
+status: 3
+tags: []
+user_id: runner

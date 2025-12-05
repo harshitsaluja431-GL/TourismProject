@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/c2000e9013554be387f47b4440e56651/artifacts
+end_time: 1764928612252
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: c2000e9013554be387f47b4440e56651
+run_name: intrigued-roo-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928612225
+status: 3
+tags: []
+user_id: runner

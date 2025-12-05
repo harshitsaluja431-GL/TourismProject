@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e438a2cc5be341a0ae0f710fa9e1d0f5/artifacts
+end_time: 1764928596175
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e438a2cc5be341a0ae0f710fa9e1d0f5
+run_name: zealous-chimp-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596160
+status: 3
+tags: []
+user_id: runner

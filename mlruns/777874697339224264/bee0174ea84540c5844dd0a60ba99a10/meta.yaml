@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/bee0174ea84540c5844dd0a60ba99a10/artifacts
+end_time: 1764928606840
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: bee0174ea84540c5844dd0a60ba99a10
+run_name: unleashed-ape-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928606817
+status: 3
+tags: []
+user_id: runner

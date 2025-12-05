@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5c3e5d6a5fa447b18abbcb9c5d4cc2f5/artifacts
+end_time: 1764928595369
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5c3e5d6a5fa447b18abbcb9c5d4cc2f5
+run_name: intrigued-snail-348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928595357
+status: 3
+tags: []
+user_id: runner

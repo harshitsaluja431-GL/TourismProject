@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/f18f2d710cfb49c5a0f68e782ba8adf6/artifacts
+end_time: 1764928623776
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: f18f2d710cfb49c5a0f68e782ba8adf6
+run_name: wise-hare-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928623742
+status: 3
+tags: []
+user_id: runner

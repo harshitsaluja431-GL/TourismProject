@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/8309b5b8fad64686a9ee52fecfbd256e/artifacts
+end_time: 1764928601924
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 8309b5b8fad64686a9ee52fecfbd256e
+run_name: dazzling-steed-231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601905
+status: 3
+tags: []
+user_id: runner

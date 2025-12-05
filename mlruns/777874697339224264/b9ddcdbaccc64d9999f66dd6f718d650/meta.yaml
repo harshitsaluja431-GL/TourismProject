@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/b9ddcdbaccc64d9999f66dd6f718d650/artifacts
+end_time: 1764928598597
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: b9ddcdbaccc64d9999f66dd6f718d650
+run_name: worried-hawk-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928598581
+status: 3
+tags: []
+user_id: runner

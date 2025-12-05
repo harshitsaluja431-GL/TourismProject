@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/9fdc5876d6ed4411a6f76aafe181d49e/artifacts
+end_time: 1764928624954
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 9fdc5876d6ed4411a6f76aafe181d49e
+run_name: sedate-slug-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928624920
+status: 3
+tags: []
+user_id: runner

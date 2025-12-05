@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/a6cf438a4eb44230a428988302041e7f/artifacts
+end_time: 1764928618421
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: a6cf438a4eb44230a428988302041e7f
+run_name: learned-fawn-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928618391
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/74353ddc9a7c4edbad287137057d7287/artifacts
+end_time: 1764928601688
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 74353ddc9a7c4edbad287137057d7287
+run_name: delicate-horse-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928601669
+status: 3
+tags: []
+user_id: runner

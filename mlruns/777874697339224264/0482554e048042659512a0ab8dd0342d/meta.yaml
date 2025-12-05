@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/0482554e048042659512a0ab8dd0342d/artifacts
+end_time: 1764928597066
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 0482554e048042659512a0ab8dd0342d
+run_name: bustling-donkey-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597052
+status: 3
+tags: []
+user_id: runner

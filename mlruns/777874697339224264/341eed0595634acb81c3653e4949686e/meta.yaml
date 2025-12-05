@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/341eed0595634acb81c3653e4949686e/artifacts
+end_time: 1764928623521
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 341eed0595634acb81c3653e4949686e
+run_name: sincere-penguin-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928623487
+status: 3
+tags: []
+user_id: runner

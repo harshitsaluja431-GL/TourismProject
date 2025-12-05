@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/10922a52377f4e48afc182046a7d2f18/artifacts
+end_time: 1764928597864
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 10922a52377f4e48afc182046a7d2f18
+run_name: polite-dolphin-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928597848
+status: 3
+tags: []
+user_id: runner

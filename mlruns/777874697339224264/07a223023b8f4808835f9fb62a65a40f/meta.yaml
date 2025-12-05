@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/07a223023b8f4808835f9fb62a65a40f/artifacts
+end_time: 1764928605754
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 07a223023b8f4808835f9fb62a65a40f
+run_name: fun-fawn-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928605732
+status: 3
+tags: []
+user_id: runner

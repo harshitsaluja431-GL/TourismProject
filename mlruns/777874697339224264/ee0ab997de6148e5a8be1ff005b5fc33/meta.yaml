@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/ee0ab997de6148e5a8be1ff005b5fc33/artifacts
+end_time: 1764928615539
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: ee0ab997de6148e5a8be1ff005b5fc33
+run_name: indecisive-steed-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928615510
+status: 3
+tags: []
+user_id: runner

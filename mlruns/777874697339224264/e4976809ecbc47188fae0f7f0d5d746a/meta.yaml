@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/e4976809ecbc47188fae0f7f0d5d746a/artifacts
+end_time: 1764928625326
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: e4976809ecbc47188fae0f7f0d5d746a
+run_name: stately-vole-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928625292
+status: 3
+tags: []
+user_id: runner

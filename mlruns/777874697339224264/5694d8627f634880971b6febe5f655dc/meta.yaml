@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/5694d8627f634880971b6febe5f655dc/artifacts
+end_time: 1764928596237
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 5694d8627f634880971b6febe5f655dc
+run_name: debonair-ox-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928596223
+status: 3
+tags: []
+user_id: runner

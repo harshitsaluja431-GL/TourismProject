@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/TourismProject/TourismProject/mlruns/777874697339224264/2d8c971cd15c43a8a95699aab716c66f/artifacts
+end_time: 1764928603969
+entry_point_name: ''
+experiment_id: '777874697339224264'
+lifecycle_stage: active
+run_id: 2d8c971cd15c43a8a95699aab716c66f
+run_name: rare-pug-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764928603948
+status: 3
+tags: []
+user_id: runner
