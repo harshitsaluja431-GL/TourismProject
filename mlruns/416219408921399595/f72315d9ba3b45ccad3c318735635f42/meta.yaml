@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/f72315d9ba3b45ccad3c318735635f42/artifacts
+end_time: 1764927906918
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: f72315d9ba3b45ccad3c318735635f42
+run_name: silent-mink-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927906838
+status: 3
+tags: []
+user_id: root

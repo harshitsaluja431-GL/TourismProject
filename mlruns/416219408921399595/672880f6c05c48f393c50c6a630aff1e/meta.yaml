@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/672880f6c05c48f393c50c6a630aff1e/artifacts
+end_time: 1764927904179
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 672880f6c05c48f393c50c6a630aff1e
+run_name: wistful-fish-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927904085
+status: 3
+tags: []
+user_id: root

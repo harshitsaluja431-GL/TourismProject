@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/3b393d5ba69d4081b69cf9b28251cb72/artifacts
+end_time: 1764927894355
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 3b393d5ba69d4081b69cf9b28251cb72
+run_name: bustling-ram-975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927894283
+status: 3
+tags: []
+user_id: root

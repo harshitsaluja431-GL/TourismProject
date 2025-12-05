@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/fec946fc4d43486dbc4be5a1f6be74ff/artifacts
+end_time: 1764927910310
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: fec946fc4d43486dbc4be5a1f6be74ff
+run_name: stylish-trout-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927836849
+status: 3
+tags: []
+user_id: root

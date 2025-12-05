@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/5c1d281f2e6247c0ad5bc84b85e6fc05/artifacts
+end_time: 1764927892850
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 5c1d281f2e6247c0ad5bc84b85e6fc05
+run_name: stylish-moose-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927892758
+status: 3
+tags: []
+user_id: root

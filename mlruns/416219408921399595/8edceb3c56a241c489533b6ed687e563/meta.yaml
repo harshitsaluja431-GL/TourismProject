@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/8edceb3c56a241c489533b6ed687e563/artifacts
+end_time: 1764927907269
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 8edceb3c56a241c489533b6ed687e563
+run_name: omniscient-duck-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927907175
+status: 3
+tags: []
+user_id: root

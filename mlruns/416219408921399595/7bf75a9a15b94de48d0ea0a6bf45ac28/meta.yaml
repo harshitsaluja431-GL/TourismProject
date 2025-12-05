@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/7bf75a9a15b94de48d0ea0a6bf45ac28/artifacts
+end_time: 1764927906292
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 7bf75a9a15b94de48d0ea0a6bf45ac28
+run_name: entertaining-pug-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927906210
+status: 3
+tags: []
+user_id: root

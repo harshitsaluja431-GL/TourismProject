@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/2c1d6dd372654f248814aafd050a6ae2/artifacts
+end_time: 1764927905860
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 2c1d6dd372654f248814aafd050a6ae2
+run_name: handsome-bat-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927905778
+status: 3
+tags: []
+user_id: root

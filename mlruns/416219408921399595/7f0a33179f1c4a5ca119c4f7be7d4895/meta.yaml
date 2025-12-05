@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/7f0a33179f1c4a5ca119c4f7be7d4895/artifacts
+end_time: 1764927903513
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 7f0a33179f1c4a5ca119c4f7be7d4895
+run_name: sincere-finch-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927903431
+status: 3
+tags: []
+user_id: root

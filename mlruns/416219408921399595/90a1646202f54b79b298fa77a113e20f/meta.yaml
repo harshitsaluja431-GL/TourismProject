@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/90a1646202f54b79b298fa77a113e20f/artifacts
+end_time: 1764927907373
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 90a1646202f54b79b298fa77a113e20f
+run_name: gregarious-conch-791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927907290
+status: 3
+tags: []
+user_id: root

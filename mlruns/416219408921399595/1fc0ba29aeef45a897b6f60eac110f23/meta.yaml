@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/1fc0ba29aeef45a897b6f60eac110f23/artifacts
+end_time: 1764927904530
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 1fc0ba29aeef45a897b6f60eac110f23
+run_name: learned-lamb-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927904441
+status: 3
+tags: []
+user_id: root

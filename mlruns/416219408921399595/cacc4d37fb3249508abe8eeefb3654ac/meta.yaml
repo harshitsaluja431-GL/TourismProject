@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/cacc4d37fb3249508abe8eeefb3654ac/artifacts
+end_time: 1764927899797
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: cacc4d37fb3249508abe8eeefb3654ac
+run_name: unruly-tern-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927899640
+status: 3
+tags: []
+user_id: root

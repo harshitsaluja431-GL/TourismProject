@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/48c60d5a0c94412e94aa84fbd6091aed/artifacts
+end_time: 1764927902864
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 48c60d5a0c94412e94aa84fbd6091aed
+run_name: blushing-crab-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927902683
+status: 3
+tags: []
+user_id: root

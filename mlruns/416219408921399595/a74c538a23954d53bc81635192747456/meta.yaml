@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/a74c538a23954d53bc81635192747456/artifacts
+end_time: 1764927905338
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: a74c538a23954d53bc81635192747456
+run_name: debonair-skunk-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927905246
+status: 3
+tags: []
+user_id: root

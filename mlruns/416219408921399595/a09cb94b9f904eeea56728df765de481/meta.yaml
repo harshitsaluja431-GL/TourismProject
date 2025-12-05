@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/a09cb94b9f904eeea56728df765de481/artifacts
+end_time: 1764927907781
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: a09cb94b9f904eeea56728df765de481
+run_name: illustrious-grub-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927907700
+status: 3
+tags: []
+user_id: root

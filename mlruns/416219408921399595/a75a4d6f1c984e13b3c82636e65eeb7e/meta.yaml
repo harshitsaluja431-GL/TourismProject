@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/a75a4d6f1c984e13b3c82636e65eeb7e/artifacts
+end_time: 1764927901713
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: a75a4d6f1c984e13b3c82636e65eeb7e
+run_name: burly-turtle-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927901535
+status: 3
+tags: []
+user_id: root

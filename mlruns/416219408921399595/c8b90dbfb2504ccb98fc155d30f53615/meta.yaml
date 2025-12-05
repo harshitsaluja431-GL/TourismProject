@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/c8b90dbfb2504ccb98fc155d30f53615/artifacts
+end_time: 1764927910176
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: c8b90dbfb2504ccb98fc155d30f53615
+run_name: traveling-swan-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927910093
+status: 3
+tags: []
+user_id: root

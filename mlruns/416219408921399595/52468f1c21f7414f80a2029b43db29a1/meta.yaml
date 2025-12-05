@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/52468f1c21f7414f80a2029b43db29a1/artifacts
+end_time: 1764927896722
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 52468f1c21f7414f80a2029b43db29a1
+run_name: sedate-bat-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927896555
+status: 3
+tags: []
+user_id: root

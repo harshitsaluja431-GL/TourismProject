@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/6c3379463ccb4a3881ed8d20b976b8af/artifacts
+end_time: 1764927902658
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 6c3379463ccb4a3881ed8d20b976b8af
+run_name: delicate-mouse-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927902576
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/3c9f0dbe71794f609e36f05ac38fc65b/artifacts
+end_time: 1764927901915
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 3c9f0dbe71794f609e36f05ac38fc65b
+run_name: painted-boar-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927901830
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/4ad1221778874c368101a45ecda7be6d/artifacts
+end_time: 1764927909096
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 4ad1221778874c368101a45ecda7be6d
+run_name: chill-boar-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927909013
+status: 3
+tags: []
+user_id: root

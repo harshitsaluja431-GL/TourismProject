@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/2820a05668184bd9853ea5be42b547b9/artifacts
+end_time: 1764927906713
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 2820a05668184bd9853ea5be42b547b9
+run_name: kindly-chimp-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927906627
+status: 3
+tags: []
+user_id: root

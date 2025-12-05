@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/692578653f8843c1bd39409ac063a658/artifacts
+end_time: 1764927903081
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 692578653f8843c1bd39409ac063a658
+run_name: masked-ray-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927902995
+status: 3
+tags: []
+user_id: root

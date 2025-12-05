@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/775abe26f4fb4ad98447f8b2fda46819/artifacts
+end_time: 1764927903621
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 775abe26f4fb4ad98447f8b2fda46819
+run_name: gifted-shad-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927903540
+status: 3
+tags: []
+user_id: root

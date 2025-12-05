@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/60a52ccd53ce42f9b59a6bff75dd7fd2/artifacts
+end_time: 1764927898059
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 60a52ccd53ce42f9b59a6bff75dd7fd2
+run_name: puzzled-koi-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927897964
+status: 3
+tags: []
+user_id: root

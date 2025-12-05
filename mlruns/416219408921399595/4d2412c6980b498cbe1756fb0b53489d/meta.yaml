@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/4d2412c6980b498cbe1756fb0b53489d/artifacts
+end_time: 1764927904297
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 4d2412c6980b498cbe1756fb0b53489d
+run_name: rare-stork-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927904206
+status: 3
+tags: []
+user_id: root

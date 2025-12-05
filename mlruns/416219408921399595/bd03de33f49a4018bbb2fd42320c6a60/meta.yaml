@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/bd03de33f49a4018bbb2fd42320c6a60/artifacts
+end_time: 1764927899176
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: bd03de33f49a4018bbb2fd42320c6a60
+run_name: omniscient-sloth-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927899092
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/2ee0d99dfde84a2e9b17ca687db8076b/artifacts
+end_time: 1764927898954
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 2ee0d99dfde84a2e9b17ca687db8076b
+run_name: funny-shark-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927898840
+status: 3
+tags: []
+user_id: root

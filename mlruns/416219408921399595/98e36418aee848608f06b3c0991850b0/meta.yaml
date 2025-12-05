@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/98e36418aee848608f06b3c0991850b0/artifacts
+end_time: 1764927903837
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 98e36418aee848608f06b3c0991850b0
+run_name: monumental-tern-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927903744
+status: 3
+tags: []
+user_id: root

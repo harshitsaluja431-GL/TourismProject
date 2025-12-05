@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/f77a2d3361914ad79d315ba08827dba7/artifacts
+end_time: 1764927908244
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: f77a2d3361914ad79d315ba08827dba7
+run_name: exultant-doe-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927908143
+status: 3
+tags: []
+user_id: root

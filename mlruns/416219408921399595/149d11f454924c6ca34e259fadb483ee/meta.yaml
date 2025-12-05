@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/149d11f454924c6ca34e259fadb483ee/artifacts
+end_time: 1764927892962
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: 149d11f454924c6ca34e259fadb483ee
+run_name: intrigued-mare-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927892872
+status: 3
+tags: []
+user_id: root

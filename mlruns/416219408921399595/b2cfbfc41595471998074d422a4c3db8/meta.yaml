@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/b2cfbfc41595471998074d422a4c3db8/artifacts
+end_time: 1764927899432
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: b2cfbfc41595471998074d422a4c3db8
+run_name: delightful-kit-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927899314
+status: 3
+tags: []
+user_id: root

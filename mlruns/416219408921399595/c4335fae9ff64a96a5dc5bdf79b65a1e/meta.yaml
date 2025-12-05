@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/c4335fae9ff64a96a5dc5bdf79b65a1e/artifacts
+end_time: 1764927901228
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: c4335fae9ff64a96a5dc5bdf79b65a1e
+run_name: gregarious-shoat-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927901145
+status: 3
+tags: []
+user_id: root

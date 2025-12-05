@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416219408921399595/ddafb79284dc42e9bacb704cb2ecd80a/artifacts
+end_time: 1764927908782
+entry_point_name: ''
+experiment_id: '416219408921399595'
+lifecycle_stage: active
+run_id: ddafb79284dc42e9bacb704cb2ecd80a
+run_name: rogue-wasp-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764927908697
+status: 3
+tags: []
+user_id: root
